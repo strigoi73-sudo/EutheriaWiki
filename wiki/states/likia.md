@@ -1,24 +1,52 @@
 # Likia
 
-Likia is a Likian-culture naval state controlling most of the Central Island Chain and a narrow coastal strip of northern Kasmora.
+Likia is the most strategically important naval state in Eutheria. Despite its modest territorial scale, its control of most of the Central Island Chain and a narrow strip of northern Kasmoran coast allows it to exert influence over intercontinental trade far out of proportion to its population or land area.
 
-## Strategic significance
-
-Despite modest territorial size, Likia is the most strategically positioned naval state in Eutheria. Its control of the strait between Valthera and Kasmora gives it outsized influence over intercontinental trade.
-
-- Reported population: approximately **898,000**.
-- Core advantage: control of sea routes across Oceanus Centralis.
-- Southern approach routes include waters influenced by [Haria](haria.md) and [Kingdom of Hawa](hawa.md).
+Its power rests on geography before anything else. The islands and ports under Likian control sit across the principal maritime routes linking Valthera, Nereth, and Kasmora through Oceanus Centralis. As a result, Likia does not need to dominate the continents directly to shape continental politics. Control of passage, customs, convoy security, and naval access is enough.
 
 ## Historical position
 
-Likia was founded at **0 LC (Likian Calendar)**, the founding event that established the calendar now used internationally.
+Likia was founded at **0 LC (Likian Calendar)**, the peaceful formal declaration of independence that later became the chronological starting point used across much of the known world.
 
-## Regional conflicts
+Its rise was gradual rather than explosive. Isolated from the Kasmoran agricultural interior by the northern mountain belt, the early Likian polity turned outward to the sea. Over time it expanded across the island chain, established fortified ports and naval bases, and transformed command of maritime routes into lasting political leverage.
 
-The Likian-Dukan war (874-876 LC) ended in Dukanese territorial gains at heavy cost.
+Likia's dominance was tested most seriously during the long Valtheran naval conflict. The decisive defeat of the Kingdom of Xin Guo and the later creation of the See of Xin Guo ended the last sustained challenge to Likian naval supremacy and established the cold peace that still governs much of Valthera's relationship with the strait.
 
-Postwar, Likia maintained naval pressure through blockade of Dukanese ports and remained central to the regional maritime balance.
+## Government and internal politics
+
+Likia is commercially dominant, politically stable, and strategically cautious. Its institutions are durable enough that outside powers often experience the state as predictable, but internally its politics are active and structured by organized factional competition rather than by unanimity.
+
+A central feature of Likian society is the **guild system**. Guilds do more than regulate trade. They train professionals, set standards, arbitrate disputes, and provide ordinary Likians with practical protections in daily economic life. This gives the state an institutional depth that outsiders sometimes underestimate: Likian power does not depend on the fleet alone, but on the civic machinery that keeps the fleet supplied, financed, and socially embedded.
+
+At present, no single political tendency governs uncontested. Administrative, mercantile, and military interests all matter, and policy emerges through bargaining among entrenched institutions rather than through simple personal rule. This helps explain both Likia's stability and its caution. The state is powerful, but it is powerful in ways designed to preserve an advantageous system rather than gamble it on reckless expansion.
+
+## Strategic significance
+
+Likia's core advantage is control of sea routes across Oceanus Centralis. That advantage shapes the behavior of stronger territorial powers around it.
+
+- Trade between Valthera and Kasmora moves under Likian observation or within waters Likia can influence.
+- Naval challengers must contend not only with the Likian fleet but with fortified island positions and a maritime system built around patrol, logistics, and route control.
+- Powers that dislike Likian dominance usually adapt to it rather than confront it directly, because the cost of bypassing the island chain is high in time, risk, and lost commercial efficiency.
+
+This geographic leverage also creates constraints. Likia is strongest at sea, not on land. It can regulate passage and sustain blockade pressure, but it cannot easily conquer large continental neighbors. Likian strategy therefore tends to favor managed balances, commercial leverage, and selective coercion over direct territorial empire.
+
+## Regional relationships
+
+Likia's relationships with neighboring powers are shaped by geography and necessity.
+
+**Kordemeli** is the immediate western land neighbor and the clearest illustration of Likian strategic limits. Kordemeli cannot easily destroy Likian sea power, while Likia cannot realistically reconquer major continental territories from so large a land state. The result is a tense but durable coexistence.
+
+**Valthera** remains linked to Likia through the cold peace that followed the defeat of Xin Guo. Valtheran states trade through Likian-controlled waters under Likian terms, however unwillingly.
+
+**Haria** and **Hawa** matter because southern approach routes to the strait pass through waters they can influence. Even a naval power built on chokepoint control cannot treat the wider maritime system as politically empty.
+
+**Lienia** in western Nereth has become one of Likia's most important commercial partners, especially since the disruption of older southern trade patterns after the Veltric collapse.
+
+## Society and outlook
+
+Likian society is maritime, urban-facing, and institutionally disciplined. The state is not large enough to waste people or resources casually, which reinforces habits of administration, technical competence, and long-term planning. Merchants, sailors, shipbuilders, customs officials, and guild professionals all occupy a more central social place than they would in many larger agrarian kingdoms.
+
+This produces a characteristic Likian outlook: proud, pragmatic, and rarely sentimental about power. Likia prefers arrangements that can be maintained. It does not need universal admiration. It needs the routes to keep functioning under its terms.
 
 ## Related
 
