@@ -12,11 +12,13 @@ Readers looking for a starting point should begin with the broad structural page
 - **States** covers the major powers and political systems of the present age.
 - **Religions** explains the traditions that shape law, legitimacy, and everyday practice.
 - **Cosmology** summarizes the metaphysical structure of existence in Eutheria.
-- **History**, **Cultures**, **Places**, **Peoples**, and **Glossary** will grow into more detailed reference sections over time.
+- **History**, **Cultures**, **Places**, **Peoples**, and **Glossary** provide expanding reference coverage from deep prehistory through current geopolitics.
 
 ## Recommended starting articles
 
 - [World of Eutheria](geography/world-of-eutheria.md)
+- [Chronology of Eutheria](history/chronology-of-eutheria.md)
+- [Great Catastrophe and the Battle of Trelhelm](history/great-catastrophe-and-trelhelm.md)
 - [Valthera](geography/valthera.md)
 - [Kasmora](geography/kasmora.md)
 - [Likia](states/likia.md)
