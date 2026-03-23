@@ -4,7 +4,7 @@ Sala is a major Arabic Ayedist kingdom in Kasmora whose influence rests on the c
 
 ## Political and religious character
 
-Sala's authority is inseparable from its relationship to Tuwaid through the Jora Territory. Control over access to sacred space gives the kingdom a form of soft power that cannot be measured only in armies or acreage.
+Sala's authority is inseparable from its relationship to [Tuwaid](../places/tuwaid.md) through the [Jora Territory](../places/jora-territory.md). Control over access to sacred space gives the kingdom a form of soft power that cannot be measured only in armies or acreage.
 
 Because pilgrimage requires roads, protection, provisioning, and legitimacy, sacred geography in Sala becomes administrative and economic geography as well.
 
@@ -29,3 +29,5 @@ Sala demonstrates that religious influence in Eutheria is materially grounded. P
 - [Kasmora](../geography/kasmora.md)
 - [Kordemeli](kordemeli.md)
 - [Hawa](hawa.md)
+- [Tuwaid](../places/tuwaid.md)
+- [Jora Territory](../places/jora-territory.md)

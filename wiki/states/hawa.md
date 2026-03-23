@@ -6,7 +6,7 @@ The Kingdom of Hawa is Kasmora's premier Arabic maritime trading kingdom. Its st
 
 Hawa is outward-facing, cohesive, and strongly oriented toward maritime exchange. Political and economic weight are concentrated in harbor cities, fortified ports, merchant networks, and the institutions that keep seaborne trade moving efficiently.
 
-Its capital, **Ashaybar**, is both a major fortified port and the largest capital city in Kasmora, reflecting the degree to which Hawan power is concentrated in urban maritime infrastructure.
+Its capital, **Ashaybar**, is both a major fortified port and the largest capital city in Kasmora, reflecting the degree to which Hawan power is concentrated in urban maritime infrastructure. See [Ashaybar](../places/ashaybar.md) for place-level detail.
 
 ## Maritime strategy
 
@@ -29,4 +29,5 @@ Hawa matters because it converts maritime competence into regional weight. In a 
 - [Kasmora](../geography/kasmora.md)
 - [Haria](haria.md)
 - [Likia](likia.md)
+- [Ashaybar](../places/ashaybar.md)
 - [Sala](sala.md)

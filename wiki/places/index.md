@@ -1,15 +1,11 @@
 # Places
 
-Places in Eutheria range from capitals and ports to sacred centers, fortified passes, islands, monasteries, and frontier settlements. Some matter because of size or wealth; others because they sit at a strategic or religious hinge point that shapes a much larger region.
+Places in Eutheria range from capitals and ports to sacred centers and strategic corridors. Some matter because of scale; others because they anchor political or religious systems far larger than themselves.
 
-This section will catalogue those locations as distinct articles, emphasizing what makes each place important in practice: who lives there, why it exists where it does, what flows through it, and how it fits into wider political or cultural systems.
+This section identifies places as functional nodes in the world, not just map labels.
 
-## Topics this section will cover
+## Key articles
 
-- major cities and capitals
-- ports, road junctions, and chokepoints
-- sacred sites and pilgrimage centers
-- frontier settlements and contested regions
-- landmarks whose significance is geographic, historical, or cosmological
-
-The goal is to make the map feel inhabited and explain why particular places matter beyond their position on it.
+- [Ashaybar](ashaybar.md)
+- [Tuwaid](tuwaid.md)
+- [Jora Territory](jora-territory.md)
