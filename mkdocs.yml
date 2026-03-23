@@ -1,0 +1,14 @@
+site_name: Eutheria Wiki
+docs_dir: wiki
+
+nav:
+  - Home: index.md
+  - Geography: geography/index.md
+  - History: history/index.md
+  - States: states/index.md
+  - Cultures: cultures/index.md
+  - Religions: religions/index.md
+  - Places: places/index.md
+  - Peoples: peoples/index.md
+  - Cosmology: cosmology/index.md
+  - Glossary: glossary/index.md
