@@ -16,6 +16,8 @@ Chinese-analog polities dominate much of the south, east, and northeast. Korean-
 
 The continent's most dynamic contact zones lie in the western and central uplands, where ecological transitions and difficult terrain produce long-term frontier interaction. These are not empty borders, but regions in which political competition, cultural exchange, and military pressure are all intensified.
 
+Those upland contact zones are also major religious frontier spaces. Traditions associated with Hayanguk and the Tongj Apostates show how Valtheran belief systems can emerge through prolonged interaction between Korean-analog and Dwarven populations rather than through isolated development.
+
 ## Political structure
 
 Valthera is best understood as a system of strong regional powers whose competition is constrained by geography. No single state can easily command all the continental centers of population, upland barriers, and transport corridors at once. Even successful expansion tends to produce overextension rather than stable hegemony.
