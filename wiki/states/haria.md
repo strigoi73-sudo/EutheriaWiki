@@ -1,24 +1,28 @@
 # Haria
 
-Haria is the principal Berber kingdom of Kasmora and the main political center of Berber civilization in the inhabited world.
+Haria is the principal Berber kingdom of Kasmora and the foremost political center of Berber civilization in the inhabited world. It is a large and culturally cohesive state whose strength rests not only on territory and coastline, but on the fact that it stands as a civilizational core rather than a marginal regional power.
 
-## Character
+## Political character
 
-Haria is a large, culturally cohesive state whose identity is grounded in Berber civilizational centrality.
+Haria's identity is grounded in Berber centrality. It is not merely a kingdom with a Berber majority, but a state widely understood as the principal political expression of Berber civilization itself.
 
-Its maritime leverage is significant, but secondary to its role as a major Berber kingdom.
+That gives Haria a kind of legitimacy different from states whose strength depends mainly on conquest or commercial advantage. Its authority is partly territorial, but also symbolic and cultural.
 
 ## Religion
 
-Haria's dominant religion is Delistanism in a non-theocratic, community-led form.
+Haria's dominant religion is Delistanism in a non-theocratic, community-led form. This is one of the clearest examples in Eutheria of how the same broader religious tradition can produce very different political outcomes depending on the institutions and civilizational habits that carry it.
 
-This contrasts with the [Dukanese Theocracy](dukan.md), where Delistanism is fused to coercive clerical state rule.
+Haria's Delistanism contrasts sharply with that of the [Dukanese Theocracy](dukan.md), where religion is fused to coercive clerical rule.
 
-## Strategic position
+## Maritime and regional position
 
-Haria holds a long southeastern Kasmoran coastline and influences southern sea routes, including waters used by [Kingdom of Hawa](hawa.md) to reach [Likia](likia.md).
+Haria holds a long southeastern Kasmoran coastline and exerts significant influence over southern sea routes. That maritime leverage matters especially because it affects the routes used by the [Kingdom of Hawa](hawa.md) to reach [Likia](likia.md) and the wider strait system.
 
-Haria is therefore a culturally central and regionally assertive coastal power.
+Haria is therefore more than a large inland kingdom with a coast. It is a culturally central and regionally assertive power with direct influence over the terms of southern maritime movement.
+
+## Strategic significance
+
+Haria's importance lies in the combination of civilizational weight, coastal reach, and religious distinction. It helps define what Berber power looks like in Kasmora while also serving as a counterpoint to more coercive political uses of Delistanism.
 
 ## Related
 
