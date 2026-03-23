@@ -1,28 +1,40 @@
 # Dukanese Theocracy
 
-The Dukanese Theocracy is a large theocratic state in eastern Kasmora ruled by the Hierophant, whose office combines clerical and royal authority.
+The Dukanese Theocracy is a large clerical state in eastern Kasmora ruled by the Hierophant, whose office unites royal and religious authority. It presents itself as the purest political embodiment of Delistanism, but is widely regarded by its rivals as rigid, coercive, and ideologically expansionist.
 
-## Character
+## Political character
 
-Dukan presents itself as the purest Delistanist state, but it is widely regarded as rigid, oppressive, and ideologically expansionist.
+Dukan claims legitimacy through religious purity and centralized clerical sovereignty. In practice, this gives the state a strong ideological core but also imposes structural strain. A regime that insists on doctrinal authority in all things can command intense obedience, yet it also narrows its room for compromise and multiplies the cost of internal dissent.
 
-It remains one of Kasmora's largest powers, though its authority is constrained by internal resistance and difficult borderlands.
+This tension helps explain why Dukan is both formidable and brittle: large, ambitious, and dangerous, but repeatedly burdened by the consequences of its own rigidity.
 
-## Likian-Dukan War (874-876 LC)
+## Religion and state power
 
-Dukan fought Likia from 874 to 876 LC, initially claiming to liberate Iranian populations under Likian rule.
+Dukan is the clearest example in Kasmora of Delistanism fused directly to coercive state rule. This distinguishes it sharply from [Haria](haria.md), where the same broader tradition survives in a community-led, non-theocratic form.
 
-The war's strategic driver was also economic: pressure over taxation of goods moving through Likian-controlled routes.
+The contrast is politically important. It shows that Dukan's character is not simply a product of religion in the abstract, but of a specific institutional choice to merge clerical authority with sovereignty, enforcement, and expansionist policy.
 
-Dukan won territory but suffered severe losses. Subsequent occupation demands and continued resistance weakened the Theocracy's strategic position.
+## Likian-Dukan War (874–876 LC)
+
+Dukan fought [Likia](likia.md) from 874 to 876 LC, publicly claiming to liberate Iranian populations under Likian rule. The war also had a clear strategic-economic dimension, driven in part by pressure over taxation and control of goods moving through Likian-controlled routes.
+
+Dukan won territory, but at very high cost. The burdens of war, occupation, and continued resistance weakened the Theocracy's long-term position even in victory.
 
 ## Regional dynamics
 
-[Likia](likia.md) maintains a naval blockade on Dukanese ports.
+Dukan now operates under external and internal pressure at once.
 
-[Haria](haria.md) restricts most trade into Dukan to foodstuffs and closely polices entry points.
+Likia maintains naval pressure through blockade of Dukanese ports.
 
-Dukan and Haria share Delistanism but differ sharply: Haria practices non-theocratic, community-led religion, while Dukan fuses religion with coercive state rule.
+Haria restricts most trade into Dukan to foodstuffs and closely polices entry routes.
+
+At the same time, Dukan's own ideological ambitions create friction with neighboring powers and intensify the cost of governing difficult borderlands and resistant populations.
+
+## Strategic significance
+
+Dukan remains one of Kasmora's largest powers and cannot be dismissed. But it is a state whose claims run ahead of its equilibrium. It seeks purity, command, and expansion in a regional system that repeatedly punishes overextension.
+
+That makes Dukan one of the most dangerous and unstable major powers in the setting: strong enough to reshape a region, constrained enough to do so at great cost.
 
 ## Related
 

@@ -1,22 +1,28 @@
 # Sala
 
-Sala is a major Arabic Ayedist kingdom in Kasmora whose influence rests on sacred geography, pilgrimage infrastructure, and agricultural surplus.
+Sala is a major Arabic Ayedist kingdom in Kasmora whose influence rests on the combination of sacred geography, pilgrimage infrastructure, and agricultural surplus. It is at once a religious center, a grain power, and a diplomatic actor whose importance reaches far beyond its borders.
 
-## Character
+## Political and religious character
 
-Sala controls access to Tuwaid through the Jora Territory and converts religious centrality into diplomatic and economic leverage.
+Sala's authority is inseparable from its relationship to Tuwaid through the Jora Territory. Control over access to sacred space gives the kingdom a form of soft power that cannot be measured only in armies or acreage.
 
-It is also one of Kasmora's major grain exporters and is widely treated as a continental breadbasket.
+Because pilgrimage requires roads, protection, provisioning, and legitimacy, sacred geography in Sala becomes administrative and economic geography as well.
 
-## Economy and diplomacy
+## Economy
 
-Beyond grain, Salan exports likely include other staple provisions tied to trade and pilgrimage movement.
+Sala is one of Kasmora's principal grain exporters and is widely treated as a continental breadbasket. Its agricultural surplus underwrites not only its own stability but also its regional influence.
 
-Sala's surplus supports northward exchange and helps sustain [Kordemeli](kordemeli.md), reinforcing warm bilateral ties.
+That surplus likely extends beyond grain alone into the broader provisioning networks that support trade and pilgrimage movement. Food, logistics, and sanctity reinforce one another rather than existing as separate systems.
 
-## Regional relations
+## Regional relationships
 
-Sala and [Hawa](hawa.md) are close civilizational parallels as Arabic Ayedist kingdoms, though Hawa is oriented more strongly toward southern maritime trade.
+Sala maintains especially warm ties with [Kordemeli](kordemeli.md), whose northern power benefits from Salan grain and the overland systems connected to pilgrimage traffic.
+
+It also stands as a close civilizational parallel to [Hawa](hawa.md). Both are Arabic Ayedist kingdoms, but their strengths differ: Hawa is more maritime and commercially outward-facing, while Sala's power rests more heavily on sacred centrality and agrarian abundance.
+
+## Strategic significance
+
+Sala demonstrates that religious influence in Eutheria is materially grounded. Pilgrimage routes require states, roads, food, and security. A kingdom that controls sacred access while feeding large populations acquires leverage that is at once spiritual, economic, and diplomatic.
 
 ## Related
 
