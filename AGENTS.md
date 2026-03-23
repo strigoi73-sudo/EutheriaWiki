@@ -10,3 +10,4 @@
 - Do not invent unsupported facts.
 - Prefer concise, readable Markdown.
 - Avoid duplicate articles for the same topic.
+- Interpret the instruction **"Update Wiki"** to mean: process **all** update files in `updates/inbox/`, applying each file's content to the wiki by editing existing articles and creating new ones as needed.
