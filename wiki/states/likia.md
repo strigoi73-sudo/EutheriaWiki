@@ -8,6 +8,7 @@ Despite modest territorial size, Likia is the most strategically positioned nava
 
 - Reported population: approximately **898,000**.
 - Core advantage: control of sea routes across Oceanus Centralis.
+- Southern approach routes include waters influenced by [Haria](haria.md) along southeastern Kasmora.
 
 ## Historical position
 
@@ -25,3 +26,4 @@ Likian culture is described as emerging from long intermingling between Nordic-a
 - [World of Eutheria](../geography/world-of-eutheria.md)
 - [Nereth](../geography/nereth.md)
 - [Kasmora](../geography/kasmora.md)
+- [Haria](haria.md)
