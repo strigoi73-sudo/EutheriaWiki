@@ -1,6 +1,7 @@
 # States
 
-This section covers nations, polities, and governing structures in Eutheria.
-Articles will be expanded and organized over time.
+This section covers nations and polities of Eutheria.
 
-- Articles will be added over time.
+## Articles
+
+- [Likia](likia.md)

@@ -1,6 +1,13 @@
 # Geography
 
-This section documents the physical world of Eutheria, including regions, climates, and landscapes.
-Articles will be expanded and organized over time.
+This section documents the physical world of Eutheria, including continents, climate patterns, and strategic maritime corridors.
 
-- Articles will be added over time.
+## Articles
+
+- [World of Eutheria](world-of-eutheria.md)
+- [Valthera](valthera.md)
+- [Nereth](nereth.md)
+- [Kasmora](kasmora.md)
+- [Golsta](golsta.md)
+- [Central Island Chain](central-island-chain.md)
+- [Biomes of Eutheria](biomes-of-eutheria.md)
