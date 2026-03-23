@@ -1,16 +1,25 @@
 # World of Eutheria
 
-Eutheria is a large terrestrial world with four major continents separated by **Oceanus Centralis** (the Central Ocean). Most long-distance movement and trade depends on seafaring across the Central Ocean.
+Eutheria has four major continents separated by **Oceanus Centralis**.
+
+## Canon orientation
+
+Current continental orientation is:
+
+- **Nereth** in the northeast.
+- **Golsta** in the southeast (and the smallest continent).
+- **Kasmora** in the southwest/center-left.
+- **Valthera** in the northwest above Kasmora.
 
 ## Core geographic structure
 
-- **Valthera** (northwest): lake-rich, climatically diverse, and heavily settled in its southern regions. See [Valthera](valthera.md).
+- **Valthera** (northwest): lake-rich, politically divided, and shaped by waterways and interior uplands. See [Valthera](valthera.md).
 - **Nereth** (northeast): mountainous and politically fragmented by major interior ranges. See [Nereth](nereth.md).
-- **Kasmora** (southwest): the most agriculturally productive continent, with broad plains and major rivers. See [Kasmora](kasmora.md).
-- **Golsta** (southeast): largely glacial, mountainous, and mostly uninhabitable for humanoid settlement. See [Golsta](golsta.md).
+- **Kasmora** (southwest): agrarian, populous, and politically plural, with multiple major powers. See [Kasmora](kasmora.md).
+- **Golsta** (southeast): smallest continent, primarily draconic wilderness rather than a humanoid civilizational space. See [Golsta](golsta.md).
 
 ## Oceanus Centralis and maritime routes
 
-Oceanus Centralis links all major continents through deep-water passages and island routes. Prevailing winds and currents strongly influence which sea routes are navigable in a given season.
+Oceanus Centralis links all major continents through deep-water passages and island routes.
 
 The strait between Valthera and Kasmora contains the [Central Island Chain](central-island-chain.md), a chokepoint controlled primarily by [Likia](../states/likia.md).

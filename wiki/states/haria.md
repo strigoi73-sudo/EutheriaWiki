@@ -4,21 +4,25 @@ Haria is the principal Berber kingdom of Kasmora and the main political center o
 
 ## Character
 
-Haria is a large, culturally cohesive state whose identity is grounded first in Berber civilizational centrality. Its maritime role is significant, but secondary to its position as a major Berber kingdom.
+Haria is a large, culturally cohesive state whose identity is grounded in Berber civilizational centrality.
+
+Its maritime leverage is significant, but secondary to its role as a major Berber kingdom.
 
 ## Religion
 
-Haria's dominant religion is Delistanism, expressed through a non-theocratic, community-led social order.
+Haria's dominant religion is Delistanism in a non-theocratic, community-led form.
 
-This is a useful contrast with Delistanist Dukan: Harian religious life is socially rooted rather than organized through coercive clerical rule.
+This contrasts with the [Dukanese Theocracy](dukan.md), where Delistanism is fused to coercive clerical state rule.
 
 ## Strategic position
 
-Haria occupies a long southeastern coastline in Kasmora and has leverage over southern sea routes, including waters through which Hawa must pass to reach Likia.
+Haria holds a long southeastern Kasmoran coastline and influences southern sea routes, including waters used by [Kingdom of Hawa](hawa.md) to reach [Likia](likia.md).
 
-In broad terms, Haria is a culturally central, Delistanist, outward-facing coastal kingdom: cohesive, self-confident, and more strategically assertive than Har, while distinct from theocratic Dukan.
+Haria is therefore a culturally central and regionally assertive coastal power.
 
 ## Related
 
 - [Kasmora](../geography/kasmora.md)
+- [Kingdom of Hawa](hawa.md)
+- [Dukanese Theocracy](dukan.md)
 - [Likia](likia.md)
