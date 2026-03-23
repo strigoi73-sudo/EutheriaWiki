@@ -22,3 +22,5 @@ This section focuses on major contemporary polities rather than every historical
 - [Sala](sala.md)
 - [Likia](likia.md)
 - [Hayanguk](hayanguk.md)
+- [Han Guo](han-guo.md)
+- [Quz Guo](quz-guo.md)

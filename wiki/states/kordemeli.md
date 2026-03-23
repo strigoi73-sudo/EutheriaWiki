@@ -14,7 +14,7 @@ Communities that submit and keep the peace often retain local laws, religions, a
 
 In former Likian areas, that model is especially visible. Some cities preserve municipal autonomy, while ports remain under more direct military and customs supervision. Kordemeli is therefore not simply a conquering state, but a layered one, capable of mixing indirect and direct rule according to strategic need.
 
-Much of this western Likian belt was absorbed during the Likian-Xin Guo war era, when Likia's eastern commitments left western provinces politically exposed. In several cities, local elites accepted Kordemelian supremacy in exchange for protection and civic continuity.
+Much of this western Likian belt was absorbed during the later Likian-Xin Guo rivalry period, when Likia's eastern maritime commitments left western provinces politically exposed. In several cities, local elites accepted Kordemelian supremacy in exchange for protection and civic continuity.
 
 ## Regional relationships
 

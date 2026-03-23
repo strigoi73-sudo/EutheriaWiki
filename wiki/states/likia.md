@@ -12,7 +12,7 @@ Likia was founded at **0 LC (Likian Calendar)**, the peaceful formal declaration
 
 Its rise was gradual rather than explosive. Isolated from the Kasmoran agricultural interior by the northern mountain belt, the early Likian polity turned outward to the sea. Over time it expanded across the island chain, established fortified ports and naval bases, and transformed command of maritime routes into lasting political leverage.
 
-Likia's dominance was tested most seriously during the long Valtheran naval conflict. The decisive defeat of the Kingdom of Xin Guo and the later creation of the See of Xin Guo ended the last sustained challenge to Likian naval supremacy and established the cold peace that still governs much of Valthera's relationship with the strait.
+Likia's dominance was tested most seriously during the long Likian-Xin Guo maritime rivalry. Current canon treats this as a centuries-long strategic contest with intermittent wars, embargoes, proxy struggle, piracy, and route competition rather than a single uninterrupted war. The rivalry culminated in a final major war in the eighth century LC, ending with Likian victory and the later creation of the See of Xin Guo, which established the cold peace that still governs much of Valthera's relationship with the strait.
 
 ## Government and internal politics
 
@@ -38,7 +38,7 @@ Likia's relationships with neighboring powers are shaped by geography and necess
 
 **Kordemeli** is the immediate western land neighbor and the clearest illustration of Likian strategic limits. Kordemeli cannot easily destroy Likian sea power, while Likia cannot realistically reconquer major continental territories from so large a land state. The result is a tense but durable coexistence.
 
-**Valthera** remains linked to Likia through the cold peace that followed the defeat of Xin Guo. Valtheran states trade through Likian-controlled waters under Likian terms, however unwillingly.
+**Valthera** remains linked to Likia through the cold peace that followed the final Xin Guo defeat. Valtheran states trade through Likian-controlled waters under Likian terms, however unwillingly, including major republics such as [Han Guo](han-guo.md).
 
 **Haria** and **Hawa** matter because southern approach routes to the strait pass through waters they can influence. Even a naval power built on chokepoint control cannot treat the wider maritime system as politically empty.
 
