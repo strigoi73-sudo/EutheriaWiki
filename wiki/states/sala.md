@@ -24,6 +24,8 @@ It also stands as a close civilizational parallel to [Hawa](hawa.md). Both are A
 
 Sala demonstrates that religious influence in Eutheria is materially grounded. Pilgrimage routes require states, roads, food, and security. A kingdom that controls sacred access while feeding large populations acquires leverage that is at once spiritual, economic, and diplomatic.
 
+Current canon also treats Jalim and Salahrah as Ayedist; older references labeling them otherwise are considered outdated.
+
 ## Related
 
 - [Kasmora](../geography/kasmora.md)

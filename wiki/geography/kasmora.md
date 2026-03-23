@@ -48,7 +48,7 @@ Agrarian interiors, pilgrimage routes, maritime corridors, frontier mountain zon
 
 Kasmora is the clearest example in Eutheria of a world region where abundance produces plural power instead of imperial simplicity. Its states compete, align, and pressure one another continuously, but the continent remains structurally multipolar.
 
-That makes Kasmora both one of the richest regions in the world and one of the most politically consequential. Whoever wishes to understand the balance of power in Eutheria must understand Kasmora.
+That makes Kasmora both one of the richest regions in the world and one of the most politically consequential. Whoever wishes to understand the balance of power in Eutheria must understand Kasmora, whose demographic and economic weight makes it a quietly emerging center of gravity.
 
 ## Related
 
