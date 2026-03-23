@@ -1,6 +1,14 @@
 # States
 
-This section covers nations, polities, and governing structures in Eutheria.
-Articles will be expanded and organized over time.
+This section covers nations and polities of Eutheria.
 
-- Articles will be added over time.
+## Articles
+
+- [Commonwealth of Sipharan](sipharan.md)
+- [Kingdom of Har](har.md)
+- [Haria](haria.md)
+- [Kingdom of Hawa](hawa.md)
+- [Dukanese Theocracy](dukan.md)
+- [Kordemeli](kordemeli.md)
+- [Sala](sala.md)
+- [Likia](likia.md)
