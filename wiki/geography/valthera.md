@@ -1,38 +1,52 @@
 # Valthera
 
-Valthera is the northwestern continent of Eutheria, a large northern landmass defined by glaciated extremes, lake-rich interiors, rugged uplands, and a long-standing balance among several strong regional powers. It is fragmented, but not weak. The continent's geography encourages the rise of durable states while making stable continental unification unusually difficult.
+Valthera is the northwestern continent of Eutheria, shaped by cold northern extremes, lake-rich interiors, rugged uplands, and politically divided lowland cores. It is one of the world's major civilizational theaters, but one that has resisted lasting continental unification.
 
-## Physical geography
+## Physical character
 
-The far north is dominated by glacial and subarctic conditions, limiting dense settlement and concentrating sustained political life farther south. Southward, the continent opens into temperate forests, plains, lake districts, and agricultural basins capable of supporting large populations and long-distance exchange.
+Valthera combines severe and temperate zones in a single connected system. The far north is glacial and subarctic, while the south and southeast open into forests, plains, wetlands, and productive agricultural basins.
 
-Interior highlands and mountain systems break Valthera into connected but distinct regional zones. These barriers do not fully isolate the continent, but they do channel movement through specific valleys, water corridors, and frontier belts. Lakes and rivers are therefore not secondary features of Valtheran geography. They are major transport routes, economic arteries, and strategic boundaries.
+Its most defining structural feature is inland water. Lakes, branching rivers, and broken coastlines are primary trade and movement arteries, not secondary geography.
 
-## Peoples and settlement
+Central uplands and mountain systems divide the continent into connected regional worlds. These barriers create corridors, chokepoints, and defensible frontiers that make consolidation difficult and regional power durable.
 
-Valthera is structured by the coexistence of several major civilizational blocs.
+## Settlement and economy
 
-Chinese-analog polities dominate much of the south, east, and northeast. Korean-analog states are concentrated more strongly in the west. Dwarven populations occupy important highland and mountain zones where control of upland corridors, passes, and mineral regions gives them influence beyond their numbers.
+Dense settlement clusters in southern lowlands, river valleys, lake margins, and coastal belts. Northern zones are more sparsely inhabited, while interior uplands support fortified settlements, mining communities, and pass-oriented strongholds.
 
-The continent's most dynamic contact zones lie in the western and central uplands, where ecological transitions and difficult terrain produce long-term frontier interaction. These are not empty borders, but regions in which political competition, cultural exchange, and military pressure are all intensified.
+Because of this geography, Valtheran exchange relies heavily on waterways. Control of harbors, river mouths, lake routes, and internal corridors is often more important than raw land area.
 
-Those upland contact zones are also major religious frontier spaces. Traditions associated with Hayanguk and the Tongj Apostates show how Valtheran belief systems can emerge through prolonged interaction between Korean-analog and Dwarven populations rather than through isolated development.
+## Civilizational structure
 
-## Political structure
+Valthera is organized around three major cultural blocs:
 
-Valthera is best understood as a system of strong regional powers whose competition is constrained by geography. No single state can easily command all the continental centers of population, upland barriers, and transport corridors at once. Even successful expansion tends to produce overextension rather than stable hegemony.
+- Chinese-analog polities in much of the south, east, and northeast
+- Korean-analog states concentrated in the west
+- Dwarven highland populations occupying key interior mountain systems
 
-This does not mean Valthera lacks large-scale politics. On the contrary, the continent is one of Eutheria's major political theaters. But its politics typically take the form of rivalry, balancing, and limited spheres of dominance rather than durable continental unity.
+These blocs create a contact-continent pattern. Political life is shaped by sustained interaction across boundaries, not by sealed civilizational zones.
 
-## Maritime limitation and strategic outlook
+## Religion and frontier contact
 
-Valtheran states are also shaped by an external limit: the strait order dominated by [Likia](../states/likia.md). Likian control of the Central Island Chain constrains southern oceanic expansion and pushes Valtheran powers away from dreams of open maritime supremacy.
+Western and central uplands are active exchange frontiers where religion, culture, and state formation overlap. Traditions associated with [Hayanguk](../states/hayanguk.md) and the [Tongj Apostates](../religions/tongj-apostates.md) illustrate how long-duration Korean-Dwarven contact can produce distinct religious developments.
 
-As a result, Valtheran strategy tends to focus on interior waters, overland corridors, regional influence, and control of the continent's own transport systems. The sea matters greatly to Valthera, but often on terms that Valtherans do not fully control.
+Valthera is therefore not best read as neatly separated faith regions. Mountain frontiers are zones of reinterpretation, selective synthesis, and recurring tension.
+
+## Political pattern
+
+Valthera is fragmented but not weak. It contains multiple major states, yet no durable continental hegemon. This pattern reflects geography more than civilizational stagnation: waterways create rival power centers, mountain systems hinder inland consolidation, and ethnocultural distribution complicates absorption.
+
+Its politics usually take the form of balancing, rivalry, and regional spheres of influence rather than continental empire.
+
+## The Likian constraint
+
+Valthera's external strategic ceiling is set by [Likia](../states/likia.md) and the strait order around the [Central Island Chain](central-island-chain.md). Southern maritime supremacy remains constrained by this order, even for strong Valtheran naval states.
+
+This pressure redirects competition inward and sideways: internal water control, border rivalry, proxy influence, and corridor dominance matter more than open bids for oceanic mastery.
 
 ## Historical character
 
-The long-term character of Valthera is one of durable plurality. It is large enough to produce major states, rich enough to sustain them, and divided enough to keep them in persistent competition. That combination gives the continent unusual strategic depth and makes it one of the most consequential regions in the known world.
+Valthera has deep historical memory, but its modern political form is better explained by enduring structure than by any single ancient event. Terrain, civilizational distribution, and maritime limits remain the best guides to understanding the continent in 1026 LC.
 
 ## Related
 
@@ -40,4 +54,7 @@ The long-term character of Valthera is one of durable plurality. It is large eno
 - [Nereth](nereth.md)
 - [Kasmora](kasmora.md)
 - [Likia](../states/likia.md)
+- [Hayanguk](../states/hayanguk.md)
+- [Tongj Apostates](../religions/tongj-apostates.md)
+- [Central Island Chain](central-island-chain.md)
 - [Biomes of Eutheria](biomes-of-eutheria.md)

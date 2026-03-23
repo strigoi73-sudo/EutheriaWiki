@@ -14,3 +14,4 @@ This section documents religions as lived and institutional systems: what they t
 ## Articles
 
 - [Rawranism](rawranism.md)
+- [Tongj Apostates](tongj-apostates.md)
