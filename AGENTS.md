@@ -1,7 +1,6 @@
-# Repository Agent Instructions
+# EutheriaWiki Agent Guide
 
-- Maintain this repository as a Markdown wiki.
-- The wiki content lives in `wiki/`.
+- The wiki lives in `wiki/`.
 - Update documents live in `updates/inbox/`.
 - Processed update documents may be moved to `updates/processed/`.
 - Update existing articles when possible.
