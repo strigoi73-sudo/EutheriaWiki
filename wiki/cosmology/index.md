@@ -11,6 +11,7 @@ This section records the core metaphysical framework of the setting in reference
 - the **Material Plane** exists in equilibrium among larger alignment forces
 - the cycle of mortal life, death, and postmortem transformation is central to understanding souls
 - the **Kenoma** and the **Outer Gods** represent something beyond destruction within the ordinary cosmic order
+- divine and arcane spellcasting are structured consequences of cosmic architecture
 
 ## Articles
 
@@ -18,3 +19,4 @@ This section records the core metaphysical framework of the setting in reference
 - [The Planes](planes.md)
 - [Souls and the Cycle of Existence](souls-cycle.md)
 - [The Kenoma and the Outer Gods](kenoma-and-outer-gods.md)
+- [Divine Power and Magic](divine-power-and-magic.md)

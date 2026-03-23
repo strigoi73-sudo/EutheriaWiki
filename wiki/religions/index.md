@@ -14,5 +14,8 @@ This section documents religions as lived and institutional systems: what they t
 ## Articles
 
 - [Rawranism](rawranism.md)
+- [Ayedism](ayedism.md)
+- [Delistanism](delistanism.md)
 - [Taizhouism](taizhouism.md)
 - [Tongj Apostates](tongj-apostates.md)
+- [Eastern Nereth Religious Landscape](eastern-nereth-religious-landscape.md)
