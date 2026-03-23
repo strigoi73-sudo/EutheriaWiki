@@ -1,12 +1,14 @@
 # Commonwealth of Sipharan
 
-The Commonwealth of Sipharan is a neutral, fellowship-shaped republic in southern Kasmora whose civic identity is deeply intertwined with [Rawranism](../religions/rawranism.md). It is not one of the continent's dominant military powers, but it exercises influence through institutions that other states repeatedly find useful: schools, archives, arbitration, legal scholarship, and the preservation of legitimacy through memory and procedure.
+The Commonwealth of Sipharan is a fellowship-shaped republic in southern Kasmora whose civic identity is deeply intertwined with [Rawranism](../religions/rawranism.md). Though small (about 851,000 people across 10 burgs), it remains politically durable through federal institutions and cohesive civic culture.
 
 ## Political character
 
 Sipharan is a federated commonwealth composed of republics, cantons, territories, and related autonomous units. Its authority is distributed, institutional, and procedural rather than dynastic or overtly imperial.
 
 This structure reflects more than constitutional preference. It expresses a broader civic culture in which legitimacy is grounded in ordered fellowship, public reasoning, and the maintenance of institutions capable of outlasting any one leader.
+
+The commonwealth includes multiple self-governing provincial forms (including republics and cantons) coordinated through federal institutions rather than feudal hierarchy.
 
 ## Institutional role
 
@@ -26,9 +28,12 @@ In a continent defined by multiple major powers, Sipharan functions as a stabili
 
 That neutrality is one of its greatest strategic assets. Sipharan is useful to others precisely because it is not simply another expansionist kingdom.
 
+Sipharan's relationship with [Har](har.md) is structurally important: the two states share culture and religion but maintain distinct political identities (federal-republican versus feudal-monarchical), creating long-term coexistence with underlying strategic caution.
+
 ## Related
 
 - [Kasmora](../geography/kasmora.md)
 - [Rawranism](../religions/rawranism.md)
 - [Rawran Civilization](../cultures/rawran-civilization.md)
 - [Kingdom of Har](har.md)
+- [Kasmoran Religious Landscape](../religions/kasmoran-religious-landscape.md)

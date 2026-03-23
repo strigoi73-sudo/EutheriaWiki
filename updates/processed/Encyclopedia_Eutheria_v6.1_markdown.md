@@ -1,3 +1,6 @@
+Incorporation Status: incorporated
+Incorporated On: 2026-03-23
+
 # ENCYCLOPEDIA EUTHERIA
 
 *A Canon Reference of the World of Eutheria*
