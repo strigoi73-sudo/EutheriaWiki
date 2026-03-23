@@ -32,6 +32,10 @@ Haria restricts most trade into Dukan to foodstuffs and closely polices entry ro
 
 At the same time, Dukan's own ideological ambitions create friction with neighboring powers and intensify the cost of governing difficult borderlands and resistant populations.
 
+Its relationship with [Haria](haria.md) is especially fraught. Both states follow Delistanism, but in sharply different forms: Haria's is socially embedded and non-theocratic, while Dukan's is clerical and coercive. Dukanese elites often assume Haria should eventually be brought into a theocratic order, while Haria rejects that claim outright.
+
+This tension is sharpened by Haria's Iranian minority, which could become Dukan's most plausible future pretext for intervention under "protection" or "liberation" language.
+
 ## Strategic significance
 
 Dukan remains one of Kasmora's largest powers and cannot be dismissed. But it is a state whose claims run ahead of its equilibrium. It seeks purity, command, and expansion in a regional system that repeatedly punishes overextension.
