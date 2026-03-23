@@ -8,22 +8,24 @@ Despite modest territorial size, Likia is the most strategically positioned nava
 
 - Reported population: approximately **898,000**.
 - Core advantage: control of sea routes across Oceanus Centralis.
-- Southern approach routes include waters influenced by [Haria](haria.md) along southeastern Kasmora.
+- Southern approach routes include waters influenced by [Haria](haria.md) and [Kingdom of Hawa](hawa.md).
 
 ## Historical position
 
-Likia was founded at **0 LC (Likian Calendar)**. That founding event established the calendar now used internationally across the known world.
+Likia was founded at **0 LC (Likian Calendar)**, the founding event that established the calendar now used internationally.
 
-The founding is described as a peaceful declaration of independence from Nordic-analog peoples of Nereth after centuries of cultural and political divergence.
+## Regional conflicts
 
-## Cultural origin
+The Likian-Dukan war (874-876 LC) ended in Dukanese territorial gains at heavy cost.
 
-Likian culture is described as emerging from long intermingling between Nordic-analog seafarers and Turkish-analog Kasmoran coastal peoples.
+Postwar, Likia maintained naval pressure through blockade of Dukanese ports and remained central to the regional maritime balance.
 
 ## Related
 
 - [Central Island Chain](../geography/central-island-chain.md)
 - [World of Eutheria](../geography/world-of-eutheria.md)
-- [Nereth](../geography/nereth.md)
+- [Valthera](../geography/valthera.md)
 - [Kasmora](../geography/kasmora.md)
 - [Haria](haria.md)
+- [Kingdom of Hawa](hawa.md)
+- [Dukanese Theocracy](dukan.md)

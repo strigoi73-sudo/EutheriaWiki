@@ -1,24 +1,36 @@
 # Kasmora
 
-Kasmora is the southwestern continent of Eutheria and the most agriculturally productive landmass in the known world.
+Kasmora is the southwestern continent of Eutheria and the world's most agriculturally productive major landmass.
 
-## Geography
+## Geographic structure
 
-- A northern mountain range separates the coast from the agricultural interior.
-- Interior terrain is broadly open, with extensive grassland and savanna.
-- River systems provide irrigation and inland transport.
-- Southern margins include tropical seasonal forest and tropical rainforest.
-- The southeastern coastline includes [Haria](../states/haria.md), a major maritime actor with leverage over southern sea routes.
+- A northern mountain belt separates coastal zones from interior plains.
+- Major river systems and deep alluvial soils support large agrarian populations.
+- Settlement is overwhelmingly rural, spread across valleys, plains, and productive coasts.
+- No state has maintained durable rule over the entire continent.
 
-Compared with Nereth, Kasmora has wider open terrain that supports nomadic and semi-nomadic lifeways across large regions.
+Kasmora's political pattern is persistent coexistence without continental unification.
 
-## Peoples
+## Continental system
 
-Kasmora is home to Arabic-, Turkish-, Mesopotamian-, Berber-, Iranian-, and Likian cultures.
+Kasmora's major powers occupy distinct niches:
 
-[Haria](../states/haria.md) is the principal Berber kingdom of Kasmora and the main political center of Berber civilization in the inhabited world.
+- [Commonwealth of Sipharan](../states/sipharan.md): neutral institutional authority tied to [Rawranism](../religions/rawranism.md).
+- [Kingdom of Har](../states/har.md): stable monarchical Rawran state known for high-quality manufactures.
+- [Haria](../states/haria.md): principal Berber kingdom with major southern maritime leverage.
+- [Kingdom of Hawa](../states/hawa.md): premier Arabic maritime trading kingdom.
+- [Sala](../states/sala.md): major Ayedist pilgrimage center and continental breadbasket.
+- [Kordemeli](../states/kordemeli.md): large northern khaganate and major land power.
+- [Dukanese Theocracy](../states/dukan.md): large coercive theocratic state under internal and external strain.
+- [Likia](../states/likia.md): northern maritime chokepoint power shaping strait trade.
 
-Likian culture emerged on Kasmora's northern coast and became the basis of [Likia](../states/likia.md), the major naval power controlling the central strait.
+## Religion and politics
+
+Kasmora's religious geography is politically consequential:
+
+- Ayedism supports Sala's soft power through access to Tuwaid.
+- Delistanism appears in non-theocratic form in Haria and coercive theocratic form in Dukan.
+- Rawranism shapes both republican Sipharan and monarchical Har.
 
 ## Related
 

@@ -1,23 +1,20 @@
 # Golsta
 
-Golsta is the southeastern continent (described as an island cluster) and the most inhospitable major landmass in the known world.
+Golsta is the southeastern and smallest major continent of Eutheria. It is not treated as a conventional civilizational landmass.
 
-## Geography
+## Geographic and social profile
 
-- Much of Golsta is under permanent ice or permafrost.
-- A mountainous interior limits travel and settlement.
-- Habitable areas are mostly restricted to select coastal margins and lower valleys.
-- Agriculture is not viable at significant scale.
+Golsta is primarily an inhospitable draconic wilderness marked by glacial zones, severe terrain, and minimal humanoid settlement.
+
+Current canon treats Golsta as a frontier and ecological extreme rather than a peer continent of humanoid states.
 
 ## Dragon populations
 
-Golsta contains the largest surviving concentrations of dragons in the known world, especially white and silver dragons adapted to glacial environments.
+Golsta contains major surviving concentrations of dragons, especially white and silver populations adapted to glacial environments.
 
 ## Council of Uindossethba
 
-Golsta has no humanoid state structure. Its only recurring governance-like institution is the **Council of Uindossethba**, a convocation of ancient dragons held once every hundred years to address draconic territorial and lineage conflicts.
-
-The council has no permanent bureaucracy and no enforcement system beyond draconic power and tradition.
+Golsta has no humanoid state structure. Its recurring governance-like institution is the **Council of Uindossethba**, a draconic convocation held once every hundred years for territorial and lineage disputes.
 
 ## Related
 
