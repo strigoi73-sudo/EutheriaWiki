@@ -2,6 +2,8 @@
 
 Likia is the most strategically important naval state in Eutheria. Despite its modest territorial scale, its control of most of the Central Island Chain and a narrow strip of northern Kasmoran coast allows it to exert influence over intercontinental trade far out of proportion to its population or land area.
 
+For the people and culture dimensions of this system, see [Likians](../peoples/likians.md) and [Likian Culture](../cultures/likian-culture.md).
+
 Its power rests on geography before anything else. The islands and ports under Likian control sit across the principal maritime routes linking Valthera, Nereth, and Kasmora through Oceanus Centralis. As a result, Likia does not need to dominate the continents directly to shape continental politics. Control of passage, customs, convoy security, and naval access is enough.
 
 ## Historical position
@@ -57,3 +59,5 @@ This produces a characteristic Likian outlook: proud, pragmatic, and rarely sent
 - [Haria](haria.md)
 - [Kingdom of Hawa](hawa.md)
 - [Dukanese Theocracy](dukan.md)
+- [Likian Culture](../cultures/likian-culture.md)
+- [Likians](../peoples/likians.md)

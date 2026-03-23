@@ -30,3 +30,5 @@ Haria's importance lies in the combination of civilizational weight, coastal rea
 - [Kingdom of Hawa](hawa.md)
 - [Dukanese Theocracy](dukan.md)
 - [Likia](likia.md)
+- [Berber Culture in Kasmora](../cultures/berber-culture-in-kasmora.md)
+- [Berbers of Kasmora](../peoples/berbers-of-kasmora.md)

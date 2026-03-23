@@ -16,6 +16,8 @@ The contrast is politically important. It shows that Dukan's character is not si
 
 ## Likian-Dukan War (874–876 LC)
 
+For a dedicated event summary, see [Likian-Dukan War](../history/likian-dukan-war.md).
+
 Dukan fought [Likia](likia.md) from 874 to 876 LC, publicly claiming to liberate Iranian populations under Likian rule. The war also had a clear strategic-economic dimension, driven in part by pressure over taxation and control of goods moving through Likian-controlled routes.
 
 Dukan won territory, but at very high cost. The burdens of war, occupation, and continued resistance weakened the Theocracy's long-term position even in victory.
@@ -41,3 +43,4 @@ That makes Dukan one of the most dangerous and unstable major powers in the sett
 - [Kasmora](../geography/kasmora.md)
 - [Likia](likia.md)
 - [Haria](haria.md)
+- [Likian-Dukan War](../history/likian-dukan-war.md)
