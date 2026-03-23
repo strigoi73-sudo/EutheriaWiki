@@ -20,6 +20,8 @@ Haria holds a long southeastern Kasmoran coastline and exerts significant influe
 
 Haria is therefore more than a large inland kingdom with a coast. It is a culturally central and regionally assertive power with direct influence over the terms of southern maritime movement.
 
+Its relationship with Hawa is generally transactional: Harian waters and ports are key waypoints for Hawan trade moving toward Likia, giving Haria persistent negotiating leverage without requiring open conflict.
+
 ## Strategic significance
 
 Haria's importance lies in the combination of civilizational weight, coastal reach, and religious distinction. It helps define what Berber power looks like in Kasmora while also serving as a counterpoint to more coercive political uses of Delistanism.
@@ -32,3 +34,4 @@ Haria's importance lies in the combination of civilizational weight, coastal rea
 - [Likia](likia.md)
 - [Berber Culture in Kasmora](../cultures/berber-culture-in-kasmora.md)
 - [Berbers of Kasmora](../peoples/berbers-of-kasmora.md)
+- [Kasmoran Religious Landscape](../religions/kasmoran-religious-landscape.md)
