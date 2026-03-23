@@ -1,6 +1,10 @@
 # Cosmology
 
-This section records the broader structure of existence in Eutheria, including planes, metaphysics, and cosmic order.
-Articles will be expanded and organized over time.
+This section records the metaphysical structure of existence in Eutheria.
 
-- Articles will be added over time.
+## Articles
+
+- [The First Moment](first-moment.md)
+- [The Planes](planes.md)
+- [Souls and the Cycle of Existence](souls-cycle.md)
+- [The Kenoma and the Outer Gods](kenoma-and-outer-gods.md)
