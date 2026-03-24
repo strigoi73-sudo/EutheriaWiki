@@ -8,7 +8,13 @@ It combines major territorial scale, coastal access, and a confident monarchical
 
 The current capital is **Eoyangwan**.
 
-Cheonguk presents itself as a conventional Korean kingship at major-power scale: centralized enough to hold diverse regions, but pragmatic in managing inherited religious variation.
+Cheonguk presents itself as a conventional Korean kingship at major-power scale: coastal, status-conscious, and centralized enough to hold diverse regions while pragmatically managing inherited religious variation.
+
+## Geographic position
+
+Cheonguk dominates much of the western coast of Valthera. It has broad maritime frontage, several ports, and far more open sea access than inland [Hayanguk](hayanguk.md), though it is still best understood as a territorial kingdom rather than a naval republic.
+
+Its position west and northwest of Hayanguk makes it the clearest example of a large Korean state that is neither a frontier theocracy nor a Chinese-Korean confessional hybrid.
 
 ## Religion and territorial integration
 
@@ -27,9 +33,13 @@ This is a policy of controlled territorial toleration, not occupation governance
 
 ## Relationship with Hayanguk
 
-Hayanguk would prefer Tongj-majority regions under its own religious sphere, but has not challenged Cheonguk's control.
+Current canon places Cheonguk's Tongj territories in a frontier expansion carried out during an earlier period of disorder before Hayanguk consolidated as a coherent state. Hayanguk would prefer Tongj-majority regions under its own religious sphere, but has not challenged Cheonguk's control.
 
 The resulting equilibrium is one of competitive legitimacy without open war: Cheonguk governs a mixed confessional map through royal administration, while Hayanguk remains the core Tongj-centered theocratic polity.
+
+## Economy and place in Valthera
+
+Cheonguk is more commercially open and externally connected than Hayanguk, but it should not be reduced to maritime trade alone. It is a balanced kingdom: agrarian at base, coastal in access, and politically strong enough to absorb frontier acquisitions without becoming a Tongj state itself.
 
 ## Related
 
@@ -37,4 +47,5 @@ The resulting equilibrium is one of competitive legitimacy without open war: Che
 - [Hayanguk](hayanguk.md)
 - [Han Guo](han-guo.md)
 - [Duchy of Hamcheon](hamcheon.md)
+- [Guan Guo](guan-guo.md)
 - [Tongj Apostates](../religions/tongj-apostates.md)

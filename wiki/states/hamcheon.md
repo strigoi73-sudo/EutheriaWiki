@@ -1,6 +1,12 @@
 # Duchy of Hamcheon
 
-Hamcheon is a small Korean coastal duchy on Cheonguk's southwestern edge. It is notable less for size than for durability, cohesion, and defensive posture.
+Hamcheon is a small Korean Dedeokan coastal duchy on Cheonguk's southwestern edge. It is notable less for size than for durability, cohesion, and defensive posture.
+
+## Geographic position
+
+Hamcheon occupies a narrow coastal wedge between [Cheonguk](cheonguk.md) and the sea. It has only one meaningful land neighbor, so it exists largely inside Cheonguk's strategic shadow even while remaining formally independent.
+
+Its terrain includes defensible upland ground behind the shoreline, which gives the duchy more resilience than its small size alone would suggest.
 
 ## Political character
 
@@ -22,6 +28,10 @@ Unlike mixed polities such as [Han Guo](han-guo.md), Hamcheon does not appear to
 Hamcheon is heavily fortified for its scale. This is a structural feature, not incidental detail.
 
 Its political identity is therefore defensive and preservation-oriented: a polity built to hold position, absorb pressure, and outlast shocks.
+
+## Economy
+
+Hamcheon's economy is modest and regional. Its likely base is a combination of local agriculture, fishing, forestry, small-scale coastal trade, and harbor exchange functions rather than major naval or mercantile power.
 
 ## Regional role
 

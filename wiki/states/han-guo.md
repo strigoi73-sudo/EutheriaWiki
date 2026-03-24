@@ -33,7 +33,7 @@ It protects [Quz Guo](quz-guo.md) and preserves Shang as a sacred Taizhouist cen
 
 ## Regional relations
 
-Han Guo operates in a western Valtheran system that includes [Hayanguk](hayanguk.md), [Cheonguk](cheonguk.md), and [Hamcheon](hamcheon.md), each representing different solutions to culture-religion-state alignment.
+Han Guo operates in a western Valtheran system that includes [Hayanguk](hayanguk.md), [Cheonguk](cheonguk.md), [Hamcheon](hamcheon.md), and [Guan Guo](guan-guo.md), each representing different solutions to culture, religion, and state alignment.
 
 ## Related
 
@@ -43,4 +43,5 @@ Han Guo operates in a western Valtheran system that includes [Hayanguk](hayanguk
 - [Hayanguk](hayanguk.md)
 - [Kingdom of Cheonguk](cheonguk.md)
 - [Duchy of Hamcheon](hamcheon.md)
+- [Guan Guo](guan-guo.md)
 - [Taizhouism](../religions/taizhouism.md)
