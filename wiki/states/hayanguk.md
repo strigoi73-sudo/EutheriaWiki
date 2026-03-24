@@ -1,35 +1,47 @@
 # Hayanguk
 
-Hayanguk is a Valtheran polity associated with western and central upland contact zones where Korean-analog and Dwarven populations have interacted over long periods.
+Hayanguk is a substantial inland Korean theocracy in western Valthera. It is best understood as a buffer-contact state: geographically between Korean, Chinese, and Dwarven spheres, and religiously centered on a frontier synthesis viewed with suspicion by neighbors.
 
-In current canon usage, Hayanguk is important less as a fully detailed constitutional case and more as a frontier context for understanding how religion, culture, and state formation evolve under sustained mountain contact.
+## Religious foundation
 
-## Regional setting
+Hayanguk's defining public tradition is **Tongj Apostatism**, a Korean reinterpretation of Dwarven religious inheritance blended with elements associated with the Witnesses of Dedeok.
 
-Hayanguk belongs to Valthera's highland-corridor environment rather than a single lowland agrarian core. Its significance is tied to pass systems, upland exchanges, and long-duration intercommunity contact.
+This gives Hayanguk a distinct profile:
 
-These conditions make it a useful model for how frontier societies can be politically durable without fitting cleanly into lowland imperial templates.
+- not simply a Korean state with a local sect
+- a polity whose governing identity is built around frontier religious synthesis
 
-## Cultural and political role
+In regional perception, Tongj Apostatism is often treated as apostasy by Dedeokan institutions and as heresy in stricter doctrinal framing, though Dwarven reactions are frequently more pragmatic than polemical.
 
-Hayanguk is repeatedly used in canon interpretation to show that Valtheran mountain zones are not passive barriers. They are active social interfaces where language communities, ritual systems, and governing practices are continuously renegotiated.
+## Economy and settlement
 
-In this setting, Hayanguk functions as a bridge polity: neither a simple ethnic homeland nor a temporary border buffer, but a long-lived contact society.
+Hayanguk is economically solid, mostly rural, and inwardly oriented.
 
-## Religious significance
+Its economy relies on:
 
-Hayanguk is especially relevant for frontier religious developments linked to the [Tongj Apostates](../religions/tongj-apostates.md). The association indicates that theological and institutional change in Valthera often emerges in mixed upland settings rather than only in major coastal capitals.
+- agriculture and forestry
+- upland exchange networks
+- trade with nearby Dwarven zones
 
-## Current limitations
+It has no major maritime profile and no defining port system.
 
-Several details remain open in encyclopedia-level canon, including:
+## Diplomatic posture
 
-- constitutional form and governing institutions
-- precise borders and major cities
-- economic profile and military organization
-- timeline of major dynastic or constitutional transitions
+Hayanguk is generally polite but reserved in external relations.
+
+The state prioritizes internal religious order and treats unsupervised foreign influence as a potential threat to social cohesion. Outsiders are usually tolerated as visitors, traders, or envoys, but under clear local supervision.
+
+## Regional context
+
+Hayanguk sits inside a western Valtheran political field that also includes:
+
+- [Han Guo](han-guo.md), a mixed Chinese-Korean republic
+- [Cheonguk](cheonguk.md), the largest Korean monarchy in the region
+- [Quz Guo](quz-guo.md), a sacred-sovereign Taizhouist center protected by Han Guo
 
 ## Related
 
 - [Valthera](../geography/valthera.md)
 - [Tongj Apostates](../religions/tongj-apostates.md)
+- [Kingdom of Cheonguk](cheonguk.md)
+- [Duchy of Hamcheon](hamcheon.md)
