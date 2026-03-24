@@ -3,6 +3,7 @@
 The wiki lives in `wiki/`.
 Incoming update documents live in `updates/inbox/`.
 Processed update documents belong in `updates/processed/`.
+`updates/processed/` is the archive for incorporated update documents; files moved there must be preserved and never deleted as part of the update workflow.
 
 If the user says exactly `Update Wiki`, execute the workflow in `ops/update-wiki.md`.
 
@@ -42,6 +43,7 @@ When executing `Update Wiki`, you must do all of the following:
 12. After successfully incorporating an update document:
    - add the incorporation marker required by `ops/update-wiki.md`
    - move it from `updates/inbox/` to `updates/processed/`
+   - do not delete it after moving; `updates/processed/` is the permanent archive
 
 13. Stage and commit the changes, push them to `origin/main`, and leave the worktree clean.
 
