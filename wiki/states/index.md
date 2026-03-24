@@ -25,5 +25,6 @@ This section focuses on major contemporary polities rather than every historical
 - [Kingdom of Cheonguk](cheonguk.md)
 - [Duchy of Hamcheon](hamcheon.md)
 - [Guan Guo](guan-guo.md)
+- [Longlin Guo](longlin-guo.md)
 - [Han Guo](han-guo.md)
 - [Quz Guo](quz-guo.md)

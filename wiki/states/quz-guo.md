@@ -20,7 +20,7 @@ This arrangement should not be read as simple protectorate convenience. It refle
 
 Han Guo's protection of Quz Guo is treated as a religious duty, not merely treaty mechanics. The resulting regional structure is dual but coherent: **Insan** functions as the political capital of the republic, while **Shang** functions as a sacred center of the wider Taizhouist world.
 
-In practice, this model allows political centralization and sacred autonomy to coexist without requiring either complete absorption or full strategic isolation.
+In practice, this model allows political centralization and sacred autonomy to coexist without requiring either complete absorption or full strategic isolation. Quz Guo is therefore best understood not as an anomalous microstate, but as a sacred polity whose independence is preserved because full absorption would diminish the status of Shang itself.
 
 ## Current limitations
 

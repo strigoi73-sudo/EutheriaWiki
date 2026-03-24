@@ -33,6 +33,10 @@ Its political identity is therefore defensive and preservation-oriented: a polit
 
 Hamcheon's economy is modest and regional. Its likely base is a combination of local agriculture, fishing, forestry, small-scale coastal trade, and harbor exchange functions rather than major naval or mercantile power.
 
+## Relationship with Cheonguk
+
+Hamcheon is best understood as formally independent but heavily constrained by Cheonguk's regional dominance. Its room to maneuver is narrow, and its security depends partly on remaining orderly, predictable, and unthreatening rather than acting like a rising minor power.
+
 ## Regional role
 
 Hamcheon provides a useful contrast case in western Valthera:

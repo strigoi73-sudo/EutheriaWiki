@@ -29,7 +29,7 @@ Its economy relies on:
 - river-linked internal transport
 - trade with nearby Dwarven zones
 
-It has no major maritime profile and no defining port system. Hayanguk is better understood as self-sufficient and locally connected than as a long-distance mercantile crossroads.
+It has no major maritime profile and no defining port system. Hayanguk is better understood as self-sufficient and locally connected than as a long-distance mercantile crossroads. Its burgs are culturally Korean, while its religious life is more mixed than a sealed sacred core, reinforcing its identity as a pressured frontier society rather than an isolated confessional enclosure.
 
 ## Political character
 

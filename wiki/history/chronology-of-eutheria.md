@@ -26,8 +26,9 @@ This page summarizes high-level chronology used across the wiki. For analytical 
 
 ## Maritime conflict and collapse
 
-- **~300 to ~750 LC**: sustained Valtheran-Likian naval rivalry (Xin Guo central among Valtheran naval powers).
-- **~750 to ~800 LC**: Likian victory; Xin Guo reconstituted as the See of Xin Guo under naval prohibition; cold peace framework established.
+- **~200 to ~300 LC**: Valtheran expansion into Oceanus Centralis accelerates, setting the conditions for sustained rivalry with Likia.
+- **~300 to ~750 LC**: Likian-Xin Guo rivalry unfolds as a long strategic contest marked by intermittent naval wars, embargoes, proxy struggles, piracy, privateering, and competition over islands and trade routes.
+- **~750 to ~800 LC**: final major Likian victory; Xin Guo reconstituted as the See of Xin Guo under naval prohibition; cold peace framework established.
 - **~876 LC**: imperial succession crisis and beginning of terminal Veltric fragmentation.
 
 ## Present day

@@ -8,6 +8,12 @@ Guan Guo occupies a central position in western Valthera between several importa
 
 The kingdom is organized around a major river system that runs through much of its territory before reaching the sea near the capital, **Xuzhoubin**. Guan Guo does not control the entire river, but it appears to hold some of the most valuable stretches: lower and middle reaches, reentry points, and the outlet to the coast.
 
+## Bay and outlet
+
+Guan Guo's strategic weight is sharpened by the sheltered bay into which this river system empties. Longlin's inland river world, Guan Guo's lower-river customs zone, and Tengc's eastern shore all converge there before traffic reaches the open sea.
+
+Current canon suggests Guan Guo controls the most favorable transfer point between inland cargo and seaborne movement. Xuzhoubin sits on the most usable low shore at the river mouth, giving Guan Guo a natural advantage rather than a merely accidental political one.
+
 ## Economic character
 
 Guan Guo is primarily a toll kingdom. Its power likely rests on:
@@ -34,10 +40,11 @@ This distinguishes it from more visibly mixed western Valtheran states such as [
 
 ## Place in Valthera
 
-Guan Guo is one of the quieter but more structurally important states of western Valthera. It is neither a frontier theocracy nor a mixed republican experiment, but a prosperous Chinese monarchy whose strength lies in combining a productive interior with control over a strategic river corridor.
+Guan Guo is one of the quieter but more structurally important states of western Valthera. It is neither a frontier theocracy nor a mixed republican experiment, but a prosperous Chinese monarchy whose strength lies in combining a productive interior with control over a strategic river corridor and the best natural outlet on a shared commercial bay.
 
 ## Related
 
 - [Valthera](../geography/valthera.md)
 - [Han Guo](han-guo.md)
 - [Hayanguk](hayanguk.md)
+- [Longlin Guo](longlin-guo.md)

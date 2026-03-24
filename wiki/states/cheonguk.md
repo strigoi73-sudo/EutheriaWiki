@@ -8,7 +8,7 @@ It combines major territorial scale, coastal access, and a confident monarchical
 
 The current capital is **Eoyangwan**.
 
-Cheonguk presents itself as a conventional Korean kingship at major-power scale: coastal, status-conscious, and centralized enough to hold diverse regions while pragmatically managing inherited religious variation.
+Cheonguk presents itself as a conventional Korean kingship at major-power scale: coastal, status-conscious, and centralized enough to hold diverse regions while pragmatically managing inherited religious variation. It is best understood as confident rather than nervous, with a political tone more formal and self-assured than frontier polities such as Hayanguk.
 
 ## Geographic position
 

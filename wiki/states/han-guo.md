@@ -14,7 +14,7 @@ A core interpretive feature is the capital arrangement: **Insan** is Korean, and
 
 Current canon places Han Guo's consolidated republican form in the post-Xin Guo war order. Chinese and Korean communities in this Valtheran region had strong incentives to combine political resources under shared institutions.
 
-This framing presents Han Guo as a durable civic compact built from interdependent frontier communities.
+This framing presents Han Guo as a durable civic compact built from interdependent frontier communities. Economic pressure, competition with larger neighboring powers, and shared Taizhouist religious life all help explain why the union held.
 
 ## Territory and economy
 
@@ -29,7 +29,7 @@ The resulting territorial model is layered:
 
 Han Guo's legitimacy is tied partly to religious custodianship.
 
-It protects [Quz Guo](quz-guo.md) and preserves Shang as a sacred Taizhouist center, treating this role as duty rather than mere convenience.
+It protects [Quz Guo](quz-guo.md) and preserves Shang as a sacred Taizhouist center, treating this role as duty rather than mere convenience. Han Guo's Chinese civil character is expressed less through the ethnicity of its capital than through institutions, court culture, and its guardianship of Taizhouist sacred order.
 
 ## Regional relations
 
