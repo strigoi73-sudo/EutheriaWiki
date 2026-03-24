@@ -1,5 +1,4 @@
 Incorporation Status: incorporated
-
 Incorporated On: 2026-03-24
 
 ENCYCLOPEDIA EUTHERIA

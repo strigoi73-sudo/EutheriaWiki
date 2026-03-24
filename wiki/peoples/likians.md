@@ -4,11 +4,13 @@ Likians are the primary people associated with [Likia](../states/likia.md) and m
 
 ## Overview
 
-Likian identity developed in an island-and-strait environment where social continuity depended on reliable seaborne systems. This produced a people strongly associated with civic discipline, technical maritime competence, and institutional participation.
+Likian identity developed in an island-and-strait environment where social continuity depended on reliable seaborne systems. The people emerged through long intermingling between Nordic-analog seafarers and Turkish-analog Kasmoran coastal populations, producing a maritime community that is historically hybrid but no longer reducible to either parent stock.
+
+This produced a people strongly associated with civic discipline, technical maritime competence, and institutional participation.
 
 ## Distribution
 
-Most Likians live in Likia's island core and coastal holdings, with additional communities in nearby ports linked by trade and administration. Political boundaries affect their status, but do not fully define their communal continuity.
+Most Likians live in Likia's island core and coastal holdings, with additional communities in nearby ports linked by trade and administration. Political boundaries affect their status, but do not fully define their communal continuity. Some Likian-culture populations also live under Kordemelian rule in former western Likian territories, where long rule by the Khaganate has encouraged partial assimilation.
 
 ## Historical distinctiveness
 
@@ -22,4 +24,5 @@ Likian life is deeply shaped by state structures, especially fleet logistics and
 
 - [Likia](../states/likia.md)
 - [Likian Culture](../cultures/likian-culture.md)
+- [See of Xin Guo](../states/xin-guo.md)
 - [Likian Calendar](../glossary/likian-calendar.md)

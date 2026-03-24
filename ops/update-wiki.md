@@ -14,14 +14,16 @@ You are working in the root of the GitHub repository `EutheriaWiki`.
 Apply all new, unincorporated update documents in `updates/inbox/` to the wiki.
 Treat `updates/processed/` as the archive of incorporated update documents. Files moved there must be preserved and must not be deleted by this workflow.
 
-## What counts as already incorporated
+## How to treat inbox files
 
-Treat an update document as already incorporated if either of these is true:
+Treat every non-placeholder file currently in `updates/inbox/` as requiring manual inspection during the current workflow run, even if it already contains an incorporation marker.
 
-1. It contains a clear incorporation status marker.
-2. It has already been moved out of `updates/inbox/`.
+An update document should be treated as already archived only after:
 
-Only process files currently in `updates/inbox/` that do not already meet either condition.
+1. it has been manually inspected during the current run, and
+2. it has been moved out of `updates/inbox/` into `updates/processed/`.
+
+Do not skip an inbox file solely because it already contains an incorporation marker.
 
 ## Required workflow
 
@@ -36,7 +38,7 @@ Before editing anything:
 
 ### Step 2: Identify unincorporated update documents
 
-Create a list of all update documents in `updates/inbox/` that still need incorporation.
+Create a list of all non-placeholder update documents in `updates/inbox/` that still need manual inspection and incorporation during the current run.
 
 ### Step 3: Extract topics from each update document
 
@@ -120,6 +122,7 @@ After adding the marker, move the file from `updates/inbox/` to `updates/process
 Do not delete the file after moving it; the processed directory is the archive copy.
 
 Do not reprocess documents already marked incorporated.
+However, if a marked file is still in `updates/inbox/`, inspect it anyway before archiving it.
 
 ## Completion gate
 

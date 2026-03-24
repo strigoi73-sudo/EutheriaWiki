@@ -8,7 +8,7 @@ Nereth and Valthera experienced prolonged demographic contraction, fragmented se
 
 ## Rise of civilization (~2000 to ~624 BLC)
 
-As climate stabilized and food surpluses expanded, durable kingdoms re-emerged across inhabited continents. In eastern Nereth, Roman-analog polities gained durable administrative and military advantage.
+As climate stabilized and food surpluses expanded, durable kingdoms re-emerged across inhabited continents. In eastern Nereth, Roman-analog polities gained durable administrative and military advantage. On Kasmora, fragmented river kingdoms, nomadic confederacies, and coastal trading states solidified into the continental mosaic that persists to the present.
 
 ## Veltric Republic and Empire (~624 BLC to ~876 LC)
 
@@ -26,6 +26,8 @@ The resulting order is characterized by:
 - partial continuity of imperial roads and legal culture,
 - reconfigured east-west trade dependency,
 - stronger relative importance of maritime chokepoints and mountain intermediaries.
+
+The old southern coastal trade chain for Likian goods broke apart with the empire's collapse. Western Nereth rose commercially as traffic rerouted through Lienia's ports and then inland toward the Dwarven passes.
 
 ## Present context (1026 LC)
 

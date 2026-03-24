@@ -4,7 +4,9 @@ Likian culture is a maritime urban culture organized around institutions that ma
 
 ## Overview
 
-The culture developed in an island-and-port environment where disciplined coordination mattered more than territorial scale. As a result, Likian identity emphasizes competence, continuity, and institutional trust over spectacle.
+Likian culture developed through centuries of intermingling between Nordic-analog seafarers from Nereth and Turkish-analog coastal peoples of northern Kasmora. It matured in an island-and-port environment where disciplined coordination mattered more than territorial scale. As a result, Likian identity emphasizes competence, continuity, and institutional trust over spectacle.
+
+This hybrid origin is important: Likian culture is not a thin overlay on either parent tradition, but a genuinely distinct maritime civilization shaped by commerce, strait geography, and long cultural blending.
 
 ## Guild society and civic order
 
@@ -24,9 +26,14 @@ This helps explain why Likian civic life often appears cautious, procedural, and
 
 In Likian society, commerce is not treated as separate from public order. Trade networks, taxation routines, and civic administration are socially embedded institutions that define what responsible citizenship looks like in a maritime state.
 
+## Religious layering
+
+Likian cultural life also preserves multiple historical religious layers. Skrosenism remains strongest in the island core and ties Likia to its Nordic ancestral world. Kuhrizvansism is prominent in the Kasmoran coastal territories. Chinese commercial integration has added a smaller but visible Xinchang Deities presence in select settlements.
+
 ## Related
 
 - [Likia](../states/likia.md)
 - [Central Island Chain](../geography/central-island-chain.md)
+- [See of Xin Guo](../states/xin-guo.md)
 - [Likian Calendar](../glossary/likian-calendar.md)
 - [Likians](../peoples/likians.md)

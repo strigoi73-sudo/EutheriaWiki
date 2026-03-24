@@ -18,7 +18,7 @@ Dragons in Golsta are not marginal curiosities living at the edge of humanoid po
 
 Golsta has no stable humanoid state structure. Its nearest equivalent to a recurring supraregional institution is the **Council of Uindossethba**, a draconic convocation held once every hundred years to address territorial and lineage disputes.
 
-The council is not a state in any ordinary sense, but it does reveal that Golsta is not politically empty. It is ordered according to forms of power, hierarchy, and negotiation that are draconic rather than humanoid.
+The council is not a state in any ordinary sense, but it does reveal that Golsta is not politically empty. It is ordered according to forms of power, hierarchy, and negotiation that are draconic rather than humanoid. Its exact site remains unknown to outsiders.
 
 ## World-historical role
 
@@ -30,3 +30,4 @@ This gives Golsta a distinctive role in the setting: frontier, mythic wilderness
 
 - [World of Eutheria](world-of-eutheria.md)
 - [Biomes of Eutheria](biomes-of-eutheria.md)
+- [Dragons](../peoples/dragons.md)

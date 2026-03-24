@@ -8,6 +8,8 @@ Before humanoid polities, dragons were the dominant intelligent lineage on the M
 
 In canonical metaphysics, dragon souls are tightly alignment-bound; at death, they transfigure into corresponding outsider forms. This has major implications for early outsider origins in [cosmological history](../cosmology/kenoma-and-outer-gods.md).
 
+Current canon also treats modern kobolds and lizardfolk as non-draconic in ancestry despite persistent myths claiming descent from dragons.
+
 ## Reptilian civilizations
 
 Following and overlapping draconic predominance, large reptilian civilizations flourished in multiple regions, especially in tropical and equatorial belts less disrupted by later glaciation. Their remains include temple complexes and ritualized monumental architecture linked to draconic cultic systems.
@@ -41,4 +43,5 @@ Glaciation strongly affected survivorship: older layers are comparatively more v
 - [Great Catastrophe and the Battle of Trelhelm](great-catastrophe-and-trelhelm.md)
 - [Chronology of Eutheria](chronology-of-eutheria.md)
 - [Golsta](../geography/golsta.md)
+- [Dragons](../peoples/dragons.md)
 - [The Kenoma and the Outer Gods](../cosmology/kenoma-and-outer-gods.md)

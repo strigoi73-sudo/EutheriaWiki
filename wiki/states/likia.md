@@ -20,7 +20,23 @@ Likia is commercially dominant, politically stable, and strategically cautious. 
 
 A central feature of Likian society is the **guild system**. Guilds do more than regulate trade. They train professionals, set standards, arbitrate disputes, and provide ordinary Likians with practical protections in daily economic life. This gives the state an institutional depth that outsiders sometimes underestimate: Likian power does not depend on the fleet alone, but on the civic machinery that keeps the fleet supplied, financed, and socially embedded.
 
+Likia is formally a principality with democratic elements in constitutional form but oligarchic realities in national practice. A hereditary patron from one of the founding houses nominates guildmasters to the governing council, holds tiebreaking authority, and shapes outcomes through influence rather than direct rule.
+
 At present, no single political tendency governs uncontested. Administrative, mercantile, and military interests all matter, and policy emerges through bargaining among entrenched institutions rather than through simple personal rule. This helps explain both Likia's stability and its caution. The state is powerful, but it is powerful in ways designed to preserve an advantageous system rather than gamble it on reckless expansion.
+
+Three recognizable factional blocs structure current politics:
+
+- **Constitutionalists**: regulatory and administrative power-brokers who frame their dominance as defense of Likian constitutional order.
+- **Mercantilists**: outward-looking commercial expansionists whose trade successes give them kingmaker influence.
+- **Democrats**: hawkish cultural nationalists aligned more strongly with combat arms and recovery of Likian populations under Kordemelian rule.
+
+## Religion and settlement pattern
+
+Likian religion reflects the state's three-continent position. The island core is primarily **Skrosenist**, preserving the ancestral faith of the Nordic founders. The Kasmoran coastal territories are more strongly associated with **Kuhrizvansism**, while two Chinese-community settlements in Likian territory follow the **Xinchang Deities** tradition.
+
+This layered map reflects historical depth rather than simple eclecticism: Nordic inheritance in the island chain, Kasmoran integration on the continental coast, and post-cold-peace commercial ties to Valtheran Chinese societies.
+
+Likian settlement is also geographically dual. The island capital **Margaros** is the political and military center of the maritime order, while the city of **Likia** on the Kasmoran coast remains the original founding settlement and major commercial heart.
 
 ## Strategic significance
 
@@ -39,6 +55,8 @@ Likia's relationships with neighboring powers are shaped by geography and necess
 **Kordemeli** is the immediate western land neighbor and the clearest illustration of Likian strategic limits. Kordemeli cannot easily destroy Likian sea power, while Likia cannot realistically reconquer major continental territories from so large a land state. The result is a tense but durable coexistence.
 
 **Valthera** remains linked to Likia through the cold peace that followed the final Xin Guo defeat. Valtheran states trade through Likian-controlled waters under Likian terms, however unwillingly, including major republics such as [Han Guo](han-guo.md).
+
+The defeated remnant of Xin Guo persists as the [See of Xin Guo](xin-guo.md), a religiously governed rump state legally prohibited from maintaining a navy.
 
 **Haria** and **Hawa** matter because southern approach routes to the strait pass through waters they can influence. Even a naval power built on chokepoint control cannot treat the wider maritime system as politically empty.
 
@@ -59,5 +77,6 @@ This produces a characteristic Likian outlook: proud, pragmatic, and rarely sent
 - [Haria](haria.md)
 - [Kingdom of Hawa](hawa.md)
 - [Dukanese Theocracy](dukan.md)
+- [See of Xin Guo](xin-guo.md)
 - [Likian Culture](../cultures/likian-culture.md)
 - [Likians](../peoples/likians.md)

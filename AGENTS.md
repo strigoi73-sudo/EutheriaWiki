@@ -16,7 +16,10 @@ When executing `Update Wiki`, you must do all of the following:
    - all files currently in `updates/inbox/`
    - relevant existing files in `wiki/`
 
-2. Identify all update documents in `updates/inbox/` that have not yet been incorporated.
+2. Identify all update documents in `updates/inbox/` that have not yet been manually inspected and incorporated during the current workflow run.
+
+   - Treat every non-placeholder file in `updates/inbox/` as unincorporated until it has been manually inspected in that run.
+   - Do not skip an inbox file merely because it already contains an incorporation marker.
 
 3. For each unincorporated update document, extract all distinct substantial topics introduced or materially expanded by that document.
 
