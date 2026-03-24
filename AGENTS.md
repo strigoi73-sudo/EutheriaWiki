@@ -43,6 +43,6 @@ When executing `Update Wiki`, you must do all of the following:
    - add the incorporation marker required by `ops/update-wiki.md`
    - move it from `updates/inbox/` to `updates/processed/`
 
-13. Stage and commit the changes and leave the worktree clean.
+13. Stage and commit the changes, push them to `origin/main`, and leave the worktree clean.
 
 Direct user instructions override these instructions.

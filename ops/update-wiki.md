@@ -141,6 +141,7 @@ After all incorporation work is complete:
 
 - stage all relevant changes
 - commit the changes
+- push the commit to `origin/main`
 - leave the worktree clean
 
 ## Commit message
@@ -182,6 +183,9 @@ Your final response must include all of the following:
 
 - Git commit hash:
   - [hash]
+
+- Pushed to origin/main:
+  - yes / no
 
 - Worktree clean:
   - yes / no
