@@ -11,13 +11,13 @@ Kasmora's religious map is defined by major traditions whose political, cultural
 | Skrosenism | Organized polytheism | ~16.49M (world) | Likian communities in Kordemeli | 9.2 |
 | Rawran Society / Rawranism | Sect / fellowship religion | ~3.65M | [Har](../states/har.md), [Sipharan](../states/sipharan.md) | 0.8 |
 | Iranian Deities | Folk polytheism | 814 | Seza Colony in Haria | 0 |
-| Witnesses of Dedeok | Organized polytheism | ~3.05M (world) | Jalim trade-port communities | 4.9 |
 
 ## Structural patterns
 
 - Ayedism is culturally Arabic in origin but is also followed by major Turkish-analog populations in Kordemeli.
 - Delistanism appears in sharply different political forms: coercive theocracy in Dukan and community-led practice in Haria.
 - Rawranism anchors both a monarchy ([Har](../states/har.md)) and a federal commonwealth ([Sipharan](../states/sipharan.md)), showing constitutional flexibility.
+- Earlier encyclopedia claims of Dedeokan alignment in Sala's capital are superseded by later canon correction and should not be treated as current Kasmoran religious reality.
 
 ## Regional consequence
 

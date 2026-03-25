@@ -26,6 +26,7 @@ This section focuses on major contemporary polities rather than every historical
 - [Duchy of Hamcheon](hamcheon.md)
 - [Guan Guo](guan-guo.md)
 - [Longlin Guo](longlin-guo.md)
+- [Tengc](tengc.md)
 - [Han Guo](han-guo.md)
 - [Quz Guo](quz-guo.md)
 - [See of Xin Guo](xin-guo.md)

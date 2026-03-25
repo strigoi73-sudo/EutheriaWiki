@@ -28,6 +28,8 @@ Longlin and [Guan Guo](guan-guo.md) are likely tied by standing river arrangemen
 
 This makes Guan Guo both necessary and irritating from Longlin's perspective. Longlin supplies upstream traffic that Guan Guo cannot generate alone, but must still deal with a downstream kingdom better placed to tax and channel that movement.
 
+The same bay system also places Longlin in indirect but recurring contact with [Tengc](tengc.md), whose southern coastal representatives have reason to monitor access, cargo flow, and maritime conditions around the outlet.
+
 ## Political tone
 
 Longlin is best understood as proud, upstream, and resistant to dependence. Its diplomatic tone is likely practical but not relaxed: status-conscious, aware of its own leverage, and wary of being made subordinate by downstream partners.
@@ -36,3 +38,4 @@ Longlin is best understood as proud, upstream, and resistant to dependence. Its 
 
 - [Valthera](../geography/valthera.md)
 - [Guan Guo](guan-guo.md)
+- [Tengc](tengc.md)
