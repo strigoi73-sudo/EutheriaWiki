@@ -14,6 +14,8 @@ Sala combines agrarian depth with a commercially active coast. Its capital Jalim
 
 The port of Salahrah and Jalim's own commercial profile show that Salan prosperity is tied both to inland pilgrimage logistics and to foreign-facing maritime exchange.
 
+That cosmopolitan trade role should not be read as current Dedeokan alignment in the capital. Earlier encyclopedia claims to that effect have been superseded by later canon correction.
+
 ## Regional relationships
 
 Sala maintains a stable but asymmetric relationship with [Kordemeli](kordemeli.md): long-term open-border coexistence, mixed Arabic and Turkish settlement patterns, and enduring Salan leverage through pilgrimage access.
