@@ -2,6 +2,8 @@
 
 The See of Xin Guo is a small religiously governed state on Valthera's coast. It is the surviving rump of the former Kingdom of Xin Guo, once the principal Valtheran naval challenger to [Likia](likia.md) in the long struggle for control of Oceanus Centralis.
 
+![Political map crop of the See of Xin Guo](../assets/maps/xin-guo-map.png)
+
 ## From kingdom to see
 
 The Kingdom of Xin Guo was a major Chinese-analog naval and theocratic power during the long Likian-Xin Guo maritime rivalry. After Likian victory in the eighth century LC, the peace settlement dissolved the kingdom and reconstituted it as the See of Xin Guo.

@@ -2,6 +2,8 @@
 
 Longlin Guo is a proud northern Chinese kingdom whose territory is large but whose meaningful political and economic life is concentrated in its southern belt. It is not best understood as an evenly integrated northern giant, but as an upstream frontier monarchy organized around the usable middle course of a major river system.
 
+![Political map crop of Longlin Guo](../assets/maps/longlin-guo-map.png)
+
 ## Geography and settlement
 
 Longlin controls much of the commercially meaningful middle course of the river system that eventually empties through [Guan Guo](guan-guo.md)'s bay. Its capital, **Andenan**, sits on a large lake just north of that bay and is also its only port.

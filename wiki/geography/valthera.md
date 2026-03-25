@@ -2,6 +2,8 @@
 
 Valthera is the northwestern continent of Eutheria, shaped by cold northern extremes, lake-rich interiors, rugged uplands, and politically divided lowland cores. It is one of the world's major civilizational theaters, but one that has resisted lasting continental unification.
 
+![Political map crop of Valthera](../assets/maps/valthera-continent-map.png)
+
 ## Physical character
 
 Valthera combines severe and temperate zones in a single connected system. The far north is glacial and subarctic, while the south and southeast open into forests, plains, wetlands, and productive agricultural basins.

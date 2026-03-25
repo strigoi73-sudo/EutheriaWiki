@@ -2,6 +2,8 @@
 
 Golsta is the southeastern and smallest major continent of Eutheria. Unlike Valthera, Nereth, or Kasmora, it is not treated as a conventional humanoid civilizational landmass. It is a glacial, draconic frontier whose ecological severity and lack of any significant humanoid population place it outside the normal political pattern of the inhabited world.
 
+![Political map crop of Golsta](../assets/maps/golsta-continent-map.png)
+
 ## Geographic and ecological character
 
 Golsta is dominated by severe terrain, permanent cold, and wide glacial systems. Habitable margins exist, but they do not support the kind of dense agrarian or urbanized societies found on the other major continents.

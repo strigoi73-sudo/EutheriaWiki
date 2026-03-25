@@ -4,6 +4,8 @@ Likia is the most strategically important naval state in Eutheria. Despite its m
 
 For the people and culture dimensions of this system, see [Likians](../peoples/likians.md) and [Likian Culture](../cultures/likian-culture.md).
 
+![Political map crop of Likia](../assets/maps/likia-map.png)
+
 Its power rests on geography before anything else. The islands and ports under Likian control sit across the principal maritime routes linking Valthera, Nereth, and Kasmora through Oceanus Centralis. As a result, Likia does not need to dominate the continents directly to shape continental politics. Control of passage, customs, convoy security, and naval access is enough.
 
 ## Historical position

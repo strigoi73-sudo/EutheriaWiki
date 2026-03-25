@@ -2,6 +2,8 @@
 
 Nereth is the northeastern continent of Eutheria, a region of glaciated coasts, major interior mountain systems, fertile eastern lowlands, and politically consequential geographic separation. More than any other major continent except perhaps Valthera, Nereth's history is shaped by the way terrain divides populations and channels power.
 
+![Political map crop of Nereth](../assets/maps/nereth-continent-map.png)
+
 ## Geographic structure
 
 The northern coast is glaciated and severe, limiting dense habitation and pushing the major centers of settled life toward more temperate zones. Farther south and inland, Nereth rises into some of the highest mountains in the known world. These interior barriers are not incidental scenery. They are among the principal reasons the continent developed as a politically fragmented and regionally differentiated space.

@@ -2,6 +2,8 @@
 
 Hayanguk is a substantial inland Korean theocracy in western Valthera. It is best understood as a defensive buffer state: geographically between Korean, Chinese, and Dwarven spheres, and religiously centered on a frontier synthesis viewed with suspicion by neighbors.
 
+![Political map crop of Hayanguk](../assets/maps/hayanguk-map.png)
+
 ## Religious foundation
 
 Hayanguk's defining public tradition is **Tongj Apostatism**, a Korean reinterpretation of Dwarven religious inheritance blended with elements associated with the Witnesses of Dedeok.

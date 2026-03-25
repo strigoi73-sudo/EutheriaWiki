@@ -2,6 +2,8 @@
 
 Hamcheon is a small Korean Dedeokan coastal duchy on Cheonguk's southwestern edge. It is notable less for size than for durability, cohesion, and defensive posture.
 
+![Political map crop of Hamcheon](../assets/maps/hamcheon-map.png)
+
 ## Geographic position
 
 Hamcheon occupies a narrow coastal wedge between [Cheonguk](cheonguk.md) and the sea. It has only one meaningful land neighbor, so it exists largely inside Cheonguk's strategic shadow even while remaining formally independent.

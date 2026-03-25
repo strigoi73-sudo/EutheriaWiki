@@ -4,6 +4,8 @@ Quz Guo is a small sovereign Chinese Taizhouist state centered on **Shang**, wid
 
 It predates [Han Guo](han-guo.md) and is best understood as an older sacred city-state rather than a later constitutional subdivision of the republic.
 
+![Political map crop of Quz Guo](../assets/maps/quz-guo-map.png)
+
 ## Sacred sovereignty
 
 Quz Guo's continuing independence is explained primarily by sacred status rather than military weight. In canon framing, reducing Shang to ordinary provincial administration would diminish the standing of a core Taizhouist holy center.

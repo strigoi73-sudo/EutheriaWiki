@@ -2,6 +2,8 @@
 
 Kasmora is the southwestern continent of Eutheria and the most agriculturally productive major inhabited landmass in the known world. Its deep alluvial soils, major river systems, broad plains, and productive coasts make it the demographic center of the world, but not a unified one. Kasmora's defining political pattern is enduring coexistence among multiple major powers rather than stable continental empire.
 
+![Political map crop of Kasmora](../assets/maps/kasmora-continent-map.png)
+
 ## Geographic structure
 
 A northern mountain belt separates the coast from major interior plains and helps divide maritime zones from agrarian heartlands. South of that barrier, river systems and fertile lowlands sustain very large rural populations. Settlement in Kasmora is overwhelmingly agrarian, distributed across valleys, plains, irrigated regions, and productive coastal corridors rather than concentrated in a small number of dominant urban cores.

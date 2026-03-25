@@ -2,6 +2,8 @@
 
 Guan Guo is a cohesive Chinese kingdom in western Valthera whose importance comes from position more than spectacle. It is best understood as a river-gate toll kingdom built around control of a major inland-to-sea water system.
 
+![Political map crop of Guan Guo](../assets/maps/guan-guo-map.png)
+
 ## Geographic position
 
 Guan Guo occupies a central position in western Valthera between several important neighboring powers. It borders Longlin Guo to the north, Tengc to the east, Kaihui to the south and southeast, [Han Guo](han-guo.md) to the southwest, and [Hayanguk](hayanguk.md) to the west and southwest.

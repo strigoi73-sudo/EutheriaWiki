@@ -4,6 +4,8 @@ The Kingdom of Cheonguk is the largest Korean kingdom in western Valthera and se
 
 It combines major territorial scale, coastal access, and a confident monarchical tradition. In western Valtheran state patterns, Cheonguk contrasts with [Han Guo](han-guo.md)'s mixed republican model and [Hayanguk](hayanguk.md)'s frontier theocratic synthesis.
 
+![Political map crop of Cheonguk](../assets/maps/cheonguk-map.png)
+
 ## Capital and state profile
 
 The current capital is **Eoyangwan**.
