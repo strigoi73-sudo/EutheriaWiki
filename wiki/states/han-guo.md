@@ -4,6 +4,8 @@ Han Guo is a Chinese-classed republic in Valthera that functions in practice as 
 
 Its legal and institutional profile is Chinese in aggregate classification, while its social composition is mixed and cohesive, with substantial bilingual overlap in urban and governing life.
 
+![Political map crop of Han Guo](../assets/maps/han-guo-map.png)
+
 ## Political structure
 
 Han Guo's governing order is republican and negotiated rather than conquest-driven.
