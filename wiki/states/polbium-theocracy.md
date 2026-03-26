@@ -2,6 +2,8 @@
 
 The Polbium Theocracy is the largest Veltric successor state by area and the principal territorial claimant to the institutional inheritance of the [Rocciaganel Church](../religions/rocciaganel-church.md). Its importance comes from the way sacred authority, post-imperial legitimacy, and geographic continuity converge in one state.
 
+![Regional political map crop of the Polbium heartland](../assets/maps/polbium-theocracy-map.png)
+
 ## Marcici and legitimacy
 
 Polbium contains [Marcici](../places/marcici.md), the old joint seat of both Emperor and Pontif. Because of that, the Theocracy presents itself not as a novel regime, but as the last lawful continuation of the old imperial core.

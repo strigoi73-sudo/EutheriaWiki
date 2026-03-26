@@ -2,6 +2,8 @@
 
 Kaihui is a coastal republic in eastern Valthera, but it is best understood as a plains-and-pasture state rather than as a major maritime power. Its productive valleys, horse culture, and postwar political settlement matter more than the mere fact of its shoreline.
 
+![Political map crop of Kaihui](../assets/maps/kaihui-map.png)
+
 ## Historical position
 
 Kaihui was formerly the Kingdom of Kaihui. Before the Likian-Xin Guo war settlement, much of its outward trade moved through Xin Guo's ports rather than through a major Kaihuian maritime system of its own.
