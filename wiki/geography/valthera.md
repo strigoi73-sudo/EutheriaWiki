@@ -40,7 +40,7 @@ Valthera is fragmented but not weak. It contains multiple major states, yet no d
 
 Its politics usually take the form of balancing, rivalry, and regional spheres of influence rather than continental empire.
 
-This pattern is also visible in mixed and layered polities such as [Han Guo](../states/han-guo.md), confessional monarchies such as [Cheonguk](../states/cheonguk.md), defensive frontier theocracies such as [Hayanguk](../states/hayanguk.md), river-gate kingdoms such as [Guan Guo](../states/guan-guo.md), plains republics under postwar constraint such as [Kaihui](../states/kaihui.md), more straightforward landed monarchies such as [Kan Guo](../states/kan-guo.md), upstream frontier monarchies such as [Longlin Guo](../states/longlin-guo.md), old confederated imperial orders such as [Tengc](../states/tengc.md), small defensive duchies such as [Hamcheon](../states/hamcheon.md), and sacred-sovereign centers such as [Quz Guo](../states/quz-guo.md), where legitimacy and institutional form do not map neatly onto single-ethnicity state models.
+This pattern is also visible in mixed and layered polities such as [Han Guo](../states/han-guo.md), confessional monarchies such as [Cheonguk](../states/cheonguk.md), defensive frontier theocracies such as [Hayanguk](../states/hayanguk.md), river-gate kingdoms such as [Guan Guo](../states/guan-guo.md), plains republics under postwar constraint such as [Kaihui](../states/kaihui.md), more straightforward landed monarchies such as [Kan Guo](../states/kan-guo.md), treaty-managed outlet states such as [The Marches of Kai Guo](../states/kai-guo.md), minor coastal duchies such as [Yan](../states/yan.md), upstream frontier monarchies such as [Longlin Guo](../states/longlin-guo.md), old confederated imperial orders such as [Tengc](../states/tengc.md), small defensive duchies such as [Hamcheon](../states/hamcheon.md), and sacred-sovereign centers such as [Quz Guo](../states/quz-guo.md), where legitimacy and institutional form do not map neatly onto single-ethnicity state models.
 
 ## The Likian constraint
 
@@ -63,6 +63,8 @@ Valthera has deep historical memory, but its modern political form is better exp
 - [Guan Guo](../states/guan-guo.md)
 - [Kaihui](../states/kaihui.md)
 - [Kan Guo](../states/kan-guo.md)
+- [The Marches of Kai Guo](../states/kai-guo.md)
+- [Yan](../states/yan.md)
 - [Longlin Guo](../states/longlin-guo.md)
 - [Tengc](../states/tengc.md)
 - [Duchy of Hamcheon](../states/hamcheon.md)

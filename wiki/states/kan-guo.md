@@ -22,6 +22,8 @@ Kan Guo is one of Kaihui's most important neighbors and most obvious long-term t
 
 At the same time, the two states remain tied by trade and proximity. Kan Guo therefore matters to Kaihui not only as a danger, but as a necessary southern interlocutor in the broader southeastern Valtheran system.
 
+That relationship also helps explain the continued importance of [The Marches of Kai Guo](kai-guo.md), whose treaty-bound neutrality prevents the southern outlet from becoming a simple instrument of either side.
+
 ## Fuz Guo within the kingdom
 
 [Fuz Guo](fuz-guo.md) survives inside Kan Guo as an old semi-autonomous duchy whose historic privileges were never fully erased by later royal consolidation. That irregularity helps mark Kan Guo as an old monarchy with surviving feudal complexity rather than a perfectly rationalized state.
@@ -31,4 +33,6 @@ At the same time, the two states remain tied by trade and proximity. Kan Guo the
 - [Valthera](../geography/valthera.md)
 - [Kaihui](kaihui.md)
 - [Fuz Guo](fuz-guo.md)
+- [The Marches of Kai Guo](kai-guo.md)
+- [Yan](yan.md)
 - [See of Xin Guo](xin-guo.md)

@@ -29,6 +29,8 @@ This section focuses on major contemporary polities rather than every historical
 - [Kaihui](kaihui.md)
 - [Kan Guo](kan-guo.md)
 - [Fuz Guo](fuz-guo.md)
+- [The Marches of Kai Guo](kai-guo.md)
+- [Yan](yan.md)
 - [Longlin Guo](longlin-guo.md)
 - [Tengc](tengc.md)
 - [Han Guo](han-guo.md)

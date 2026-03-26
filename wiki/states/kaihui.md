@@ -18,6 +18,8 @@ Its interior of rolling plains, pasture, and fertile valleys is more important t
 
 Current canon suggests the coast could have supported more significant harbor development, but that infrastructure was never built at scale because older Xin-linked maritime arrangements made it unnecessary. Kaihui is therefore coastal without being maritime-dominant.
 
+One important southern outlet is mediated through [The Marches of Kai Guo](kai-guo.md), whose treaty structure keeps that corridor from becoming a unilateral Kaihuian asset.
+
 ## Economy
 
 Kaihui is one of the major food-producing states of eastern Valthera. Its strength rests on agriculture, pastoralism, and horse breeding more than on seaborne commerce.
@@ -62,5 +64,6 @@ Kaihui is best understood as a proud pastoral-plains state living inside an exte
 - [Guan Guo](guan-guo.md)
 - [Han Guo](han-guo.md)
 - [Kan Guo](kan-guo.md)
+- [The Marches of Kai Guo](kai-guo.md)
 - [See of Xin Guo](xin-guo.md)
 - [Likia](likia.md)

@@ -18,9 +18,9 @@ Its geography remains strongly maritime in orientation, but it no longer has the
 
 ## Government and leadership
 
-The See is a true church-state rather than a monarchy with priests layered on top. Its supreme hierarch is the **Zhadrin**, while the senior clerical council and governing bureaucracy of the state is the **Khashung**.
+The See is a true church-state rather than a monarchy with priests layered on top. It is best understood as a humiliated maritime theocracy that redirected old outward ambition into education, doctrine, diplomacy, and confessional influence.
 
-The ideal ruler of the See is a true cleric recognized by the senior clergy as spiritually fit to hold the office. If no such figure can be acknowledged, authority reverts provisionally to the Khashung until one is recognized.
+Its supreme hierarch is the **Zhadrin**, while the senior clerical council and governing bureaucracy of the state is the **Khashung**. A true cleric is necessary but not sufficient to become Zhadrin; the office also depends on recognition by the senior clergy as spiritually fit to hold it. If no such figure can be acknowledged, authority reverts provisionally to the Khashung until one is recognized.
 
 ## Clergy, education, and influence
 
@@ -51,5 +51,7 @@ It matters less for raw power than for memory, grievance, and the redirection of
 - [Likia](likia.md)
 - [Kaihui](kaihui.md)
 - [Kan Guo](kan-guo.md)
+- [The Marches of Kai Guo](kai-guo.md)
+- [Yan](yan.md)
 - [Valthera](../geography/valthera.md)
 - [Chronology of Eutheria](../history/chronology-of-eutheria.md)
