@@ -19,6 +19,7 @@ This section focuses on major contemporary polities rather than every historical
 - [Kingdom of Hawa](hawa.md)
 - [Dukanese Theocracy](dukan.md)
 - [Kordemeli](kordemeli.md)
+- [Polbium Theocracy](polbium-theocracy.md)
 - [Sala](sala.md)
 - [Likia](likia.md)
 - [Hayanguk](hayanguk.md)

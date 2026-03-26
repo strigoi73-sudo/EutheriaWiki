@@ -1,33 +1,33 @@
 # Veltric Empire
 
-The Veltric Empire was the last major imperial order to dominate large parts of eastern [Nereth](../geography/nereth.md). Its importance is not only that it once ruled widely, but that its administrative patterns, trade corridors, and political vocabulary outlived imperial unity.
+The Veltric Empire was the last great imperial order of eastern [Nereth](../geography/nereth.md). For roughly a thousand years it provided the largest single framework of law, administration, road-and-river infrastructure, and institutional legitimacy in the known world.
 
-## Overview
+## Imperial structure
 
-At its height, the empire bound multiple regions under a shared framework of taxation, infrastructure, and legitimacy. Veltric rule was uneven across the continent, but where it was strongest it reorganized local elites around imperial offices and long-distance exchange.
+The Empire grew out of the older Veltric Republic and was strongest in the contiguous lowlands of eastern Nereth, where geography supported durable administration. In mountain-separated or peripheral regions, imperial influence was thinner and more dependent on negotiated local compliance.
 
-## Core zones of dominance
+At its height, the Empire bound multiple regions under a shared political vocabulary of office, taxation, record-keeping, and legitimacy. Even where direct rule was uneven, Veltric institutions reshaped local elites and long-distance exchange.
 
-Veltric authority was most durable in eastern Nereth, where contiguous lowlands and workable communication routes allowed sustained administration. In more mountainous and western regions, imperial influence was thinner and more dependent on negotiated local compliance.
+## Marcici and the imperial center
 
-This uneven geography helps explain why "Veltric" functioned differently by region: direct rule in some areas, looser imperial framing in others.
+The imperial center stood at [Marcici](../places/marcici.md), in what is now the [Polbium Theocracy](../states/polbium-theocracy.md). Marcici served as the joint seat of both Emperor and Pontif, making it the political and ecclesiastical heart of the Empire.
 
-## Lasting institutional legacy
+That concentration of authority mattered enormously in the Empire's final crisis. Because supreme civil and clerical leadership were both rooted in Marcici, succession politics and Church legitimacy became inseparable at the moment of collapse.
 
-Even after collapse, former Veltric regions retained habits shaped by imperial governance:
+## Religion and late-imperial strain
 
-- record-minded administration and legal formalism
-- trade routes oriented toward older imperial corridors
-- political identities built around succession claims rather than total rupture
+Over time the [Rocciaganel Church](../religions/rocciaganel-church.md) became the Empire's principal official religious institution. This aligned imperial rule with a centralizing ecclesiastical order, but it also sharpened tensions with older Roman traditions that never disappeared entirely.
 
-The result is that post-imperial states still operate inside a landscape partly organized by Veltric-era assumptions.
+By the Empire's final centuries, fiscal resentment, administrative overreach, and religious tension had all begun to hollow out imperial authority from within.
 
-## Historical significance
+## Legacy
 
-The Veltric Empire matters because it gave Nereth a shared historical frame without producing permanent continental unity. Its institutions spread farther than its long-term coercive capacity, creating a pattern in which imperial memory outlasted empire.
+The Empire ceased to exist as a political entity in the late ninth century LC, but its roads, legal habits, successor claims, and institutional memory endured. Former imperial regions still operate inside a landscape shaped by Veltric assumptions about legitimacy, administration, and historical inheritance.
 
 ## Related
 
 - [Fall of the Veltric Empire](fall-of-the-veltric-empire.md)
-- [Likian-Dukan War](likian-dukan-war.md)
+- [Age of Fracture](age-of-fracture.md)
+- [Marcici](../places/marcici.md)
+- [Rocciaganel Church](../religions/rocciaganel-church.md)
 - [Nereth](../geography/nereth.md)

@@ -1,35 +1,28 @@
 # The Tome and the Cult of the Void
 
-In late-imperial Veltric history, a manuscript of unknown origin introduced a cosmological threat model outside ordinary aligned metaphysics. The text and the group formed around it are central to hidden-history interpretations of the collapse period.
+In late-imperial Veltric history, a forbidden manuscript of unknown origin became associated with a cluster of occult disturbances later connected to what scholars call the [Cult of the Void](cult-of-the-void.md). Public knowledge of both remains fragmentary.
 
-## The Tome
+## The tome
 
-Canonical accounts describe a manuscript translated in the final century of the Veltric Empire by scholars in the imperial capital. Its language, material substrate, and provenance were treated as anomalous.
+Public accounts describe a manuscript translated in the final century of the Veltric Empire by scholars in the imperial capital. Its language, material substrate, and provenance were all treated as anomalous.
 
-The translated content claimed direct knowledge of the **Kenoma** and of entities associated with void-intrusion dynamics beyond conventional planar categories. Most consequentially, it included methods for contact.
+Later traditions hold that the text described forces beyond the ordinary aligned cosmology of the world and spoke of the [Kenoma](../cosmology/kenoma-and-outer-gods.md) in terms that ordinary theology could not easily absorb.
 
-## Cognitive and social effects
+## Public effects
 
-Tradition holds that close translators suffered extreme psychological and metaphysical destabilization. Rather than generating a conventional cultic theology, the text produced compulsive, anti-cosmic orientation among survivors.
+The manuscript became associated with madness, disappearances, censorship, and restricted archival notice. Most ordinary scholarship treats it as a forbidden curiosity rather than as a fully understood cosmological threat.
 
-## The Cult of the Void
+## Relation to the cult
 
-The resulting Cult of the Void is described as:
+The surviving evidence does not allow historians to reconstruct a single fully documented organization, but later occult traditions connect the manuscript to late-imperial circles of dangerous void speculation and to the emergence of the Cult of the Void.
 
-- non-missionary in conventional terms,
-- structurally secretive,
-- oriented toward introducing Kenoma influence into ordered reality,
-- linked to Great Old One mediation rather than standard aligned devotion.
+## Public uncertainty
 
-The cult is not adequately modeled by ordinary categories such as state religion, heresy, or philosophical school.
-
-## Historical uncertainty
-
-A direct causal chain between the cult and the imperial succession crisis has not been canonically finalized. Historiography therefore treats this as an unresolved but high-significance line of inquiry.
+Whether the tome merely inspired scattered occultism or helped generate a more coherent hidden movement remains a matter of debate. The direct connection between this manuscript, late-imperial instability, and the broader [Fracture](age-of-fracture.md) has never been conclusively established in public historiography.
 
 ## Related
 
-- [The Kenoma and the Outer Gods](../cosmology/kenoma-and-outer-gods.md)
+- [Cult of the Void](cult-of-the-void.md)
 - [Fall of the Veltric Empire](fall-of-the-veltric-empire.md)
-- [Post-Trelhelm Era](post-trelhelm-era.md)
-- [Eastern Nereth Religious Landscape](../religions/eastern-nereth-religious-landscape.md)
+- [Age of Fracture](age-of-fracture.md)
+- [The Kenoma and the Outer Gods](../cosmology/kenoma-and-outer-gods.md)

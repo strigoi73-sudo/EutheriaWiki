@@ -7,10 +7,13 @@ This section focuses on the historical processes and turning points that most cl
 ## Key articles
 
 - [Chronology of Eutheria](chronology-of-eutheria.md)
+- [Age of Fracture](age-of-fracture.md)
 - [Pre-Humanoid Ages](pre-humanoid-ages.md)
+- [Thousand-Year War](thousand-year-war.md)
 - [Great Catastrophe and the Battle of Trelhelm](great-catastrophe-and-trelhelm.md)
 - [Post-Trelhelm Era](post-trelhelm-era.md)
 - [Veltric Empire](veltric-empire.md)
 - [Fall of the Veltric Empire](fall-of-the-veltric-empire.md)
+- [Cult of the Void](cult-of-the-void.md)
 - [The Tome and the Cult of the Void](tome-and-cult-of-the-void.md)
 - [Likian-Dukan War](likian-dukan-war.md)

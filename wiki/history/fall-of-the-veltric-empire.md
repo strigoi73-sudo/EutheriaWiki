@@ -1,35 +1,32 @@
 # Fall of the Veltric Empire
 
-The fall of the Veltric Empire was a prolonged fragmentation rather than a single terminal event. Imperial institutions did not vanish at once; they broke apart region by region, producing different successor outcomes across [Nereth](../geography/nereth.md).
+The fall of the Veltric Empire was a prolonged fragmentation, not a single terminal event. It began around **876 LC**, when the emperor died in [Marcici](../places/marcici.md) without an heir, and it developed into the wider crisis now called the [Age of Fracture](age-of-fracture.md).
 
-## Overview
+## Succession crisis in Marcici
 
-As imperial central authority weakened, provincial structures and regional elites reoriented toward local survival, autonomy, and succession legitimacy. Some zones preserved administrative continuity, while others shifted rapidly into contested border politics.
+Marcici had long served as the joint seat of Emperor and Pontif. When the throne fell vacant, the [Rocciaganel Church](../religions/rocciaganel-church.md) in Marcici declared itself the de facto governing authority of the Empire until lawful continuity could be restored.
 
-## Fragmentation pattern
+Many provincial governors and local elites regarded this as ecclesiastical usurpation. What followed was not a single reunification war, but a widening fracture of rival claimants, provincial coalitions, and Church-backed assertions of legitimacy.
 
-Veltric collapse did not produce a uniform political landscape.
+## Four public phases
 
-- former core zones often retained legal and bureaucratic continuity
-- peripheral regions saw faster military competition and institutional turnover
-- mountain-separated regions diverged more sharply than connected lowland areas
+Current public periodization treats the collapse in four phases:
 
-This helps explain why later states inherited very different capacities despite sharing a nominal imperial past.
+1. **Immediate Collapse (876 to ~900 LC)**: civil war, emergency rule, and breakdown of central legitimacy.
+2. **Wars of Settlement (~900 to ~950 LC)**: borders hardened and temporary wartime commands became permanent state structures.
+3. **False Stabilization (~950 to ~1000 LC)**: the largest wars faded and a rough successor order seemed to settle into place.
+4. **Deepening Fracture (~1000 to 1026 LC)**: renewed religious conflict, contested trade, and broader instability undermined that apparent settlement.
 
-## Effects on trade and legitimacy
+## Consequences
 
-Imperial dissolution disrupted integrated trade routines, replacing them with negotiated inter-polity corridors. Control of chokepoints and customs access became more important than imperial-wide coherence.
+The Empire's fall did not erase imperial infrastructure overnight. Roads, law codes, administrative habits, and succession language survived in uneven forms across eastern Nereth. This helps explain why later states inherited very different capacities while still arguing over a shared imperial past.
 
-Legitimacy also became plural. Rival powers claimed continuity, reform, or rejection of Veltric precedent depending on local conditions and political need.
-
-## Diplomatic consequences
-
-Post-imperial diplomacy became structurally regional. Without one recognized center, states had to manage a patchwork of succession memories, border disputes, and practical commercial bargains.
-
-The long-term result was not simple decline, but a more fragmented and competitive order whose logic still shapes interstate behavior.
+Trade rerouted rather than disappeared, and legitimacy became plural rather than unified. Successor states increasingly defined themselves by continuity with, reform of, or rejection of Veltric precedent.
 
 ## Related
 
 - [Veltric Empire](veltric-empire.md)
+- [Age of Fracture](age-of-fracture.md)
+- [Marcici](../places/marcici.md)
+- [Rocciaganel Church](../religions/rocciaganel-church.md)
 - [Nereth](../geography/nereth.md)
-- [Likia](../states/likia.md)

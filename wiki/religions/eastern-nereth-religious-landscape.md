@@ -1,38 +1,44 @@
 # Eastern Nereth Religious Landscape
 
-Eastern Nereth contains overlapping religious systems tied to different phases of Roman- and Veltric-era history. Present dynamics are inseparable from imperial collapse and succession politics.
+Eastern Nereth contains overlapping religious systems tied to different phases of Roman and Veltric history. Present dynamics are inseparable from imperial collapse, successor legitimacy, and the continuing public consequences of the [Age of Fracture](../history/age-of-fracture.md).
 
 ## Three major traditions
 
-### Old Roman beliefs
+### Old Roman Beliefs
 
-An older animist-folk layer that predates republican centralization. Never fully disappeared and has seen renewed visibility after imperial fragmentation.
+The oldest surviving religious layer in the Roman heartland. It predates both the Republic and the Empire, remained alive beneath later institutions, and is now publicly resurgent.
 
-### Roman beliefs
+### Roman Beliefs
 
-A more formalized polytheist tradition associated with republican-era state organization. In many successor regions it now participates in a post-imperial revival.
+The organized polytheist tradition of the republican era. It has regained confidence and visibility across the post-imperial world, especially where communities seek distance from the old imperial-Church order.
 
 ### Rocciaganel Church
 
-A monotheist institutional tradition that became the principal imperial religion during later Veltric centuries. Its bureaucracy survived political collapse more effectively than imperial sovereignty did, but authority is now contested.
+The monotheist institutional tradition that became the principal imperial religion of the Veltric Empire. Its administrative framework survived collapse more effectively than imperial sovereignty did, but its authority is now contested.
 
-## The post-imperial fault line
+## Marcici, the Pontif, and the Fracture
 
-Religious alignment in successor polities is also a statement of historical legitimacy:
+[Marcici](../places/marcici.md) was the joint seat of both Emperor and Pontif during the imperial era. After the emperor's death in 876 LC, the Church in Marcici declared itself the de facto governing authority of the Empire until lawful succession could be restored.
 
-- continuity with imperial institutions,
-- restoration of pre-imperial traditions,
-- or hybrid compromise.
-
-As a result, theology, law, and succession rhetoric remain tightly intertwined.
+That declaration did much to transform succession crisis into enduring fracture. Religious affiliation in eastern Nereth therefore remains tightly bound to political memory and legitimacy.
 
 ## Polbium Theocracy
 
-The Polbium Theocracy is the largest territorial claimant to Rocciaganel institutional inheritance. It wields significant soft power through ecclesiastical legitimacy claims across former imperial regions, but that authority faces active pushback where older traditions are resurging.
+The [Polbium Theocracy](../states/polbium-theocracy.md) is the largest territorial claimant to the institutional inheritance of the Rocciaganel Church. Because Marcici lies within Polbium, ecclesiastical authority and post-imperial state legitimacy remain deeply entangled there.
+
+## Present fault line
+
+Eastern Nereth's major religious divide is not merely theological. It is also a conflict over historical inheritance:
+
+- continuity with imperial institutions
+- restoration of older Roman traditions
+- or uneasy coexistence between the two
 
 ## Related
 
+- [Old Roman Beliefs](old-roman-beliefs.md)
+- [Roman Beliefs](roman-beliefs.md)
+- [Rocciaganel Church](rocciaganel-church.md)
+- [Polbium Theocracy](../states/polbium-theocracy.md)
 - [Veltric Empire](../history/veltric-empire.md)
-- [Fall of the Veltric Empire](../history/fall-of-the-veltric-empire.md)
-- [Post-Trelhelm Era](../history/post-trelhelm-era.md)
-- [The Tome and the Cult of the Void](../history/tome-and-cult-of-the-void.md)
+- [Age of Fracture](../history/age-of-fracture.md)

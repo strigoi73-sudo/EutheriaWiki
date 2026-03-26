@@ -19,4 +19,5 @@ This section records the core metaphysical framework of the setting in reference
 - [The Planes](planes.md)
 - [Souls and the Cycle of Existence](souls-cycle.md)
 - [The Kenoma and the Outer Gods](kenoma-and-outer-gods.md)
+- [Great Old Ones](great-old-ones.md)
 - [Divine Power and Magic](divine-power-and-magic.md)
