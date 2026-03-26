@@ -12,7 +12,7 @@ This made Kaihui an important material supporter of Xin Guo without making it a 
 
 ## Geography and the port problem
 
-Kaihui lies in eastern Valthera on the southeastern seaboard, facing the western waters of Oceanus Centralis. It sits south of [Guan Guo](guan-guo.md), east of [Han Guo](han-guo.md), and west of the wider Guan-Longlin-Tengc bay system.
+Kaihui lies in eastern Valthera on the southeastern seaboard, facing the western waters of Oceanus Centralis. It sits south of [Guan Guo](guan-guo.md), north of [Kan Guo](kan-guo.md), east of [Han Guo](han-guo.md), and west of the wider Guan-Longlin-Tengc bay system.
 
 Its interior of rolling plains, pasture, and fertile valleys is more important than its coast. Kaihui has more coastline than Guan Guo, but it lacks the developed port network needed to convert that coastline into comparable maritime leverage.
 
@@ -22,7 +22,7 @@ Current canon suggests the coast could have supported more significant harbor de
 
 Kaihui is one of the major food-producing states of eastern Valthera. Its strength rests on agriculture, pastoralism, and horse breeding more than on seaborne commerce.
 
-That productivity gives Kaihui broad regional importance because neighboring markets depend heavily on its grain. At the same time, the same abundance makes it an obvious target for stronger or more ambitious neighbors.
+That productivity gives Kaihui broad regional importance because neighboring markets depend heavily on its grain. At the same time, the same abundance makes it an obvious target for stronger or more ambitious neighbors, especially [Kan Guo](kan-guo.md).
 
 ## Horses and social identity
 
@@ -61,5 +61,6 @@ Kaihui is best understood as a proud pastoral-plains state living inside an exte
 - [Valthera](../geography/valthera.md)
 - [Guan Guo](guan-guo.md)
 - [Han Guo](han-guo.md)
+- [Kan Guo](kan-guo.md)
 - [See of Xin Guo](xin-guo.md)
 - [Likia](likia.md)
