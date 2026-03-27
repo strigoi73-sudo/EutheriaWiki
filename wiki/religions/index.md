@@ -13,13 +13,13 @@ This section documents religions as lived and institutional systems: what they t
 
 ## Articles
 
-- [Rawranism](rawranism.md)
 - [Ayedism](ayedism.md)
 - [Delistanism](delistanism.md)
+- [Eastern Nereth Religious Landscape](eastern-nereth-religious-landscape.md)
 - [Kasmoran Religious Landscape](kasmoran-religious-landscape.md)
 - [Old Roman Beliefs](old-roman-beliefs.md)
+- [Rawranism](rawranism.md)
 - [Roman Beliefs](roman-beliefs.md)
 - [Rocciaganel Church](rocciaganel-church.md)
 - [Taizhouism](taizhouism.md)
 - [Tongj Apostates](tongj-apostates.md)
-- [Eastern Nereth Religious Landscape](eastern-nereth-religious-landscape.md)

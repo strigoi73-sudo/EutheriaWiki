@@ -14,10 +14,10 @@ This section begins with world-scale orientation and then moves inward to the ma
 
 ## Articles
 
-- [World of Eutheria](world-of-eutheria.md)
-- [Valthera](valthera.md)
-- [Nereth](nereth.md)
-- [Kasmora](kasmora.md)
-- [Golsta](golsta.md)
-- [Central Island Chain](central-island-chain.md)
 - [Biomes of Eutheria](biomes-of-eutheria.md)
+- [Central Island Chain](central-island-chain.md)
+- [Golsta](golsta.md)
+- [Kasmora](kasmora.md)
+- [Nereth](nereth.md)
+- [Valthera](valthera.md)
+- [World of Eutheria](world-of-eutheria.md)

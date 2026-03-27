@@ -6,6 +6,6 @@ This section documents the lived social worlds that shape institutions, identity
 
 ## Key articles
 
+- [Berber Culture in Kasmora](berber-culture-in-kasmora.md)
 - [Likian Culture](likian-culture.md)
 - [Rawran Civilization](rawran-civilization.md)
-- [Berber Culture in Kasmora](berber-culture-in-kasmora.md)

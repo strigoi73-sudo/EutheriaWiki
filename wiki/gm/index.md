@@ -6,11 +6,11 @@ Use these pages when you need the truth layer behind public history: the hidden 
 
 ## GM Pages
 
-- [Hidden Timeline of the Fracture](hidden-timeline-of-the-fracture.md)
-- [Cult of the Void - True Nature](cult-of-the-void-true-nature.md)
-- [The Tome and Void Knowledge](the-tome-and-void-knowledge.md)
 - [Ancient Void Contact](ancient-void-contact.md)
-- [The Pontif - Compromised Cleric](the-pontif-compromised-cleric.md)
 - [Church Infiltration and Collapse Mechanism](church-infiltration-and-collapse-mechanism.md)
+- [Cult of the Void - True Nature](cult-of-the-void-true-nature.md)
 - [Deep Folk - True Cause](deep-folk-true-cause.md)
 - [Great Old Ones - Metaversal Threat Model](great-old-ones-metaversal-threat-model.md)
+- [Hidden Timeline of the Fracture](hidden-timeline-of-the-fracture.md)
+- [The Pontif - Compromised Cleric](the-pontif-compromised-cleric.md)
+- [The Tome and Void Knowledge](the-tome-and-void-knowledge.md)

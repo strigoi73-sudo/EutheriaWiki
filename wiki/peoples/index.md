@@ -6,9 +6,9 @@ This section treats peoples as enduring communities across changing political bo
 
 ## Key articles
 
-- [Humanoid Lineages of Eutheria](humanoid-lineages.md)
+- [Berbers of Kasmora](berbers-of-kasmora.md)
 - [Deep Folk](deep-folk.md)
 - [Dragons](dragons.md)
-- [Likians](likians.md)
-- [Berbers of Kasmora](berbers-of-kasmora.md)
 - [Dwarves of Valthera and Nereth](dwarves-of-valthera-and-nereth.md)
+- [Humanoid Lineages of Eutheria](humanoid-lineages.md)
+- [Likians](likians.md)

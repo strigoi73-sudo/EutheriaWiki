@@ -7,6 +7,6 @@ This section identifies places as functional nodes in the world, not just map la
 ## Key articles
 
 - [Ashaybar](ashaybar.md)
+- [Jora Territory](jora-territory.md)
 - [Marcici](marcici.md)
 - [Tuwaid](tuwaid.md)
-- [Jora Territory](jora-territory.md)

@@ -4,7 +4,7 @@ The glossary defines shared terms, names, and concepts that recur across the Eut
 
 ## Entries
 
+- [Kenoma](kenoma.md)
 - [Likian Calendar](likian-calendar.md)
 - [Oceanus Centralis](oceanus-centralis.md)
 - [Pleroma](pleroma.md)
-- [Kenoma](kenoma.md)

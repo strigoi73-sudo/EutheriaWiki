@@ -15,9 +15,9 @@ This section records the core metaphysical framework of the setting in reference
 
 ## Articles
 
-- [The First Moment](first-moment.md)
-- [The Planes](planes.md)
-- [Souls and the Cycle of Existence](souls-cycle.md)
-- [The Kenoma and the Outer Gods](kenoma-and-outer-gods.md)
-- [Great Old Ones](great-old-ones.md)
 - [Divine Power and Magic](divine-power-and-magic.md)
+- [Great Old Ones](great-old-ones.md)
+- [Souls and the Cycle of Existence](souls-cycle.md)
+- [The First Moment](first-moment.md)
+- [The Kenoma and the Outer Gods](kenoma-and-outer-gods.md)
+- [The Planes](planes.md)
