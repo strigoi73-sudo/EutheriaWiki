@@ -24,7 +24,7 @@ Yan's military capacity is limited and defensive: harbor guards, ducal retainers
 
 ## Religion
 
-Yan is conventionally Xinchang in practice, but it is not eager to accept strong outside clerical direction. Its religious life is better understood as inherited and local than as aggressively systematized.
+Yan is conventionally Xinchang in practice, but it is not notably household-centered in the Kaihui manner and is not eager to accept strong outside clerical direction from the See of Xin Guo. Its religious life is better understood as inherited, local, and politically unexciting than as aggressively systematized.
 
 ## Related
 
@@ -33,3 +33,4 @@ Yan is conventionally Xinchang in practice, but it is not eager to accept strong
 - [Kan Guo](kan-guo.md)
 - [See of Xin Guo](xin-guo.md)
 - [Valthera](../geography/valthera.md)
+- [Eastern and Southeastern Valthera](../geography/eastern-southeastern-valthera.md)

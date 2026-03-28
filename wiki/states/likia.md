@@ -40,6 +40,8 @@ This layered map reflects historical depth rather than simple eclecticism: Nordi
 
 Likian settlement is also geographically dual. The island capital **Margaros** is the political and military center of the maritime order, while the city of **Likia** on the Kasmoran coast remains the original founding settlement and major commercial heart.
 
+Likia should therefore not be imagined as a northern transplant that never changed. Its Nordic ancestry remains real, especially in relation to the northwestern maritime world, but its long residence in the strait has produced a mature hinge civilization shaped as much by central waters, trade, and composite settlement as by origin alone.
+
 ## Strategic significance
 
 Likia's core advantage is control of sea routes across Oceanus Centralis. That advantage shapes the behavior of stronger territorial powers around it.
@@ -79,6 +81,7 @@ This produces a characteristic Likian outlook: proud, pragmatic, and rarely sent
 - [Haria](haria.md)
 - [Kingdom of Hawa](hawa.md)
 - [Dukanese Theocracy](dukan.md)
+- [Lienia](lienia.md)
 - [See of Xin Guo](xin-guo.md)
 - [Likian Culture](../cultures/likian-culture.md)
 - [Likians](../peoples/likians.md)

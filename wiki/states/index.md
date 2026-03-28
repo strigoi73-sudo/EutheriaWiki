@@ -28,6 +28,7 @@ This section focuses on major contemporary polities rather than every historical
 - [Kingdom of Har](har.md)
 - [Kordemeli](kordemeli.md)
 - [Likia](likia.md)
+- [Lienia](lienia.md)
 - [Longlin Guo](longlin-guo.md)
 - [Polbium Theocracy](polbium-theocracy.md)
 - [Quz Guo](quz-guo.md)

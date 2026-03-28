@@ -34,6 +34,8 @@ This gives Kaihui a profile closer to a horse-people society than to a state whe
 
 Kaihui also includes a significant nomadic or semi-nomadic population, especially across the northern non-urban plains. Older horse-clan traditions therefore remain socially important even under republican constitutional language.
 
+Kaihui should therefore not be read as merely a settled Chinese coastal state with steppe ornament. Its interior culture is deliberately self-preserving and remains meaningfully distinct from neighboring settled civilizations even under sustained outside pressure.
+
 ## Government and political culture
 
 The Republic of Kaihui is publicly celebrated, especially among commoners, but much of the merchant class and aristocracy treats it as a foreign political system imposed after war. In practice, it is republican in name more than in sovereign emotional legitimacy.
@@ -67,3 +69,4 @@ Kaihui is best understood as a proud pastoral-plains state living inside an exte
 - [The Marches of Kai Guo](kai-guo.md)
 - [See of Xin Guo](xin-guo.md)
 - [Likia](likia.md)
+- [Eastern and Southeastern Valthera](../geography/eastern-southeastern-valthera.md)
