@@ -53,6 +53,8 @@ Lienia's most important outside relationship is with [Likia](likia.md), whose ma
 
 Lienia is strongest at nodes and weaker in seams. Regions such as [Rombevenia](../geography/rombevenia.md) lie close to the estuarial-commercial core, while regions such as [Dudbury](../geography/dudbury.md) belong to the broad inland body where royal authority is real but more weakly felt in everyday life.
 
+That inland distinction matters for the current campaign layer. [Thornwick](../places/thornwick.md), inside Dudbury, is a good example of how Lienia can remain civilized and recognizably ordered while still leaving local danger, shrine-memory, road trouble, and creature pressure for local society and local heroes to absorb first.
+
 ## Related
 
 - [Nereth](../geography/nereth.md)
@@ -60,3 +62,4 @@ Lienia is strongest at nodes and weaker in seams. Regions such as [Rombevenia](.
 - [Likia](likia.md)
 - [Dudbury](../geography/dudbury.md)
 - [Rombevenia](../geography/rombevenia.md)
+- [Thornwick](../places/thornwick.md)

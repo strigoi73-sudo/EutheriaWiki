@@ -9,4 +9,5 @@ This section identifies places as functional nodes in the world, not just map la
 - [Ashaybar](ashaybar.md)
 - [Jora Territory](jora-territory.md)
 - [Marcici](marcici.md)
+- [Thornwick](thornwick.md)
 - [Tuwaid](tuwaid.md)
