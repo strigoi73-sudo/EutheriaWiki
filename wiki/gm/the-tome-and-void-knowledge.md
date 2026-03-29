@@ -28,6 +28,6 @@ Its current location is known only to the Cult of the Void.
 
 ## Related
 
-- [The Tome and the Cult of the Void](../history/tome-and-cult-of-the-void.md)
+- [Forbidden Veltric Manuscript](../history/forbidden-veltric-manuscript.md)
 - [Cult of the Void - True Nature](cult-of-the-void-true-nature.md)
 - [Ancient Void Contact](ancient-void-contact.md)

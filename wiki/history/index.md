@@ -18,5 +18,4 @@ This section focuses on the historical processes and turning points that most cl
 
 ## Topical articles
 
-- [Cult of the Void](cult-of-the-void.md)
-- [The Tome and the Cult of the Void](tome-and-cult-of-the-void.md)
+- [Forbidden Veltric Manuscript](forbidden-veltric-manuscript.md)
