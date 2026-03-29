@@ -15,7 +15,3 @@ This section focuses on the historical processes and turning points that most cl
 - [Age of Fracture](age-of-fracture.md)
 - [Post-Trelhelm Era](post-trelhelm-era.md)
 - [Likian-Dukan War](likian-dukan-war.md)
-
-## Topical articles
-
-- [Forbidden Veltric Manuscript](forbidden-veltric-manuscript.md)

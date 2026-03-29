@@ -18,5 +18,4 @@ Great Old Ones matter because they imply more than regional danger. They suggest
 
 ## Related
 
-- [Forbidden Veltric Manuscript](../history/forbidden-veltric-manuscript.md)
 - [The Kenoma and the Outer Gods](kenoma-and-outer-gods.md)

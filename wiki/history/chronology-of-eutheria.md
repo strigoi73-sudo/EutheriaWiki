@@ -29,7 +29,7 @@ This page summarizes high-level chronology used across the wiki. For analytical 
 - **~200 to ~300 LC**: Valtheran expansion into Oceanus Centralis accelerates, setting the conditions for sustained rivalry with Likia.
 - **~300 to ~750 LC**: Likian-Xin Guo rivalry unfolds as a long strategic contest marked by intermittent naval wars, embargoes, proxy struggles, piracy, privateering, and competition over islands and trade routes.
 - **~750 to ~800 LC**: final major Likian victory; Xin Guo reconstituted as the See of Xin Guo under naval prohibition; cold peace framework established.
-- **Final decades of the Veltric Empire**: a forbidden manuscript of unknown provenance is translated in the imperial capital; later traditions connect it to late-imperial occult disturbance.
+- **Final decades of the Veltric Empire**: intellectual, religious, and archival disturbances deepen in the imperial capital during the Empire's last century.
 - **~876 LC**: the emperor dies in Marcici without an heir; the Church claims de facto governing authority while succession remains unresolved, and the Fracture begins.
 - **876 to ~900 LC**: the Immediate Collapse.
 - **~900 to ~950 LC**: the Wars of Settlement.

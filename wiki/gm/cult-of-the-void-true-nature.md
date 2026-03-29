@@ -46,4 +46,3 @@ The Cult is the central hidden antagonist of the setting's current campaign laye
 - [The Tome and Void Knowledge](the-tome-and-void-knowledge.md)
 - [Church Infiltration and Collapse Mechanism](church-infiltration-and-collapse-mechanism.md)
 - [Great Old Ones - Metaversal Threat Model](great-old-ones-metaversal-threat-model.md)
-- [Forbidden Veltric Manuscript](../history/forbidden-veltric-manuscript.md)

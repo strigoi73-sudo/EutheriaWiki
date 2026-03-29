@@ -28,6 +28,5 @@ Its current location is known only to the Cult of the Void.
 
 ## Related
 
-- [Forbidden Veltric Manuscript](../history/forbidden-veltric-manuscript.md)
 - [Cult of the Void - True Nature](cult-of-the-void-true-nature.md)
 - [Ancient Void Contact](ancient-void-contact.md)
