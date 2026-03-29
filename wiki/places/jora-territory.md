@@ -20,6 +20,6 @@ Jora shows that sacred influence depends on institutions that can manage roads, 
 
 ## Related
 
-- [Tuwaid](tuwaid.md)
-- [Kingdom of Sala](../states/sala.md)
 - [Haria](../states/haria.md)
+- [Kingdom of Sala](../states/sala.md)
+- [Tuwaid](tuwaid.md)

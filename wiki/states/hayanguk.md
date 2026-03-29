@@ -58,8 +58,8 @@ Hayanguk sits inside a western Valtheran political field that also includes:
 
 ## Related
 
-- [Valthera](../geography/valthera.md)
-- [Tongj Apostates](../religions/tongj-apostates.md)
-- [Kingdom of Cheonguk](cheonguk.md)
-- [Guan Guo](guan-guo.md)
 - [Duchy of Hamcheon](hamcheon.md)
+- [Guan Guo](guan-guo.md)
+- [Kingdom of Cheonguk](cheonguk.md)
+- [Tongj Apostates](../religions/tongj-apostates.md)
+- [Valthera](../geography/valthera.md)

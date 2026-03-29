@@ -32,10 +32,10 @@ Magic is a normal feature of the setting rather than an anomaly imported into it
 
 ## Related
 
-- [The First Moment](first-moment.md)
-- [The Planes](planes.md)
-- [Souls and the Cycle of Existence](souls-cycle.md)
-- [The Kenoma and the Outer Gods](kenoma-and-outer-gods.md)
 - [Great Old Ones](great-old-ones.md)
 - [Rawranism](../religions/rawranism.md)
+- [Souls and the Cycle of Existence](souls-cycle.md)
 - [Taizhouism](../religions/taizhouism.md)
+- [The First Moment](first-moment.md)
+- [The Kenoma and the Outer Gods](kenoma-and-outer-gods.md)
+- [The Planes](planes.md)

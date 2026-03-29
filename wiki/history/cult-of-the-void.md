@@ -28,7 +28,7 @@ The Cult of the Void matters because it appears in connection with the intellect
 
 ## Related
 
-- [The Tome and the Cult of the Void](tome-and-cult-of-the-void.md)
-- [Fall of the Veltric Empire](fall-of-the-veltric-empire.md)
 - [Age of Fracture](age-of-fracture.md)
+- [Fall of the Veltric Empire](fall-of-the-veltric-empire.md)
 - [The Kenoma and the Outer Gods](../cosmology/kenoma-and-outer-gods.md)
+- [The Tome and the Cult of the Void](tome-and-cult-of-the-void.md)

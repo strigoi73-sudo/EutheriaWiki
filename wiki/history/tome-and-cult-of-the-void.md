@@ -22,7 +22,7 @@ Whether the tome merely inspired scattered occultism or helped generate a more c
 
 ## Related
 
+- [Age of Fracture](age-of-fracture.md)
 - [Cult of the Void](cult-of-the-void.md)
 - [Fall of the Veltric Empire](fall-of-the-veltric-empire.md)
-- [Age of Fracture](age-of-fracture.md)
 - [The Kenoma and the Outer Gods](../cosmology/kenoma-and-outer-gods.md)

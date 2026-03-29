@@ -57,9 +57,9 @@ That inland distinction matters for the current campaign layer. [Thornwick](../p
 
 ## Related
 
-- [Nereth](../geography/nereth.md)
-- [Western Maritime Nereth](../geography/western-maritime-nereth.md)
-- [Likia](likia.md)
 - [Dudbury](../geography/dudbury.md)
+- [Likia](likia.md)
+- [Nereth](../geography/nereth.md)
 - [Rombevenia](../geography/rombevenia.md)
 - [Thornwick](../places/thornwick.md)
+- [Western Maritime Nereth](../geography/western-maritime-nereth.md)

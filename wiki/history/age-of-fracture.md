@@ -25,8 +25,8 @@ Successor states are old enough to possess their own dynasties, institutions, an
 
 ## Related
 
+- [Chronology of Eutheria](chronology-of-eutheria.md)
 - [Fall of the Veltric Empire](fall-of-the-veltric-empire.md)
-- [Veltric Empire](veltric-empire.md)
 - [Marcici](../places/marcici.md)
 - [Rocciaganel Church](../religions/rocciaganel-church.md)
-- [Chronology of Eutheria](chronology-of-eutheria.md)
+- [Veltric Empire](veltric-empire.md)

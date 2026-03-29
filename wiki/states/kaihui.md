@@ -62,11 +62,11 @@ Kaihui is best understood as a proud pastoral-plains state living inside an exte
 
 ## Related
 
-- [Valthera](../geography/valthera.md)
+- [Eastern and Southeastern Valthera](../geography/eastern-southeastern-valthera.md)
 - [Guan Guo](guan-guo.md)
 - [Han Guo](han-guo.md)
 - [Kan Guo](kan-guo.md)
-- [The Marches of Kai Guo](kai-guo.md)
-- [See of Xin Guo](xin-guo.md)
 - [Likia](likia.md)
-- [Eastern and Southeastern Valthera](../geography/eastern-southeastern-valthera.md)
+- [See of Xin Guo](xin-guo.md)
+- [The Marches of Kai Guo](kai-guo.md)
+- [Valthera](../geography/valthera.md)

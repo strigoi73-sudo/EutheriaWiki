@@ -22,8 +22,8 @@ The [Polbium Theocracy](../states/polbium-theocracy.md) remains the Church's mos
 
 ## Related
 
-- [Marcici](../places/marcici.md)
-- [Polbium Theocracy](../states/polbium-theocracy.md)
-- [Old Roman Beliefs](old-roman-beliefs.md)
-- [Roman Beliefs](roman-beliefs.md)
 - [Eastern Nereth Religious Landscape](eastern-nereth-religious-landscape.md)
+- [Marcici](../places/marcici.md)
+- [Old Roman Beliefs](old-roman-beliefs.md)
+- [Polbium Theocracy](../states/polbium-theocracy.md)
+- [Roman Beliefs](roman-beliefs.md)

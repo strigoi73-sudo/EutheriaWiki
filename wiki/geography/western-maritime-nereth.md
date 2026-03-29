@@ -24,7 +24,7 @@ Western Maritime Nereth is the continent's rising broker coast: a western Englis
 
 ## Related
 
-- [Nereth](nereth.md)
-- [Lienia](../states/lienia.md)
-- [Nordic Northwest](nordic-northwest.md)
 - [Dwarven Mountain Hinge](dwarven-mountain-hinge.md)
+- [Lienia](../states/lienia.md)
+- [Nereth](nereth.md)
+- [Nordic Northwest](nordic-northwest.md)

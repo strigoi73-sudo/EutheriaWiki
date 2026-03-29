@@ -18,6 +18,6 @@ Great Old Ones matter because they imply more than regional danger. They suggest
 
 ## Related
 
+- [Cult of the Void](../history/cult-of-the-void.md)
 - [The Kenoma and the Outer Gods](kenoma-and-outer-gods.md)
 - [The Tome and the Cult of the Void](../history/tome-and-cult-of-the-void.md)
-- [Cult of the Void](../history/cult-of-the-void.md)

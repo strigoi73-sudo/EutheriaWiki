@@ -18,7 +18,7 @@ Marcici now lies within the [Polbium Theocracy](../states/polbium-theocracy.md).
 
 ## Related
 
-- [Veltric Empire](../history/veltric-empire.md)
 - [Age of Fracture](../history/age-of-fracture.md)
 - [Polbium Theocracy](../states/polbium-theocracy.md)
 - [Rocciaganel Church](../religions/rocciaganel-church.md)
+- [Veltric Empire](../history/veltric-empire.md)

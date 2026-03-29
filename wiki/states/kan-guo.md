@@ -30,9 +30,9 @@ That relationship also helps explain the continued importance of [The Marches of
 
 ## Related
 
-- [Valthera](../geography/valthera.md)
-- [Kaihui](kaihui.md)
 - [Fuz Guo](fuz-guo.md)
-- [The Marches of Kai Guo](kai-guo.md)
-- [Yan](yan.md)
+- [Kaihui](kaihui.md)
 - [See of Xin Guo](xin-guo.md)
+- [The Marches of Kai Guo](kai-guo.md)
+- [Valthera](../geography/valthera.md)
+- [Yan](yan.md)

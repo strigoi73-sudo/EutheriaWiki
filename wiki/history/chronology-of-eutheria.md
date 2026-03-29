@@ -43,8 +43,8 @@ This page summarizes high-level chronology used across the wiki. For analytical 
 ## Related
 
 - [Pre-Humanoid Ages](pre-humanoid-ages.md)
-- [Age of Fracture](age-of-fracture.md)
-- [Thousand-Year War](thousand-year-war.md)
 - [Great Catastrophe and the Battle of Trelhelm](great-catastrophe-and-trelhelm.md)
+- [Thousand-Year War](thousand-year-war.md)
+- [Age of Fracture](age-of-fracture.md)
 - [Post-Trelhelm Era](post-trelhelm-era.md)
 - [Likia](../states/likia.md)

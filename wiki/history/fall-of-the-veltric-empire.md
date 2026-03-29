@@ -25,8 +25,8 @@ Trade rerouted rather than disappeared, and legitimacy became plural rather than
 
 ## Related
 
-- [Veltric Empire](veltric-empire.md)
 - [Age of Fracture](age-of-fracture.md)
 - [Marcici](../places/marcici.md)
-- [Rocciaganel Church](../religions/rocciaganel-church.md)
 - [Nereth](../geography/nereth.md)
+- [Rocciaganel Church](../religions/rocciaganel-church.md)
+- [Veltric Empire](veltric-empire.md)

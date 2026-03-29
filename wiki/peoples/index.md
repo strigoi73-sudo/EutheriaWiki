@@ -4,7 +4,7 @@ The peoples of Eutheria are historical communities shaped by lineage, migration,
 
 This section treats peoples as enduring communities across changing political borders.
 
-## Key articles
+## Articles
 
 - [Berbers of Kasmora](berbers-of-kasmora.md)
 - [Deep Folk](deep-folk.md)

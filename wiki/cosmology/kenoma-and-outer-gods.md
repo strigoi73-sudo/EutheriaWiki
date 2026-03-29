@@ -24,7 +24,7 @@ The Kenoma matters because it defines a true exterior to the ordered cosmos: not
 
 ## Related
 
+- [Great Old Ones](great-old-ones.md)
+- [Souls and the Cycle of Existence](souls-cycle.md)
 - [The First Moment](first-moment.md)
 - [The Planes](planes.md)
-- [Souls and the Cycle of Existence](souls-cycle.md)
-- [Great Old Ones](great-old-ones.md)

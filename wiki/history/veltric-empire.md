@@ -26,8 +26,8 @@ The Empire ceased to exist as a political entity in the late ninth century LC, b
 
 ## Related
 
-- [Fall of the Veltric Empire](fall-of-the-veltric-empire.md)
 - [Age of Fracture](age-of-fracture.md)
+- [Fall of the Veltric Empire](fall-of-the-veltric-empire.md)
 - [Marcici](../places/marcici.md)
-- [Rocciaganel Church](../religions/rocciaganel-church.md)
 - [Nereth](../geography/nereth.md)
+- [Rocciaganel Church](../religions/rocciaganel-church.md)

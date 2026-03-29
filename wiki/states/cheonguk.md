@@ -45,9 +45,9 @@ Cheonguk is more commercially open and externally connected than Hayanguk, but i
 
 ## Related
 
-- [Valthera](../geography/valthera.md)
-- [Hayanguk](hayanguk.md)
-- [Han Guo](han-guo.md)
 - [Duchy of Hamcheon](hamcheon.md)
 - [Guan Guo](guan-guo.md)
+- [Han Guo](han-guo.md)
+- [Hayanguk](hayanguk.md)
 - [Tongj Apostates](../religions/tongj-apostates.md)
+- [Valthera](../geography/valthera.md)

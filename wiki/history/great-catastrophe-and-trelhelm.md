@@ -38,9 +38,9 @@ These divergent recovery trajectories still shape continental settlement and str
 
 ## Related
 
-- [Thousand-Year War](thousand-year-war.md)
-- [Pre-Humanoid Ages](pre-humanoid-ages.md)
-- [Post-Trelhelm Era](post-trelhelm-era.md)
-- [Valthera](../geography/valthera.md)
 - [Deep Folk](../peoples/deep-folk.md)
 - [Dwarves of Valthera and Nereth](../peoples/dwarves-of-valthera-and-nereth.md)
+- [Post-Trelhelm Era](post-trelhelm-era.md)
+- [Pre-Humanoid Ages](pre-humanoid-ages.md)
+- [Thousand-Year War](thousand-year-war.md)
+- [Valthera](../geography/valthera.md)

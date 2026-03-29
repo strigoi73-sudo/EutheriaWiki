@@ -36,9 +36,9 @@ Eastern Nereth's major religious divide is not merely theological. It is also a 
 
 ## Related
 
-- [Old Roman Beliefs](old-roman-beliefs.md)
-- [Roman Beliefs](roman-beliefs.md)
-- [Rocciaganel Church](rocciaganel-church.md)
-- [Polbium Theocracy](../states/polbium-theocracy.md)
-- [Veltric Empire](../history/veltric-empire.md)
 - [Age of Fracture](../history/age-of-fracture.md)
+- [Old Roman Beliefs](old-roman-beliefs.md)
+- [Polbium Theocracy](../states/polbium-theocracy.md)
+- [Rocciaganel Church](rocciaganel-church.md)
+- [Roman Beliefs](roman-beliefs.md)
+- [Veltric Empire](../history/veltric-empire.md)

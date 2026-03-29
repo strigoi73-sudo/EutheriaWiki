@@ -31,10 +31,10 @@ Eastern and southeastern Valthera form a balance-of-systems littoral order defin
 
 ## Related
 
-- [Valthera](valthera.md)
 - [Kaihui](../states/kaihui.md)
 - [Kan Guo](../states/kan-guo.md)
-- [The Marches of Kai Guo](../states/kai-guo.md)
-- [Yan](../states/yan.md)
 - [See of Xin Guo](../states/xin-guo.md)
 - [Tengc](../states/tengc.md)
+- [The Marches of Kai Guo](../states/kai-guo.md)
+- [Valthera](valthera.md)
+- [Yan](../states/yan.md)

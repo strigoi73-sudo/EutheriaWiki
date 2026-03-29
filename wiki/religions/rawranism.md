@@ -47,6 +47,6 @@ Rawranism rarely dominates through sudden expansion. It endures by becoming usef
 ## Related
 
 - [Commonwealth of Sipharan](../states/sipharan.md)
+- [Kasmora](../geography/kasmora.md)
 - [Kingdom of Har](../states/har.md)
 - [Rawran Civilization](../cultures/rawran-civilization.md)
-- [Kasmora](../geography/kasmora.md)

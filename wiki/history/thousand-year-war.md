@@ -32,7 +32,7 @@ The Thousand-Year War matters not only because of its scale, but because so much
 
 ## Related
 
-- [Great Catastrophe and the Battle of Trelhelm](great-catastrophe-and-trelhelm.md)
-- [Deep Folk](../peoples/deep-folk.md)
-- [Post-Trelhelm Era](post-trelhelm-era.md)
 - [Chronology of Eutheria](chronology-of-eutheria.md)
+- [Deep Folk](../peoples/deep-folk.md)
+- [Great Catastrophe and the Battle of Trelhelm](great-catastrophe-and-trelhelm.md)
+- [Post-Trelhelm Era](post-trelhelm-era.md)

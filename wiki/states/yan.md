@@ -28,9 +28,9 @@ Yan is conventionally Xinchang in practice, but it is not notably household-cent
 
 ## Related
 
-- [The Marches of Kai Guo](kai-guo.md)
+- [Eastern and Southeastern Valthera](../geography/eastern-southeastern-valthera.md)
 - [Kaihui](kaihui.md)
 - [Kan Guo](kan-guo.md)
 - [See of Xin Guo](xin-guo.md)
+- [The Marches of Kai Guo](kai-guo.md)
 - [Valthera](../geography/valthera.md)
-- [Eastern and Southeastern Valthera](../geography/eastern-southeastern-valthera.md)

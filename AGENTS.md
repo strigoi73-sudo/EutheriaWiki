@@ -7,6 +7,8 @@ Processed update documents belong in `updates/processed/`.
 
 If the user says exactly `Update Wiki`, execute the workflow in `ops/update-wiki.md`.
 
+For editorial cleanup and structural consistency work, follow `ops/wiki-style-guide.md`.
+
 When executing `Update Wiki`, you must do all of the following:
 
 1. Read first:

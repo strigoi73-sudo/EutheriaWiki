@@ -20,6 +20,6 @@ Ashaybar matters because it demonstrates how a port capital can project influenc
 
 ## Related
 
-- [Kingdom of Hawa](../states/hawa.md)
 - [Haria](../states/haria.md)
+- [Kingdom of Hawa](../states/hawa.md)
 - [Oceanus Centralis](../glossary/oceanus-centralis.md)

@@ -48,10 +48,10 @@ It matters less for raw power than for memory, grievance, and the redirection of
 
 ## Related
 
-- [Likia](likia.md)
+- [Chronology of Eutheria](../history/chronology-of-eutheria.md)
 - [Kaihui](kaihui.md)
 - [Kan Guo](kan-guo.md)
+- [Likia](likia.md)
 - [The Marches of Kai Guo](kai-guo.md)
-- [Yan](yan.md)
 - [Valthera](../geography/valthera.md)
-- [Chronology of Eutheria](../history/chronology-of-eutheria.md)
+- [Yan](yan.md)

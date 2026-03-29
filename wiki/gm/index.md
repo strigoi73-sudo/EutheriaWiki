@@ -4,7 +4,7 @@ This section contains GM-only canon, hidden causality, campaign secrets, and dir
 
 Use these pages when you need the truth layer behind public history: the hidden chronology of the Fracture, the Cult's real agenda, the deeper significance of the tome, the compromised Pontif, the true cause of Deep Folk pressure, and the real scale of Great Old Ones risk.
 
-## GM Pages
+## Articles
 
 - [Ancient Void Contact](ancient-void-contact.md)
 - [Church Infiltration and Collapse Mechanism](church-infiltration-and-collapse-mechanism.md)

@@ -27,7 +27,7 @@ Kasmora's major tensions are often produced less by theology itself than by wher
 
 - [Ayedism](ayedism.md)
 - [Delistanism](delistanism.md)
-- [Rawranism](rawranism.md)
-- [Kordemeli](../states/kordemeli.md)
 - [Dukanese Theocracy](../states/dukan.md)
 - [Haria](../states/haria.md)
+- [Kordemeli](../states/kordemeli.md)
+- [Rawranism](rawranism.md)

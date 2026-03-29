@@ -4,7 +4,7 @@ Places in Eutheria range from capitals and ports to sacred centers and strategic
 
 This section identifies places as functional nodes in the world, not just map labels.
 
-## Key articles
+## Articles
 
 - [Ashaybar](ashaybar.md)
 - [Jora Territory](jora-territory.md)

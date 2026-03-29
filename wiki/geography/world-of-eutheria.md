@@ -41,8 +41,8 @@ The result is a world where power is durable but rarely total, and where geograp
 
 ## Related
 
-- [Valthera](valthera.md)
-- [Nereth](nereth.md)
-- [Kasmora](kasmora.md)
-- [Golsta](golsta.md)
 - [Central Island Chain](central-island-chain.md)
+- [Golsta](golsta.md)
+- [Kasmora](kasmora.md)
+- [Nereth](nereth.md)
+- [Valthera](valthera.md)

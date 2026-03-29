@@ -4,7 +4,7 @@ Culture in Eutheria operates at multiple scales. Some identities are civilizatio
 
 This section documents the lived social worlds that shape institutions, identity, and everyday life.
 
-## Key articles
+## Articles
 
 - [Berber Culture in Kasmora](berber-culture-in-kasmora.md)
 - [Likian Culture](likian-culture.md)

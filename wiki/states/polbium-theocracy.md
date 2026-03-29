@@ -26,7 +26,7 @@ Polbium is therefore powerful but embattled: a state whose authority still matte
 
 ## Related
 
+- [Age of Fracture](../history/age-of-fracture.md)
+- [Eastern Nereth Religious Landscape](../religions/eastern-nereth-religious-landscape.md)
 - [Marcici](../places/marcici.md)
 - [Rocciaganel Church](../religions/rocciaganel-church.md)
-- [Eastern Nereth Religious Landscape](../religions/eastern-nereth-religious-landscape.md)
-- [Age of Fracture](../history/age-of-fracture.md)

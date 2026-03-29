@@ -37,8 +37,8 @@ By 1026 LC:
 ## Related
 
 - [Age of Fracture](age-of-fracture.md)
-- [Veltric Empire](veltric-empire.md)
-- [Fall of the Veltric Empire](fall-of-the-veltric-empire.md)
-- [Thousand-Year War](thousand-year-war.md)
-- [Likia](../states/likia.md)
 - [Chronology of Eutheria](chronology-of-eutheria.md)
+- [Fall of the Veltric Empire](fall-of-the-veltric-empire.md)
+- [Likia](../states/likia.md)
+- [Thousand-Year War](thousand-year-war.md)
+- [Veltric Empire](veltric-empire.md)

@@ -40,8 +40,8 @@ Glaciation strongly affected survivorship: older layers are comparatively more v
 
 ## Related
 
-- [Great Catastrophe and the Battle of Trelhelm](great-catastrophe-and-trelhelm.md)
 - [Chronology of Eutheria](chronology-of-eutheria.md)
-- [Golsta](../geography/golsta.md)
 - [Dragons](../peoples/dragons.md)
+- [Golsta](../geography/golsta.md)
+- [Great Catastrophe and the Battle of Trelhelm](great-catastrophe-and-trelhelm.md)
 - [The Kenoma and the Outer Gods](../cosmology/kenoma-and-outer-gods.md)

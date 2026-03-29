@@ -36,9 +36,9 @@ Ayedism therefore operates simultaneously as:
 
 ## Related
 
-- [Tuwaid](../places/tuwaid.md)
 - [Jora Territory](../places/jora-territory.md)
-- [Kingdom of Sala](../states/sala.md)
 - [Kingdom of Hawa](../states/hawa.md)
+- [Kingdom of Sala](../states/sala.md)
 - [Kordemeli](../states/kordemeli.md)
 - [Kasmoran Religious Landscape](kasmoran-religious-landscape.md)
+- [Tuwaid](../places/tuwaid.md)

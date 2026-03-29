@@ -55,13 +55,13 @@ This gives Nereth enduring strategic depth. It is a continent whose barriers pre
 
 ## Related
 
-- [World of Eutheria](world-of-eutheria.md)
-- [Valthera](valthera.md)
-- [Kasmora](kasmora.md)
-- [Likia](../states/likia.md)
-- [Lienia](../states/lienia.md)
-- [Nordic Northwest](nordic-northwest.md)
-- [Western Maritime Nereth](western-maritime-nereth.md)
 - [Dwarven Mountain Hinge](dwarven-mountain-hinge.md)
 - [Eastern Post-Veltric Core](eastern-post-veltric-core.md)
+- [Kasmora](kasmora.md)
+- [Lienia](../states/lienia.md)
+- [Likia](../states/likia.md)
+- [Nordic Northwest](nordic-northwest.md)
 - [Southern Castillian Arc](southern-castillian-arc.md)
+- [Valthera](valthera.md)
+- [Western Maritime Nereth](western-maritime-nereth.md)
+- [World of Eutheria](world-of-eutheria.md)
