@@ -1,6 +1,6 @@
 # Sinz
 
-Sinz is the harder civic power of western Nereth: a German-led territorial republic that turns strategic land position, layered provinces, and corridor control into leverage over movement between the western sea-gate and the dwarven interior.
+Sinz is a German-led territorial corridor republic centered on Fisch, whose power rests on broad interior agrarian depth, legal-administrative control of roads and customs, full maritime access through its southern Castillian coast, and leverage over the foreland approach network leading toward the dwarven mountain routes.
 
 ## Core identity
 
@@ -16,7 +16,9 @@ Sinz is larger than Lienia in land area, but it has a smaller total population, 
 
 Its capital is **Fisch**, an inland governing city in **Wutenken** on the republic's main west-east road system. That placement makes the state feel interior and mediating rather than frontier-parked or purely coastal.
 
-The republic's most important strategic feature is its northeastern salient. By projecting north and east between Lienia and the dwarven mountain approach, Sinz helps prevent Lienia from enjoying an uncontested direct land relationship with the western route system that leads toward the passes.
+The republic's most important strategic feature is its northeastern salient. This should be understood as a broad upland foreland approach network rather than a single neat pass. Sinz's leverage comes from controlling the best-maintained and most governable routes through that system.
+
+The southern and southeastern Castillian belt contains the entirety of Sinz's coastline and therefore the republic's full maritime interface. Its interior remains essential to the republic's agrarian strength, while the coast gives the state a distinct outward-facing face rather than serving as its whole economic base.
 
 ## Political order
 
@@ -24,7 +26,7 @@ Sinz is a patrician, oligarchic, magistrate-heavy republic. Real power rests wit
 
 It is not a loose merchant league. Sinz is a territorial republic with real coercive capacity, but one that governs unevenly and pragmatically. Political authority is strongest in the capital province, on major roads, at revenue nodes, across the northeastern salient, and where border or customs pressure matters most.
 
-The republic's mixed sub-jurisdictional forms, such as province, governorate, territory, tribe, and region, should be read as evidence of layered incorporation history rather than decorative naming variety.
+The republic's mixed sub-jurisdictional forms, such as province, governorate, territory, tribe, and region, should be treated first as geographic regional labels. They may preserve traces of layered incorporation, but they are not by themselves decisive proof of exact constitutional status or specific internal machinery.
 
 ## Regional faces
 
@@ -33,7 +35,7 @@ Sinz is best understood through several interlocking regional faces:
 - the **Wutenken-Fisch governing heart**, where archives, courts, councils, taxation, and republican coordination are most concentrated
 - the **western rivalry front**, where competition with Lienia and cross-border commerce are most legible
 - the **northeastern salient**, where territorial shape becomes customs, transit, and bargaining leverage
-- the **southern and southeastern composite belt**, lower and more outward-facing than the interior, with agricultural and selected maritime importance
+- the **southern and southeastern Castillian belt**, lower and more outward-facing than the interior, containing the republic's entire coastline and full maritime interface
 - the **interior seam belt**, where rougher ground, mixed populations, and specially named jurisdictions make the republic's layered incorporation easiest to see
 
 This framework keeps Sinz from flattening into a generic German mercantile block. It is a German-led civic order ruling a broader territorial composite.
@@ -42,7 +44,7 @@ This framework keeps Sinz from flattening into a generic German mercantile block
 
 Sinz is commercially aggressive in a harder, more instrumental way than Lienia. It seeks to capture, redirect, tax, and pressure movement rather than simply host a broad maritime gateway.
 
-Its economy combines agrarian depth, inland movement control, selected coastal outlets, warehousing, customs extraction, and corridor service industries. The republic's deeper advantage comes from leveraging movement through territory, not merely from being commercially minded.
+Its economy combines broad interior agrarian support, inland movement control, selected ports, warehousing, customs extraction, and corridor service industries. The republic's deeper advantage comes from leveraging movement through territory, not merely from being commercially minded.
 
 ## External relations
 
@@ -50,8 +52,11 @@ Sinz's rivalry with [Lienia](lienia.md) is a defining structural fact of western
 
 That rivalry is visible in corridor regions such as [Dudbury](../geography/dudbury.md), where Lienia's inland order matters more because the road through **Malton** leads south toward Sinz.
 
+Sinz is also one of the successor states to the old western kingdom that broke apart in **934 LC**. The larger inland body reorganized as the republic, while the ruling house retained the coastal remnant that endured as [Fresen](fresen.md).
+
 ## Related
 
 - [Dudbury](../geography/dudbury.md)
+- [Fresen](fresen.md)
 - [Lienia](lienia.md)
 - [Western Maritime Nereth](../geography/western-maritime-nereth.md)

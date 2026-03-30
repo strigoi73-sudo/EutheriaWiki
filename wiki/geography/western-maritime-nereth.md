@@ -14,17 +14,25 @@ The dominant cultural sphere is the English-German west, with porous northern an
 
 Western Maritime Nereth is politically legible in a way the east often is not. Its conflicts center on ports, customs revenue, corridor control, commercial privilege, and competition for leadership inside a shared western system rather than on successor claims to empire.
 
+## Historical layering
+
+The region's present order was not formed by one stable old kingdom that simply endured. An older western kingdom deteriorated under repeated rivalry with Lienia, strain around German populations in southern and southwestern Lienia, and mounting dissent in its own Castillian south.
+
+In **934 LC**, the larger inland body broke with the crown and reorganized as [Sinz](../states/sinz.md), while the ruling house retained only its western coastal personal demesne, which endured as [Fresen](../states/fresen.md). That means Sinz and Fresen should be understood as successor states shaped by shared broken inheritance rather than as unrelated neighbors.
+
 ## Major powers
 
-[Lienia](../states/lienia.md) is the clearest maritime gateway power of the region, while [Sinz](../states/sinz.md) is the clearest inland-commercial and expansionist western power. Smaller connector states help buffer the northern and southern edges of the belt.
+[Lienia](../states/lienia.md) is the clearest maritime gateway power of the region, [Sinz](../states/sinz.md) is the clearest inland-commercial and expansionist western power, [Fresen](../states/fresen.md) is the surviving coastal dynastic remnant of the old western kingdom, and [Bramia](../states/bramia.md) is the northern transfer duchy linking coastal and inland movement.
 
 ## Regional summary
 
-Western Maritime Nereth is the continent's rising broker coast: a western English-German commercial belt whose power comes from ports, redistribution, corridor logic, and the rerouting of Likian trade.
+Western Maritime Nereth is the continent's rising broker coast: a western English-German commercial belt whose power comes from ports, redistribution, corridor logic, dynastic survivals, and the rerouting of Likian trade.
 
 ## Related
 
+- [Bramia](../states/bramia.md)
 - [Dwarven Mountain Hinge](dwarven-mountain-hinge.md)
+- [Fresen](../states/fresen.md)
 - [Lienia](../states/lienia.md)
 - [Nereth](nereth.md)
 - [Nordic Northwest](nordic-northwest.md)

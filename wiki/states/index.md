@@ -13,9 +13,11 @@ This section focuses on major contemporary polities rather than every historical
 
 ## Articles
 
+- [Bramia](bramia.md)
 - [Commonwealth of Sipharan](sipharan.md)
 - [Duchy of Hamcheon](hamcheon.md)
 - [Dukanese Theocracy](dukan.md)
+- [Fresen](fresen.md)
 - [Fuz Guo](fuz-guo.md)
 - [Guan Guo](guan-guo.md)
 - [Han Guo](han-guo.md)

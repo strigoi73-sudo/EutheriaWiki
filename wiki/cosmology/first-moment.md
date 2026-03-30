@@ -2,6 +2,8 @@
 
 The **First Moment** is the foundational cosmological event of ordered existence in Eutheria. It is not one event among others, but the singular beginning from which the entire structure of reality emerges.
 
+It should not be read as a special-creation moment in which Eutheria, its continents, or its living species appeared fully formed. Within the metaverse established at the First Moment, planets, ecosystems, and lineages still develop through later natural history.
+
 At that single instant, three things occurred simultaneously:
 
 1. the **Pleroma** came into existence

@@ -4,6 +4,8 @@ Eutheria is a pre-industrial fantasy world organized around four major continent
 
 It is not a simple feudal patchwork. Eutheria is a world of preindustrial sophistication: commercially active, institutionally layered, and politically diverse, but still constrained by distance, difficult logistics, uneven state reach, and the hard limits imposed by terrain.
 
+Within that world, natural law operates broadly comparably to our own. The First Moment marks the metaphysical beginning of the metaverse, not a special-creation event in which Eutheria or its biosphere appeared fully formed. Eutheria therefore has a real natural history measured over deep time, including geological development, biological evolution, and naturally evolved magical lineages.
+
 ## Continental orientation
 
 The current canonical continental orientation is:
