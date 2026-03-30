@@ -16,7 +16,7 @@ Western Maritime Nereth is politically legible in a way the east often is not. I
 
 ## Major powers
 
-[Lienia](../states/lienia.md) is the clearest maritime gateway power of the region, while **Sinz** is the clearest inland-commercial and expansionist western power. Smaller connector states help buffer the northern and southern edges of the belt.
+[Lienia](../states/lienia.md) is the clearest maritime gateway power of the region, while [Sinz](../states/sinz.md) is the clearest inland-commercial and expansionist western power. Smaller connector states help buffer the northern and southern edges of the belt.
 
 ## Regional summary
 
@@ -28,3 +28,4 @@ Western Maritime Nereth is the continent's rising broker coast: a western Englis
 - [Lienia](../states/lienia.md)
 - [Nereth](nereth.md)
 - [Nordic Northwest](nordic-northwest.md)
+- [Sinz](../states/sinz.md)

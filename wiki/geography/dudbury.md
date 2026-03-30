@@ -10,11 +10,15 @@ Dudbury belongs to the kingdom's under-patrolled interior body rather than to it
 
 Local people should think in Lienian terms and recognize royal authority, but they should not expect the crown to solve ordinary Dudbury problems quickly.
 
+Its state-level importance is primarily functional and geographic rather than spectacular. Dudbury matters above ordinary provincial background because **Malton** lies on the north-south road leading from **Bolcescast** south into [Sinz](../states/sinz.md).
+
 ## Settlement and social order
 
 Dudbury is large, sparse, and only lightly urbanized. Its capital is **Malton**, while **Olbore** functions as a secondary inland or upland town. Roads, villages, and market ties exist, but the region should not feel polished or heavily patrolled.
 
 Malton should be treated as a far-inland regional capital rather than as part of Bolcescast's immediate capital basin. It belongs to Lienia's broad inland organizing body, tied to the crown by roads, law, tax, and regional hierarchy, but removed from the daily assumptions of the estuarial-commercial core.
+
+The region's one major distinguishing feature is the **Malton corridor**. On or near that corridor there is more traffic, more crown interest, more provisioning, and a stronger sense of the wider kingdom. Away from it, Dudbury returns to the more typical inland pattern of local authority, thinner oversight, and rural continuity.
 
 The count, local gentry, reeves, sheriffs, priests, and village headmen matter more to ordinary life than distant royal officers. If Dudbury has a problem, Dudbury generally handles it.
 
@@ -36,5 +40,6 @@ Dudbury is a broad inland region of Lienia: loyal, civilized, and recognizably p
 
 - [Lienia](../states/lienia.md)
 - [Rombevenia](rombevenia.md)
+- [Sinz](../states/sinz.md)
 - [Thornwick](../places/thornwick.md)
 - [Western Maritime Nereth](western-maritime-nereth.md)

@@ -34,6 +34,7 @@ This section focuses on major contemporary polities rather than every historical
 - [Quz Guo](quz-guo.md)
 - [Sala](sala.md)
 - [See of Xin Guo](xin-guo.md)
+- [Sinz](sinz.md)
 - [Tengc](tengc.md)
 - [The Marches of Kai Guo](kai-guo.md)
 - [Yan](yan.md)

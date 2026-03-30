@@ -47,11 +47,13 @@ Its peace is best understood as corridor peace. Security is strongest at harbors
 
 ## External relations
 
-Lienia's most important outside relationship is with [Likia](likia.md), whose maritime system it helps translate into western continental power. Its second defining relationship is with **Sinz**, the other great western power, harsher and more expansionist than Lienia's steadier maritime monarchy.
+Lienia's most important outside relationship is with [Likia](likia.md), whose maritime system it helps translate into western continental power. Its second defining relationship is with [Sinz](sinz.md), the other great western power, harsher and more assertive than Lienia's steadier maritime monarchy.
 
 ## Internal regional pattern
 
 Lienia is strongest at nodes and weaker in seams. Regions such as [Rombevenia](../geography/rombevenia.md) lie close to the estuarial-commercial core, while regions such as [Dudbury](../geography/dudbury.md) belong to the broad inland body where royal authority is real but more weakly felt in everyday life.
+
+Dudbury matters to the kingdom less because it is unusual in itself than because **Malton** sits on the road leading south from Bolcescast into Sinz. Crown attention is therefore unevenly distributed: strongest where the corridor matters, thinner across the ordinary rural fabric away from it.
 
 That inland distinction matters for the current campaign layer. [Thornwick](../places/thornwick.md), inside Dudbury, is a good example of how Lienia can remain civilized and recognizably ordered while still leaving local danger, shrine-memory, road trouble, and creature pressure for local society and local heroes to absorb first.
 
@@ -61,5 +63,6 @@ That inland distinction matters for the current campaign layer. [Thornwick](../p
 - [Likia](likia.md)
 - [Nereth](../geography/nereth.md)
 - [Rombevenia](../geography/rombevenia.md)
+- [Sinz](sinz.md)
 - [Thornwick](../places/thornwick.md)
 - [Western Maritime Nereth](../geography/western-maritime-nereth.md)
