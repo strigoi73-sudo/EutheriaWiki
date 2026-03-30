@@ -4,6 +4,8 @@ The wiki lives in `wiki/`.
 Incoming update documents live in `updates/inbox/`.
 Processed update documents belong in `updates/processed/`.
 `updates/processed/` is the archive for incorporated update documents; files moved there must be preserved and never deleted as part of the update workflow.
+Raw source maps belong in `source_assets/maps/`.
+Wiki-ready map crops belong in `wiki/assets/maps/`.
 
 If the user says exactly `Update Wiki`, execute the workflow in `ops/update-wiki.md`.
 
@@ -39,17 +41,26 @@ When executing `Update Wiki`, you must do all of the following:
 
 8. Update relevant category index pages whenever new articles are created.
 
-9. Do not invent unsupported facts.
+9. When a state or continent article has a usable source map available, prefer adding a cropped wiki-ready map to that article.
 
-10. Preserve terminology from the update documents where appropriate.
+   - Use source files from `source_assets/maps/`.
+   - Save wiki-ready crops in `wiki/assets/maps/`.
+   - State pages should normally receive a political map crop when the source map supports a clear crop.
+   - Continent pages should normally receive a continent crop when the source map supports it.
+   - Prefer cropped regional/state maps over embedding a full world map.
+   - Keep filenames lowercase and hyphenated.
 
-11. Keep wiki writing concise, readable, article-focused, and encyclopedic.
+10. Do not invent unsupported facts.
 
-12. After successfully incorporating an update document:
+11. Preserve terminology from the update documents where appropriate.
+
+12. Keep wiki writing concise, readable, article-focused, and encyclopedic.
+
+13. After successfully incorporating an update document:
    - add the incorporation marker required by `ops/update-wiki.md`
    - move it from `updates/inbox/` to `updates/processed/`
    - do not delete it after moving; `updates/processed/` is the permanent archive
 
-13. Stage and commit the changes, push them to `origin/main`, and leave the worktree clean.
+14. Stage and commit the changes, push them to `origin/main`, and leave the worktree clean.
 
 Direct user instructions override these instructions.

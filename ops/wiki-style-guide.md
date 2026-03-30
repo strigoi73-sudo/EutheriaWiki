@@ -22,6 +22,7 @@ This guide defines the default editorial rules for structural cleanup and future
 ### States
 
 - Lead: concise identity, scale, and strategic role.
+- If a usable source map exists, place a wiki-ready political map crop near the top of the article after the lead.
 - Geography or structural position.
 - Politics, society, religion, or economy as needed.
 - History only when material to current understanding.
@@ -30,6 +31,7 @@ This guide defines the default editorial rules for structural cleanup and future
 ### Geography and regions
 
 - Lead: scale and defining role.
+- Continent pages should normally include a continent map crop near the top when a usable source map exists.
 - Physical or structural geography.
 - Settlement, economy, or strategic significance as needed.
 - Regional subdivisions or internal logic where helpful.
@@ -64,6 +66,14 @@ This guide defines the default editorial rules for structural cleanup and future
 - Keep cross-links purposeful rather than exhaustive.
 - Preserve established terminology from canon sources.
 - Do not invent unsupported facts.
+
+## Map and image rules
+
+- Raw source maps belong in `source_assets/maps/`.
+- Wiki-ready map crops belong in `wiki/assets/maps/`.
+- Prefer cropped state and continent maps over embedding a full world map.
+- Use lowercase hyphenated filenames for map assets.
+- Place article maps near the top of the article unless a different placement is clearly better.
 
 ## Review checklist
 
