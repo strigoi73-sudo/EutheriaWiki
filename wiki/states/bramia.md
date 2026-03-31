@@ -2,6 +2,8 @@
 
 Bramia is an ancient English grand duchy whose economy and historical importance are rooted in the river-mouth and lake-chain system opening onto its coast, making it a transfer state between central-ocean shipping, the Norse-facing north, and the upper inland routes leading toward Sinz's northeastern foreland.
 
+![Political map crop of Bramia](../assets/maps/bramia-map.png)
+
 ## Core identity
 
 Bramia is not a Lienian split-state or dynastic leftover. It is an old state with an independent history and its own route logic.

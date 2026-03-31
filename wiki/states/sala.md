@@ -2,6 +2,8 @@
 
 Sala is a major Arabic kingdom in Kasmora whose influence rests on sacred geography, pilgrimage infrastructure, and maritime commerce. It has one of the highest known expansionism indices in the world (42.9), though its expansion pattern is primarily commercial and infrastructural.
 
+![Political map crop of Sala](../assets/maps/sala-map.png)
+
 ## Political and religious character
 
 Sala's authority is inseparable from its relationship to [Tuwaid](../places/tuwaid.md) through the [Jora Territory](../places/jora-territory.md). Control over access to sacred space gives the kingdom a form of soft power that cannot be measured only in armies or acreage.

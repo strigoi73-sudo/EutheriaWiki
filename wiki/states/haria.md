@@ -2,6 +2,8 @@
 
 Haria is the principal Berber kingdom of Kasmora and the foremost political center of Berber civilization in the inhabited world. It is a large and culturally cohesive state whose strength rests not only on territory and coastline, but on the fact that it stands as a civilizational core rather than a marginal regional power.
 
+![Political map crop of Haria](../assets/maps/haria-map.png)
+
 ## Political character
 
 Haria's identity is grounded in Berber centrality. It is not merely a kingdom with a Berber majority, but a state widely understood as the principal political expression of Berber civilization itself.

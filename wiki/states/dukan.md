@@ -2,6 +2,8 @@
 
 The Dukanese Theocracy is a large clerical state in eastern Kasmora ruled by the Hierophant, whose office unites royal and religious authority. It presents itself as the purest political embodiment of Delistanism, but is widely regarded by its rivals as rigid, coercive, and ideologically expansionist.
 
+![Political map crop of the Dukanese Theocracy](../assets/maps/dukan-map.png)
+
 ## Political character
 
 Dukan claims legitimacy through religious purity and centralized clerical sovereignty. In practice, this gives the state a strong ideological core but also imposes structural strain. A regime that insists on doctrinal authority in all things can command intense obedience, yet it also narrows its room for compromise and multiplies the cost of internal dissent.

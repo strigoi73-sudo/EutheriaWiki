@@ -2,6 +2,8 @@
 
 Tengc is an old northern empire in Valthera whose prestige and title exceed the density of its actual administrative core. It presents itself as the oldest of the modern Valtheran states, and is best understood as a sparse fishery-centered confederated realm whose real strength lies along its southern and southeastern coasts rather than across the full breadth of its imperial map.
 
+![Political map crop of Tengc](../assets/maps/tengc-map.png)
+
 ## Geography and settlement
 
 Tengc occupies a large northern Valtheran space, but much of that territory is cold frontier: broken coasts, forest margins, islands, and thinly settled northern land. Its meaningful political and economic life is concentrated in the more connected southern and southeastern belt.

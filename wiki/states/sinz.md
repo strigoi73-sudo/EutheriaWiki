@@ -2,6 +2,8 @@
 
 Sinz is a German-led territorial corridor republic centered on Fisch, whose power rests on broad interior agrarian depth, legal-administrative control of roads and customs, full maritime access through its southern Castillian coast, and leverage over the foreland approach network leading toward the dwarven mountain routes.
 
+![Political map crop of Sinz](../assets/maps/sinz-map.png)
+
 ## Core identity
 
 Sinz is one of the two dominant western powers of Nereth, paired with [Lienia](lienia.md) but projecting a sharper and more openly assertive political style inside the western balance.

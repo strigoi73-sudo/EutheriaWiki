@@ -2,6 +2,8 @@
 
 The Commonwealth of Sipharan is a fellowship-shaped republic in southern Kasmora whose civic identity is deeply intertwined with [Rawranism](../religions/rawranism.md). Though small (about 851,000 people across 10 burgs), it remains politically durable through federal institutions and cohesive civic culture.
 
+![Political map crop of Sipharan](../assets/maps/sipharan-map.png)
+
 ## Political character
 
 Sipharan is a federated commonwealth composed of republics, cantons, territories, and related autonomous units. Its authority is distributed, institutional, and procedural rather than dynastic or overtly imperial.

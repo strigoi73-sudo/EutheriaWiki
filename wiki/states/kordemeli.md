@@ -2,6 +2,8 @@
 
 Kordemeli is a large northern khaganate in Kasmora and one of the continent's major land powers. It is politically Turkish in character but culturally composite, ruling a broad imperial space that includes Likian subject populations alongside Ayedist and Skrosenist communities.
 
+![Political map crop of Kordemeli](../assets/maps/kordemeli-map.png)
+
 ## Political character
 
 Kordemeli is durable because it governs pragmatically. Its authority rests on hierarchy, military command, and loyalty to the Khagan, but it does not attempt to erase every local system it absorbs.

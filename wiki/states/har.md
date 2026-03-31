@@ -2,6 +2,8 @@
 
 The Kingdom of Har is a prosperous and conservative monarchy in southern Kasmora, associated with stable kingship, material productivity, and the monarchical expression of [Rawranism](../religions/rawranism.md). It is defined less by expansion than by continuity, export capacity, and institutional durability.
 
+![Political map crop of Har](../assets/maps/har-map.png)
+
 ## Political character
 
 Har is widely regarded as a stable kingdom whose institutions favor continuity over disruption. Its monarchy draws legitimacy not only from dynastic rule, but from a broader civilizational alignment between kingship, ordered administration, and the moral language of Rawran public life.

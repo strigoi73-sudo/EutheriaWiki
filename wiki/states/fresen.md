@@ -2,6 +2,8 @@
 
 Fresen is a small German-led coastal grand duchy occupying the littoral hinge between Lienia and Sinz, sustained by moderate ports, a compact productive interior, and the inherited legitimacy of being the surviving coastal demesne of the old western kingdom from which republican Sinz emerged.
 
+![Political map crop of Fresen](../assets/maps/fresen-map.png)
+
 ## Core identity
 
 Fresen is not a third western great power alongside Lienia and Sinz. It is a secondary but durable western state whose identity rests on dynastic continuity, coastal usefulness, and respectable survival rather than large-scale strategic dominance.

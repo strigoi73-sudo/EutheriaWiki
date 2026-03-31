@@ -2,6 +2,8 @@
 
 The Kingdom of Hawa is Kasmora's premier Arabic maritime trading kingdom. Its strength lies not in sweeping land conquest, but in ports, shipping, commercial coordination, and the institutions needed to turn sea access into sustained wealth.
 
+![Political map crop of Hawa](../assets/maps/hawa-map.png)
+
 ## Political and economic character
 
 Hawa is outward-facing, cohesive, and strongly oriented toward maritime exchange. Political and economic weight are concentrated in harbor cities, fortified ports, merchant networks, and the institutions that keep seaborne trade moving efficiently.
