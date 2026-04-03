@@ -24,6 +24,8 @@ In **934 LC**, the larger inland body broke with the crown and reorganized as [S
 
 [Lienia](../states/lienia.md) is the clearest maritime gateway power of the region, [Sinz](../states/sinz.md) is the clearest inland-commercial and expansionist western power, [Fresen](../states/fresen.md) is the surviving coastal dynastic remnant of the old western kingdom, and [Bramia](../states/bramia.md) is the northern transfer duchy linking coastal and inland movement.
 
+The region's northwestern edge grades into a more openly Nordic zone. [Laups](../states/laups.md) is the broad upland kingdom anchoring that shoulder, while [Garka](../states/garka.md) is a tiny but cohesive coastal polity that survives through defensibility, local cohesion, and low annexation value.
+
 ## Regional summary
 
 Western Maritime Nereth is the continent's rising broker coast: a western English-German commercial belt whose power comes from ports, redistribution, corridor logic, dynastic survivals, and the rerouting of Likian trade.
@@ -33,7 +35,9 @@ Western Maritime Nereth is the continent's rising broker coast: a western Englis
 - [Bramia](../states/bramia.md)
 - [Dwarven Mountain Hinge](dwarven-mountain-hinge.md)
 - [Fresen](../states/fresen.md)
+- [Garka](../states/garka.md)
 - [Lienia](../states/lienia.md)
+- [Laups](../states/laups.md)
 - [Nereth](nereth.md)
 - [Nordic Northwest](nordic-northwest.md)
 - [Sinz](../states/sinz.md)
