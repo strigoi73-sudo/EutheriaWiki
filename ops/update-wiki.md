@@ -102,15 +102,16 @@ For each processed update document:
 - create new pages where required
 - add cross-links using normal Markdown links
 - update relevant category index pages whenever new pages are added
-- when a usable source map exists for a state or continent article touched in the run, add or update a cropped wiki-ready map for that article when practical
+- when a usable source map exists for a touched state, continent, or major region article, add or refresh a cropped wiki-ready map excerpt for that article when practical
 
 ## Map rules
 
 - Raw source maps live in `source_assets/maps/`.
 - Wiki-ready map crops live in `wiki/assets/maps/`.
-- Prefer cropped state or continent maps over embedding a full world map.
+- Prefer cropped state, continent, or major-region maps over embedding a full world map.
 - State pages should normally receive a political map crop when a clear crop is possible from the available source map.
 - Continent pages should normally receive a continent crop when a clear crop is possible from the available source map.
+- Major region pages should normally receive a regional crop when a clear crop is possible from the available source map.
 - Insert maps near the top of the article, normally just after the lead.
 - Use lowercase hyphenated filenames.
 - If no usable crop is possible from the available source map, continue the wiki update without inventing or forcing a low-value image.

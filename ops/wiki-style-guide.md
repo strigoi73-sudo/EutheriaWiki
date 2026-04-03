@@ -32,6 +32,7 @@ This guide defines the default editorial rules for structural cleanup and future
 
 - Lead: scale and defining role.
 - Continent pages should normally include a continent map crop near the top when a usable source map exists.
+- Major region pages should normally include a regional map crop near the top when a usable source map exists and the article does not already have an adequate map.
 - Physical or structural geography.
 - Settlement, economy, or strategic significance as needed.
 - Regional subdivisions or internal logic where helpful.
@@ -71,7 +72,7 @@ This guide defines the default editorial rules for structural cleanup and future
 
 - Raw source maps belong in `source_assets/maps/`.
 - Wiki-ready map crops belong in `wiki/assets/maps/`.
-- Prefer cropped state and continent maps over embedding a full world map.
+- Prefer cropped state, continent, and major-region maps over embedding a full world map.
 - Use lowercase hyphenated filenames for map assets.
 - Place article maps near the top of the article unless a different placement is clearly better.
 

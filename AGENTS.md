@@ -41,12 +41,13 @@ When executing `Update Wiki`, you must do all of the following:
 
 8. Update relevant category index pages whenever new articles are created.
 
-9. When a state or continent article has a usable source map available, prefer adding a cropped wiki-ready map to that article.
+9. When updating or creating a state, continent, or major region article, add or refresh a cropped wiki-ready map excerpt when a usable source map exists and the article does not already have an adequate map.
 
    - Use source files from `source_assets/maps/`.
    - Save wiki-ready crops in `wiki/assets/maps/`.
    - State pages should normally receive a political map crop when the source map supports a clear crop.
    - Continent pages should normally receive a continent crop when the source map supports it.
+   - Major region pages should normally receive a regional crop when the source map supports a clear crop.
    - Prefer cropped regional/state maps over embedding a full world map.
    - Keep filenames lowercase and hyphenated.
 
