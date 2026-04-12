@@ -1,10 +1,12 @@
 # Glossary
 
-Short reference pages for recurring terms, eras, and cosmological vocabulary.
+The glossary collects recurring terms, eras, and world concepts that appear across multiple sections of the wiki and benefit from concise reference treatment. It is not meant to replace larger articles. Its role is to help readers keep their footing when a term recurs in geography, history, religion, and cosmology with more weight than an unfamiliar reader can easily infer from context alone.
 
-The glossary supports the rest of the wiki by collecting concepts that appear across multiple sections and benefit from quick clarification. It is particularly helpful when moving between [History](../history/index.md), [Religions](../religions/index.md), and [Cosmology](../cosmology/index.md), where a small number of recurring terms carry a great deal of interpretive weight.
+## Using the Glossary
 
-[Likian Calendar](likian-calendar.md) helps orient chronology, [Oceanus Centralis](oceanus-centralis.md) anchors world geography, and [Kenoma](kenoma.md) and [Pleroma](pleroma.md) provide concise explanations of two of the setting's most important metaphysical terms. The glossary is meant to stay selective, serving as a bridge into larger articles rather than replacing them.
+Some glossary entries are primarily orienting tools. [Likian Calendar](likian-calendar.md) helps readers place dates and period labels, while [Oceanus Centralis](oceanus-centralis.md) provides a quick anchor for the world's central maritime system. Other entries carry deeper conceptual weight. [Kenoma](kenoma.md) and [Pleroma](pleroma.md) appear repeatedly in cosmological and religious writing, and understanding them makes a large portion of the wiki easier to follow.
+
+The glossary works best as a bridge between sections. Readers moving between [History](../history/index.md), [Religions](../religions/index.md), and [Cosmology](../cosmology/index.md) will encounter a small number of terms whose meanings matter disproportionately. This section exists to keep those terms accessible without overloading every article that uses them.
 
 ## Articles
 

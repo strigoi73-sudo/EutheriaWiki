@@ -1,10 +1,16 @@
 # Cultures
 
-The current encyclopedia presents most cultural material inside broader state, religion, and peoples articles rather than as fully separate culture pages.
+The current encyclopedia embeds most cultural material inside state, religion, and peoples articles rather than separating it into a large independent ethnographic section. That does not mean culture is absent. It means culture in Eutheria is usually encountered where it is lived: in political institutions, ritual expectations, social tone, household religion, and inherited attitudes toward land, kinship, trade, and authority.
 
-That means culture in Eutheria is often best understood through overlap rather than through isolated ethnographic entries. Regional life, inherited custom, political structure, and religious practice are tightly intertwined, so many of the strongest cultural articles sit elsewhere in the wiki and need to be read together rather than in isolation.
+## Culture as Overlap
 
-For broad cultural orientation, [Likia](../states/likia.md), [Lienia](../states/lienia.md), and [Sinz](../states/sinz.md) show how state formation and identity can produce very different social worlds. [Skrosenism](../religions/skrosenism.md) and the [Brinese Order](../religions/brinese-order.md) are especially useful for seeing how institutions of belief and moral order shape everyday norms, hierarchy, and civilizational self-understanding. Readers should also cross-reference [Peoples](../peoples/index.md) and [Geography](../geography/index.md) when they want a fuller sense of how lineage, landscape, and custom interlock.
+Culture in Eutheria is rarely reducible to ancestry alone. The same people may produce very different social forms in a maritime republic, an upland kingdom, or a sacred theocracy. Religious tradition also matters enormously. In many parts of the setting, everyday norms are shaped as much by the dominant temple culture or moral order as by language family or race.
+
+This is why the strongest cultural overviews are often found outside this section. [Likia](../states/likia.md) presents a maritime-commercial culture shaped by guilds, naval life, and Skrosenist inheritance. [Lienia](../states/lienia.md) shows a coastal monarchy with sharply different regional faces, while [Sinz](../states/sinz.md) reveals a harder civic-commercial society whose internal cultural layers matter politically. [Skrosenism](../religions/skrosenism.md) and the [Brinese Order](../religions/brinese-order.md) are also essential reading because they show how faith can structure manners, hierarchy, memory, and communal life across very different places.
+
+## Reading Culture in the Wiki
+
+Readers should treat this section as a guide to where cultural synthesis currently lives rather than as a complete standalone atlas. [Peoples](../peoples/index.md) explains broad lineage, [Geography](../geography/index.md) explains environmental setting, and [States](../states/index.md) often provide the most concrete account of how a society actually organizes itself. Culture in Eutheria is therefore best understood through convergence: people, place, religion, and historical experience meeting in the same community.
 
 For now, the strongest cultural overviews are:
 
