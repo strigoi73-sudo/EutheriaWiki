@@ -10,6 +10,12 @@ The See is the surviving rump of the old Kingdom of Xin Guo, once the great Valt
 
 Its present identity is therefore built from defeat, grievance, religious authority, and disciplined adaptation.
 
+## Institutions and influence
+
+The See's public order is built around clergy, schools, archives, diplomacy, and ecclesiastical administration rather than around monarchy or fleet power. It projects influence through educated clergy, confessional networks, doctrinal refinement, and intelligence rather than through open military strength.
+
+This makes the See small in territory but formidable in reach. It cannot compel larger neighbors by fleet or field army, but it can shape minds, correspondence, and courtly religious life across much of the wider Xinchang world.
+
 ## Related
 
 - [Kaihui](kaihui.md)

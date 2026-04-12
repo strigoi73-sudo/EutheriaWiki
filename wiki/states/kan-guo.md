@@ -8,6 +8,12 @@ Kan Guo is a Tengcian monarchy of eastern Valthera whose importance lies in dens
 
 Kan Guo is hereditary, landed, agrarian, and coast-facing. Its crown is stronger than many nobles would prefer, but the kingdom still reads as a normal and effective monarchy rather than a frontier experiment or treaty-remnant.
 
+That normality is part of what makes it dangerous. In a field shaped by unusual institutions, Kan Guo's combination of agrarian depth, usable coast, and internal cohesion gives it the practical strengths of a functioning feudal state.
+
+## Internal history and strategy
+
+The kingdom is old enough to preserve historical irregularities, most notably the enclosed Duchy of Fuz Guo, which preserves an older layer of feudal privilege inside the realm. Strategically, Kan Guo has reason to watch [Kaihui](kaihui.md), [Han Guo](han-guo.md), and the southeastern littoral closely, with Kaihui's wealth making it the most obvious object of temptation.
+
 ## Related
 
 - [Kaihui](kaihui.md)

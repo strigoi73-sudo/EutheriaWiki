@@ -10,9 +10,13 @@ Garkan life is organized through the Four Winds, a tribal-sacral order in which 
 
 Its sacred ruler is chosen through lot after interregnum rather than through normal dynastic or elective politics.
 
+This makes Garka internally something other than the "duchy" outsiders call it. In native terms it is a communal tribal-sacral polity whose cohesion matters more than its scale.
+
 ## Religious prestige
 
 Garka is universally acknowledged as the legendary birthplace of [Skrosenism](../religions/skrosenism.md), even though the precise founding geography has been lost. The oldest active Skrosenist temples stand in and around Raudar.
+
+That founding association gives Garka prestige far beyond its political weight. Pilgrims, clergy, and traditionalists across the Skrosenist world treat it as sacred ground even when they regard the state itself as rustic or minor.
 
 ## Related
 

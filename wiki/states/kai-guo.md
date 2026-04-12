@@ -10,6 +10,12 @@ Kai Guo is not ruled by a monarch or popular assembly. Instead it is governed by
 
 Its survival depends on remaining useful, balanced, and administratively competent.
 
+## Strategic role and public tone
+
+Its importance comes from position rather than territorial scale. Whoever manages these waters can inspect, tax, protect, or delay movement between the southern watershed and the sea.
+
+Kai Guo is proud of the idea that rival powers can submit shared necessity to law and procedure rather than conquest, but that pride is always tempered by the knowledge that larger neighbors could still unmake the arrangement if it ceased to be useful.
+
 ## Related
 
 - [Kaihui](kaihui.md)

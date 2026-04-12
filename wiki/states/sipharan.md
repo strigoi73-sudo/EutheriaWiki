@@ -12,6 +12,12 @@ Sipharan is not a smaller version of [Har](har.md). It is a structurally differe
 
 The commonwealth is exceptionally homogeneous in both culture and religion. That uniformity helps explain how autonomous communities can maintain a functioning shared political order without a monarchic center.
 
+Its republics, cantons, territories, and associated communities are held together by federal agreement rather than dynastic rule. The Rawran Society is therefore not merely Sipharan's faith, but one of the key social foundations that makes self-governing cohesion possible.
+
+## Geopolitical situation
+
+Sipharan is geographically enclosed within the wider Haran world and invests heavily in prudent self-protection for a state of its size. Its continued independence matters because it represents a fundamentally different answer to Rawran political life than Har's comfortable feudal monarchy.
+
 ## Related
 
 - [Har](har.md)

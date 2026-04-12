@@ -12,6 +12,8 @@ Fresen is the remaining personal demesne of the ruling house of the old western 
 
 The duchy is local, dynastic, and proper: more conservative and personal than Sinz, less broad and crown-heavy than [Lienia](lienia.md), and chiefly concerned with orderly autonomy between stronger neighbors.
 
+Its geography supports that role. Fresen is a modest but real littoral state with usable inlets, small islands, and enough interior to remain a proper territorial duchy rather than a ceremonial remnant. It survives because preserving it often proves less disruptive than absorbing it.
+
 ## Related
 
 - [Lienia](lienia.md)

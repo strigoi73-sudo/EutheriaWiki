@@ -10,6 +10,12 @@ The kingdom sits between several important powers and controls some of the comme
 
 Its shoreline is especially important because it appears to provide the easiest lower outlet to the sea.
 
+## Economy and tone
+
+Guan Guo likely profits from customs, warehousing, river policing, escorted movement, and transshipment between inland and coastal routes. It also appears to possess a productive interior of its own, making it more than a toll-taker living only off passing cargo.
+
+Politically, it reads as orderly, transactional, and quietly strategic. Its importance comes from making movement predictable, taxable, and difficult to bypass.
+
 ## Related
 
 - [Han Guo](han-guo.md)

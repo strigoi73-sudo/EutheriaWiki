@@ -12,6 +12,12 @@ Tengc's settled core lies in its southern and southeastern coastal belt. Farther
 
 It is best understood as a northern coastal confederation with an older clan-based structure, not as a classic agrarian empire.
 
+Its imperial dignity reflects antiquity and seniority more than dense centralized control. Family clans choose regional chiefs, and those chiefs elect an emperor, which suits a world of long distances, sparse frontiers, and unevenly governable coasts.
+
+## Economy and maritime life
+
+Tengc's economy appears centered on fisheries, timber, and the practical products of a cold-water maritime world. Its naval strength is real but specialized, strongest in coastal patrol, convoying, and difficult seamanship rather than blue-water supremacy.
+
 ## Related
 
 - [Guan Guo](guan-guo.md)

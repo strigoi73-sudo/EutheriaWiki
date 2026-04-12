@@ -12,6 +12,14 @@ Before the war, Kaihui was a kingdom closely tied to Xin Guo's maritime order. A
 
 Kaihui is neither a true maritime power nor a purely inland realm. Its coasts matter, but its wealth remains grounded more in plains, valleys, and horse-breeding districts than in fleets.
 
+Kaihui is one of the major food-producing states of eastern Valthera, and its horse culture is not ornamental. Valtheran Thoroughbreds are a national inheritance and a pillar of identity, not merely an export commodity.
+
+## Society and foreign posture
+
+Kaihui remains conservative, communal, and strongly shaped by older horse-clan habits. Local loyalty, lineage, elders, and customary authority often matter more in daily life than republican abstractions.
+
+In foreign affairs, the republic is defensive and wary. It prefers managed balances, remembers the postwar settlement with resentment, and has strong reason to view [Kan Guo](kan-guo.md) as its most obvious long-term danger.
+
 ## Related
 
 - [Kan Guo](kan-guo.md)
