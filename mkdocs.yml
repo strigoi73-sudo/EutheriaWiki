@@ -1,5 +1,7 @@
 site_name: Eutheria Wiki
 docs_dir: wiki
+extra_javascript:
+  - assets/js/gm-gate.js
 
 nav:
   - Home: index.md
