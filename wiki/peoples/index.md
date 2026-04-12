@@ -17,6 +17,17 @@ For campaign use, this section works best as a broad orientation rather than a c
 ## Articles
 
 - [Common Origins](common-origins.md)
+- [Creature Origins](creature-origins.md)
 - [Deep Folk](deep-folk.md)
 - [Dragons](dragons.md)
+- [Drow](drow.md)
+- [Dwarves](dwarves.md)
+- [Elves](elves.md)
+- [Gnomes](gnomes.md)
+- [Half-Orcs](half-orcs.md)
+- [Halflings](halflings.md)
+- [Humans](humans.md)
 - [Humanoid Lineages](humanoid-lineages.md)
+- [Hryngar](hryngar.md)
+- [Orcs](orcs.md)
+- [Other Creature Types](other-creature-types.md)
