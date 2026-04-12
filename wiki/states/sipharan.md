@@ -16,9 +16,12 @@ Its republics, cantons, territories, and associated communities are held togethe
 
 ## Geopolitical situation
 
-Sipharan is geographically enclosed within the wider Haran world and invests heavily in prudent self-protection for a state of its size. Its continued independence matters because it represents a fundamentally different answer to Rawran political life than Har's comfortable feudal monarchy.
+Sipharan occupies a sheltered inner-gulf position, but it is not enclosed on three sides by [Har](har.md). It borders Har to the north and northeast, [Haria](haria.md) to the east, and remains open to the gulf to the south and southwest.
+
+Its continued independence matters because it represents a fundamentally different answer to Rawran political life than Har's comfortable feudal monarchy. The commonwealth invests in prudent self-protection not because it is literally sealed inside Har, but because it remains a small self-governing polity between larger neighbors.
 
 ## Related
 
 - [Har](har.md)
+- [Haria](haria.md)
 - [Kasmora](../geography/kasmora.md)

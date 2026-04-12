@@ -20,6 +20,7 @@ This section is therefore best approached as more than a catalog of beliefs. It 
 
 ## Articles
 
+- [Altavism](altavism.md)
 - [Ayedism](ayedism.md)
 - [Brinese Order](brinese-order.md)
 - [Delistanism](delistanism.md)

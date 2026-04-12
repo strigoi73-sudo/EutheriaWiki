@@ -6,7 +6,7 @@ The Fon is a lightly settled Alaian confederated land-sphere whose political uni
 
 ## Political character
 
-The Sotenar of the Fon holds a chief coordinating office tied to the common city of Sotenadabue, but authority remains thin and focused on what the confederation actually shares: roads, tolls, trade, and limited inter-tribal coordination.
+The Sotenar of the Fon holds a chief coordinating office tied to the common city of **Lemeingo**, but authority remains thin and focused on what the confederation actually shares: roads, tolls, trade, and limited inter-tribal coordination.
 
 The Fon should not be understood as an empire or dense monarchy. Its political order is territorial, customary, and locally entrenched. Most daily governance remains with local rulers, chiefs, kings, and other sub-polity authorities rather than with a constantly present central state.
 
@@ -18,7 +18,10 @@ That structure fits the land itself. The Fon is difficult to centralize not beca
 
 To neighboring powers, the Fon matters less as a conquering threat than as a persistent cultural fact. Its importance to [Sinz](sinz.md) lies especially in the way it serves as a southern Alaian reference point for the republic's own Alaian populations.
 
+The Fon also helps clarify the Alaian religious world. It is Brinese-majority in public religious character, which should not be mistaken to mean that every Alaian-majority polity is simply reducible to a single state-level Altavist identity.
+
 ## Related
 
+- [Alaia](alaia.md)
 - [Brinese Order](../religions/brinese-order.md)
 - [Sinz](sinz.md)

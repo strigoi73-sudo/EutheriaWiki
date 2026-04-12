@@ -22,6 +22,7 @@ For that reason, state articles are among the best campaign-facing entry points 
 
 ## Articles
 
+- [Alaia](alaia.md)
 - [Bramia](bramia.md)
 - [Cheonguk](cheonguk.md)
 - [Dukanese Theocracy](dukan.md)
