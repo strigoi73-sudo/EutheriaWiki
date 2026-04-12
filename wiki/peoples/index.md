@@ -1,14 +1,5 @@
 # Peoples
 
-The peoples of Eutheria are historical communities shaped by lineage, migration, language, religion, geography, and political memory. They are not merely demographic subsets of states.
+This section is being rebuilt from the current encyclopedia.
 
-This section treats peoples as enduring communities across changing political borders.
-
-## Articles
-
-- [Berbers of Kasmora](berbers-of-kasmora.md)
-- [Deep Folk](deep-folk.md)
-- [Dragons](dragons.md)
-- [Dwarves of Valthera and Nereth](dwarves-of-valthera-and-nereth.md)
-- [Humanoid Lineages of Eutheria](humanoid-lineages.md)
-- [Likians](likians.md)
+Peoples and lineage pages will be recreated from the rebuilt canon structure.

@@ -1,25 +1,5 @@
 # Religions
 
-Religion in Eutheria is not confined to private belief. Faith traditions shape law, legitimacy, education, pilgrimage, diplomacy, and the moral language through which communities understand authority and obligation.
+This section is being rebuilt from the current encyclopedia.
 
-This section documents religions as lived and institutional systems: what they teach, how they are organized, where they are strongest, and how they interact with states and cultures.
-
-## Major patterns
-
-- Some traditions primarily shape civic order, education, and legitimacy rather than conquest or proselytizing.
-- The same religion can appear in sharply different political forms depending on the state that embodies it.
-- Sacred geography matters. Pilgrimage routes, holy cities, and protected territories can become major political realities.
-- Religious identity often overlaps with cultural and civilizational identity, but the two are not always identical.
-
-## Articles
-
-- [Ayedism](ayedism.md)
-- [Delistanism](delistanism.md)
-- [Eastern Nereth Religious Landscape](eastern-nereth-religious-landscape.md)
-- [Kasmoran Religious Landscape](kasmoran-religious-landscape.md)
-- [Old Roman Beliefs](old-roman-beliefs.md)
-- [Rawranism](rawranism.md)
-- [Roman Beliefs](roman-beliefs.md)
-- [Rocciaganel Church](rocciaganel-church.md)
-- [Taizhouism](taizhouism.md)
-- [Tongj Apostates](tongj-apostates.md)
+Religious pages will be recreated from the new canon structure rather than carried forward from the previous wiki.

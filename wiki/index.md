@@ -1,27 +1,24 @@
 # Eutheria Wiki
 
-The Eutheria Wiki is a browsable reference for the world of Eutheria. It is organized as a canon guide: concise enough to navigate quickly, but written to preserve the explanatory tone, historical weight, and causal texture of the larger encyclopedia.
+The Eutheria Wiki is being rebuilt from the current authoritative encyclopedia.
 
-Eutheria is a pre-industrial fantasy world shaped by four major continents, the maritime routes of Oceanus Centralis, a multi-planar cosmology, and a political landscape still living through the Age of Fracture that followed the collapse of the Veltric Empire. Most of the world remains rural, but trade corridors, religious institutions, old imperial systems, and strategic chokepoints give a small number of states influence far beyond their size.
+This temporary skeleton keeps the published site navigable while the old canon structure is cleared and the new canon is re-ingested from scratch.
 
-## How to use this wiki
+## Current state
 
-Readers looking for a starting point should begin with the broad structural pages and then move into regional or thematic articles.
+- Public-facing lore pages are being reconstructed section by section.
+- The GM Section will also be rebuilt from scratch from encyclopedia GM-only material.
+- Legacy page structure and article naming are no longer being treated as binding.
 
-- **Geography** introduces the continents, biomes, and strategic maritime spaces.
-- **States** covers the major powers and political systems of the present age.
-- **Religions** explains the traditions that shape law, legitimacy, and everyday practice.
-- **Cosmology** summarizes the metaphysical structure of existence in Eutheria.
-- **History**, **Cultures**, **Places**, **Peoples**, and **Glossary** provide expanding reference coverage from deep prehistory through current geopolitics.
+## Available sections
 
-## Recommended starting articles
-
-- [Age of Fracture](history/age-of-fracture.md)
-- [Chronology of Eutheria](history/chronology-of-eutheria.md)
-- [Great Catastrophe and the Battle of Trelhelm](history/great-catastrophe-and-trelhelm.md)
-- [Kasmora](geography/kasmora.md)
-- [Likia](states/likia.md)
-- [Rawranism](religions/rawranism.md)
-- [The First Moment](cosmology/first-moment.md)
-- [Valthera](geography/valthera.md)
-- [World of Eutheria](geography/world-of-eutheria.md)
+- [Geography](geography/index.md)
+- [History](history/index.md)
+- [States](states/index.md)
+- [Cultures](cultures/index.md)
+- [Religions](religions/index.md)
+- [Places](places/index.md)
+- [Peoples](peoples/index.md)
+- [Cosmology](cosmology/index.md)
+- [Glossary](glossary/index.md)
+- [GM Section](gm/index.md)

@@ -8,6 +8,7 @@ Raw source maps belong in `source_assets/maps/`.
 Wiki-ready map crops belong in `wiki/assets/maps/`.
 
 If the user says exactly `Update Wiki`, execute the workflow in `ops/update-wiki.md`.
+If the user says exactly `Rebuild Wiki`, execute the workflow in `ops/rebuild-wiki.md`.
 
 For editorial cleanup and structural consistency work, follow `ops/wiki-style-guide.md`.
 

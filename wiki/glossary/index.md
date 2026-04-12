@@ -1,10 +1,5 @@
 # Glossary
 
-The glossary defines shared terms, names, and concepts that recur across the Eutheria Wiki. Entries are concise definitions that support navigation into fuller articles.
+This section is being rebuilt from the current encyclopedia.
 
-## Entries
-
-- [Kenoma](kenoma.md)
-- [Likian Calendar](likian-calendar.md)
-- [Oceanus Centralis](oceanus-centralis.md)
-- [Pleroma](pleroma.md)
+Reference terms will be restored after the new article set and terminology stabilize.
