@@ -1,5 +1,9 @@
 # Places
 
-This section is being rebuilt from the current encyclopedia.
+This section covers especially important cities, sacred sites, and campaign-scale settlements that matter beyond the normal level of state description.
 
-Settlement and place pages will be recreated as needed from the rebuilt canon structure.
+## Articles
+
+- [Marcici](marcici.md)
+- [Thornwick](thornwick.md)
+- [Tuwaid](tuwaid.md)

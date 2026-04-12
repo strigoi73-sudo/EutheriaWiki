@@ -1,5 +1,35 @@
 # States
 
-This section is being rebuilt from the current encyclopedia.
+The states of Eutheria are shaped by geography, trade access, religion, and the long aftereffects of older imperial and civilizational orders. Some are large agrarian powers, others strategic coastal or sacred polities whose importance far exceeds their land area.
 
-State articles will be recreated from scratch during the rebuild. Rebuilt state pages should include cropped political map excerpts when a usable source map exists.
+## Articles
+
+- [Bramia](bramia.md)
+- [Cheonguk](cheonguk.md)
+- [Dukanese Theocracy](dukan.md)
+- [Fon](fon.md)
+- [Fresen](fresen.md)
+- [Garka](garka.md)
+- [Guan Guo](guan-guo.md)
+- [Hamcheon](hamcheon.md)
+- [Han Guo](han-guo.md)
+- [Har](har.md)
+- [Haria](haria.md)
+- [Hawa](hawa.md)
+- [Hayanguk](hayanguk.md)
+- [Kaihui](kaihui.md)
+- [Kan Guo](kan-guo.md)
+- [Kordemelian Khaganate](kordemeli.md)
+- [Laups](laups.md)
+- [Lienia](lienia.md)
+- [Likia](likia.md)
+- [Longlin Guo](longlin-guo.md)
+- [Marches of Kai Guo](kai-guo.md)
+- [Polbium Theocracy](polbium-theocracy.md)
+- [Quz Guo](quz-guo.md)
+- [Sala](sala.md)
+- [See of Xin Guo](xin-guo.md)
+- [Sinz](sinz.md)
+- [Sipharan](sipharan.md)
+- [Tengc Empire](tengc.md)
+- [Yan](yan.md)

@@ -1,5 +1,16 @@
 # Geography
 
-This section is being rebuilt from the current encyclopedia.
+This section covers the physical world of Eutheria: its continents, major regions, maritime chokepoints, and the broad environmental conditions that shape settlement, trade, and political life.
 
-Continent, region, and world-structure articles will be recreated during the rebuild. Where appropriate, rebuilt continent and major-region pages will include fresh cropped map excerpts derived from the source map set.
+## Articles
+
+- [Biomes of Eutheria](biomes-of-eutheria.md)
+- [Central Island Chain](central-island-chain.md)
+- [Dudbury](dudbury.md)
+- [Golsta](golsta.md)
+- [Kasmora](kasmora.md)
+- [Nereth](nereth.md)
+- [Rombevenia](rombevenia.md)
+- [Valthera](valthera.md)
+- [Western Maritime Nereth](western-maritime-nereth.md)
+- [World of Eutheria](world-of-eutheria.md)

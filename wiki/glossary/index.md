@@ -1,5 +1,10 @@
 # Glossary
 
-This section is being rebuilt from the current encyclopedia.
+Short reference pages for recurring terms, eras, and cosmological vocabulary.
 
-Reference terms will be restored after the new article set and terminology stabilize.
+## Articles
+
+- [Kenoma](kenoma.md)
+- [Likian Calendar](likian-calendar.md)
+- [Oceanus Centralis](oceanus-centralis.md)
+- [Pleroma](pleroma.md)

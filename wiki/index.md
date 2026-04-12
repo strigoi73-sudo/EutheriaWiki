@@ -1,16 +1,10 @@
 # Eutheria Wiki
 
-The Eutheria Wiki is being rebuilt from the current authoritative encyclopedia.
+Eutheria is a pre-industrial fantasy world shaped by oceanic trade, regional religious traditions, ancient catastrophes, and a still-deepening post-imperial fracture. Its known world is organized around four major continents, the maritime system of Oceanus Centralis, and a long history that reaches from the age of dragons to the unsettled present of 1026 LC.
 
-This temporary skeleton keeps the published site navigable while the old canon structure is cleared and the new canon is re-ingested from scratch.
+This wiki contains both public encyclopedic lore and a separate published GM section for hidden truths, campaign secrets, and explanatory canon that does not belong in player-facing material.
 
-## Current state
-
-- Public-facing lore pages are being reconstructed section by section.
-- The GM Section will also be rebuilt from scratch from encyclopedia GM-only material.
-- Legacy page structure and article naming are no longer being treated as binding.
-
-## Available sections
+## Sections
 
 - [Geography](geography/index.md)
 - [History](history/index.md)
@@ -21,4 +15,3 @@ This temporary skeleton keeps the published site navigable while the old canon s
 - [Peoples](peoples/index.md)
 - [Cosmology](cosmology/index.md)
 - [Glossary](glossary/index.md)
-- [GM Section](gm/index.md)

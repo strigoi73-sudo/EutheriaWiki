@@ -1,5 +1,11 @@
 # Cosmology
 
-This section is being rebuilt from the current encyclopedia.
+Eutherian cosmology describes the structure of reality, the planes, the soul cycle, the divine order, and the outer threat represented by the Kenoma and the Great Old Ones.
 
-Cosmology pages will be recreated carefully so public and GM-only metaphysical material remain properly separated.
+## Articles
+
+- [Divine Power and Magic](divine-power-and-magic.md)
+- [First Moment and the Structure of Reality](first-moment-and-the-structure-of-reality.md)
+- [Kenoma and the Outer Gods](kenoma-and-the-outer-gods.md)
+- [Planes of Eutheria](planes-of-eutheria.md)
+- [Souls and the Cycle of Existence](souls-and-the-cycle-of-existence.md)

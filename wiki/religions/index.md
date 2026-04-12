@@ -1,5 +1,13 @@
 # Religions
 
-This section is being rebuilt from the current encyclopedia.
+Religion in Eutheria ranges from broad organized pantheons to region-bound traditions and state-linked churches. In many parts of the world, religious affiliation is inseparable from legitimacy, diplomacy, or civilizational identity.
 
-Religious pages will be recreated from the new canon structure rather than carried forward from the previous wiki.
+## Articles
+
+- [Ayedism](ayedism.md)
+- [Brinese Order](brinese-order.md)
+- [Delistanism](delistanism.md)
+- [Eastern Nereth Religious Landscape](eastern-nereth-religious-landscape.md)
+- [Rocciaganel Church](rocciaganel-church.md)
+- [Skrosenism](skrosenism.md)
+- [Taizhouism](taizhouism.md)
